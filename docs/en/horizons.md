@@ -64,11 +64,26 @@ Death, the Collective, and the Divine meet here around a single novelty.
 
 ## The Horizons
 
-- [**Death**](death.md) — what no one can occupy while alive. The first Horizon written.
+- [**Death**](death.md) — what no one can occupy while alive.
+- [**The Divine**](divine.md) — what founds, commands, or judges.
+- [**Dreams**](dreams.md) — what everyone visits every night without being able to inhabit it awake.
+- [**Time**](deep-time.md) — what came before Humanity and will outlive it.
+- [**The Unknown**](unknown.md) — what resists all our categories.
+- [**The Collective**](collective.md) — what we have made together and what now exceeds us.
 
-Other Horizons are planned:
+Other Horizons remain possible, provided they answer the three questions of "Why Agents?".
 
-- **the Divine** — what founds, commands, or judges: angels, demons, spiritual hierarchies;
-- **the Unknown** — what resists all our categories: signals, intelligences from elsewhere;
-- **the Collective** — what we have made and what now exceeds us: Money, Networks, Nation, Communication;
-- **Time** — what came before Humanity and will outlive it.
+## Familiar figures
+
+The figures you already know have their place. They are simply arranged by what exceeds them rather than by genre.
+
+| If you are thinking of… | Look toward… |
+| --- | --- |
+| vampires, ghosts, psychopomps, grim reapers | [Death](death.md) |
+| angels, demons, ancient gods, demigods, prophets | [the Divine](divine.md) |
+| sandmen, nightmares, incubi, dream messengers | [Dreams](dreams.md) |
+| immortals, oracles, the reincarnated, the chosen of destiny | [Time](deep-time.md) |
+| extraterrestrials, hybrids, contactees, cosmic horror | [the Unknown](unknown.md) |
+| new gods of money, media, and nation, spirits of cities | [the Collective](collective.md) |
+
+The same figure can belong to several Horizons depending on what you want to do with it: the vampire is a figure of Death, but an immortal vampire crossing the centuries also looks toward Time.

@@ -1,10 +1,10 @@
 ---
 id: time
-title: Time
+title: Timescales
 description: Choosing the historical scale of a Metaxy campaign.
 ---
 
-# Time
+# Timescales
 
 A **Metaxy** campaign can stay within one period or cross years, centuries or millennia.
 

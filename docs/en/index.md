@@ -49,6 +49,6 @@ Every Agent answers four questions:
 
 - [What This Game Is About](purpose) — what the game explores, and why the players take on Agents.
 - [Core Rules](core-rules) — the common game rules.
-- [Horizons](horizons) — what exceeds us, its Powers, and their Agents. First Horizon: [Death](death).
+- [Horizons](horizons) — what exceeds us, its Powers, and their Agents: [Death](death), [the Divine](divine), [Dreams](dreams), [Time](deep-time), [the Unknown](unknown), [the Collective](collective).
 - [Tones](tones) — different ways to play the same Horizon.
-- [Time](time) — from a single period to campaigns spanning centuries or millennia.
+- [Timescales](time) — from a single period to campaigns spanning centuries or millennia.
