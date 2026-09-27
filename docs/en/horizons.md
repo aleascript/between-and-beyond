@@ -70,6 +70,9 @@ Death, the Collective, and the Divine meet here around a single novelty.
 - [**Time**](deep-time.md) — what came before Humanity and will outlive it.
 - [**The Unknown**](unknown.md) — what resists all our categories.
 - [**The Collective**](collective.md) — what we have made together and what now exceeds us.
+- [**Desire**](desire.md) — what moves us without our having chosen it.
+- [**Destruction**](destruction.md) — what undoes what seemed bound to last.
+- [**Nature**](nature.md) — what lives without us, beyond the edge of the woods.
 
 Other Horizons remain possible, provided they answer the three questions of "Why Agents?".
 
@@ -85,5 +88,8 @@ The figures you already know have their place. They are simply arranged by what 
 | immortals, oracles, the reincarnated, the chosen of destiny | [Time](deep-time.md) |
 | extraterrestrials, hybrids, contactees, cosmic horror | [the Unknown](unknown.md) |
 | new gods of money, media, and nation, spirits of cities | [the Collective](collective.md) |
+| Cupid, muses, bacchantes, ogres | [Desire](desire.md) |
+| berserkers, tricksters, horsemen of the Apocalypse, giant monsters | [Destruction](destruction.md) |
+| werewolves, fae, pixies, korrigans, dryads, undines | [Nature](nature.md) |
 
 The same figure can belong to several Horizons depending on what you want to do with it: the vampire is a figure of Death, but an immortal vampire crossing the centuries also looks toward Time.

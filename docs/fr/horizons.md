@@ -70,6 +70,9 @@ La Mort, le Collectif et le Divin se rencontrent ici autour d'une même nouveaut
 - [**Le Temps**](deep-time.md) — ce qui précède l'Humanité et lui survivra.
 - [**L'Inconnu**](unknown.md) — ce qui résiste à toutes nos catégories.
 - [**Le Collectif**](collective.md) — ce que nous avons fait ensemble et qui nous dépasse désormais.
+- [**Le Désir**](desire.md) — ce qui nous meut sans que nous l'ayons choisi.
+- [**La Destruction**](destruction.md) — ce qui défait ce qui semblait devoir durer.
+- [**La Nature**](nature.md) — ce qui vit sans nous, au-delà de la lisière.
 
 D'autres Horizons restent possibles, à condition de répondre aux trois questions de « Pourquoi des Agents ? ».
 
@@ -85,5 +88,8 @@ Les figures que vous connaissez déjà ont leur place. Elles se rangent simpleme
 | immortels, oracles, réincarnés, élus du destin | [le Temps](deep-time.md) |
 | extraterrestres, hybrides, contactés, horreur cosmique | [l'Inconnu](unknown.md) |
 | nouveaux dieux de l'argent, des médias, de la nation, esprits des villes | [le Collectif](collective.md) |
+| Cupidon, muses, bacchantes, ogres | [le Désir](desire.md) |
+| berserkers, tricksters, cavaliers de l'Apocalypse, monstres géants | [la Destruction](destruction.md) |
+| loups-garous, fées, pixies, korrigans, dryades, ondines | [la Nature](nature.md) |
 
 Une même figure peut appartenir à plusieurs Horizons selon ce qu'on veut en faire : le vampire est une figure de la Mort, mais un vampire immortel qui traverse les siècles regarde aussi vers le Temps.
