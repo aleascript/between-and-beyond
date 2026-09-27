@@ -24,10 +24,13 @@ export default definePublications({
       },
       lineage: {
         designedWith: {
+          label: 'Resonance',
+          href: 'https://aleascript.github.io/resonance/',
+        },
+        poweredBy: {
           label: 'Regard',
           href: 'https://aleascript.github.io/regard/',
         },
-        poweredBy: null,
       },
       size: 'A4',
       theme: 'publication/theme.css',
