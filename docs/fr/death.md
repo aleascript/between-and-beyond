@@ -131,7 +131,7 @@ Le Passage ne retient personne et ne connaît pas le soin : il fait passer. Si M
 
 ## Situations
 
-Les trois formes de situations de **Metaxy** trouvent ici des visages concrets.
+Les [directions](situations.md#ce-qui-met-les-agents-en-mouvement) que peut prendre une Situation trouvent ici des visages concrets.
 
 **Apporter une nouveauté.** Un passeur découvre les soins palliatifs ; un revenant découvre qu'on peut le photographier ; un Assesseur assiste à un procès où l'on juge un vivant pour ce qu'il a fait à un mort.
 

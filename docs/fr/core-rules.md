@@ -42,7 +42,7 @@ Lorsqu'un être déjà lié à une Puissance parvient à la confronter directeme
 
 **Metaxy** utilise une organisation classique de jeu de rôle.
 
-Une personne tient le rôle de **Meneur de jeu (MJ)**. Elle présente le monde, joue ses habitants et ses forces, décrit leurs réactions et pose les conséquences importantes des choix.
+Une personne tient le rôle de **Meneur de jeu (MJ)**. Elle présente le monde, joue ses habitants et ses forces, décrit leurs réactions et pose les conséquences importantes des choix. Les [Situations](situations.md) l'aident à préparer ce qui met les Agents en mouvement.
 
 Les autres participants sont les **joueurs (PJ)**. Chacun incarne généralement un Agent et décide de ce qu'il tente, de ce qu'il dit et de la manière dont il agit.
 

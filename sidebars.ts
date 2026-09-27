@@ -13,6 +13,7 @@ const sidebars: SidebarsConfig = {
       link: {type: 'doc', id: 'horizons'},
       items: ['death', 'divine', 'dreams', 'deep-time', 'unknown', 'collective', 'desire', 'destruction', 'nature'],
     },
+    'situations',
     'tones',
     'time',
     {

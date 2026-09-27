@@ -136,6 +136,14 @@ Outputs are written under `dist/publications/`. The template creates PDF edition
 
 The build uses Vivliostyle CLI. PDF is the required publication format.
 
+A locale may also list `md` in its `outputs`. The builder then writes a single
+plain Markdown file meant for LLMs, without Vivliostyle: every chapter is
+concatenated under the game title, headings move down one level, images and
+cross-page links are dropped (the link text is kept), and admonitions become
+quotes. If `publication/ai/<locale>.md` exists, it is appended as an appendix
+addressed to the AI reading the file; it never appears in the PDF. The header
+points to `site.publicUrl` from `publications.config.mjs`.
+
 To copy a built corpus into an already-built site:
 
 ```bash
@@ -229,7 +237,7 @@ During Semantic Release's `prepare` step,
 `tools/prepare-release.mjs` receives `nextRelease.version`, exposes it as
 `PUBLICATION_VERSION`, rebuilds the complete corpus, builds the site, and copies
 the corpus into `build/downloads/`. `@semantic-release/github` then creates the
-GitHub Release and attaches all PDF files plus `publications.json`.
+GitHub Release and attaches all PDF and Markdown files plus `publications.json`.
 
 WebPub remains website distribution because the current Vivliostyle output is a
 directory rather than a single GitHub Release asset.

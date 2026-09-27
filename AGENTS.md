@@ -30,7 +30,7 @@ Two Powers never confront each other directly: their Agents do. An Agent can ext
 
 ## Horizon pages
 
-Each Horizon page follows the same structure: epigraph, introduction, *Pourquoi des Agents* (the three questions), four Powers with four Attributes each, four Agent families (Bond type, three Bond keywords, "what the figure lets us think"), novelties (*Ce qui apparaît*), an example Agent whose acquired keyword can become a Bond keyword, the three situation forms (bring, contend for, transform one's own Power), tones and time. Distinguish a new Horizon from existing ones where they overlap.
+Each Horizon page follows the same structure: epigraph, introduction, *Pourquoi des Agents* (the three questions), four Powers with four Attributes each, four Agent families (Bond type, three Bond keywords, "what the figure lets us think"), novelties (*Ce qui apparaît*), an example Agent whose acquired keyword can become a Bond keyword, situations along the directions of [docs/fr/situations.md](docs/fr/situations.md) (mediation, bring, contend for, transform one's own Power), tones and time. Distinguish a new Horizon from existing ones where they overlap.
 
 Draw on public-domain myths, folklore, and texts. Do not borrow from copyrighted works.
 
@@ -39,5 +39,6 @@ Draw on public-domain myths, folklore, and texts. Do not borrow from copyrighted
 - Docusaurus site, Node 24. Content lives symmetrically in `docs/fr/` and `docs/en/`: every page exists in both languages with the same file name and `id`. French is the authoring language; the English pages use American spelling and follow the headings of the existing English pages.
 - A new page must also be added to `sidebars.ts`, to `publications.config.mjs` (both locales), and to the relevant index pages (`docs/*/index.md`, `docs/*/horizons.md`).
 - Before committing, run `npm run typecheck`, `npm run build` (both locales, fails on broken links) and, when publication content changes, `npm run publication:build` (PDFs). CI runs the same steps.
+- The publication also ships as a single Markdown file for LLMs (`md` output). `publication/ai/{fr,en}.md` is its appendix of instructions for the AI; keep it in line with the rules when they change.
 - Commits follow Conventional Commits (`feat:`, `fix:`, `docs:`…): Semantic Release versions the publications from them.
 - The GitHub repository is the source of truth. The author's Notion is a working space for ideas not yet integrated.
