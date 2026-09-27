@@ -2,7 +2,7 @@
 id: home
 title: Metaxy
 slug: /
-description: Un JdR sur les Puissances et les Agents par lesquels elles deviennent présentes.
+description: Un jeu de rôle sur ce qui nous dépasse, et sur ceux qui se tiennent entre.
 ---
 
 ![](/img/site/logo_light_theme_400.png)
@@ -15,33 +15,40 @@ description: Un JdR sur les Puissances et les Agents par lesquels elles devienne
 
 :::
 
-> **Metaxy** : ce par quoi quelque chose devient présent sans l'être directement.
+> *« Tout le daimonique est entre le dieu et le mortel. […] Il interprète et fait passer aux dieux ce qui vient des hommes, et aux hommes ce qui vient des dieux […] ; et, se tenant au milieu des deux, il comble l'intervalle, de sorte que le Tout se trouve lié à lui-même. »*
+>
+> — Diotime, dans Platon, *Le Banquet*, 202d-e
 
-**Incarnez les Agents par lesquels des Puissances deviennent présentes.**
+**Incarnez ceux qui se tiennent entre nous et ce qui nous dépasse.**
 
-**Metaxy** est un jeu de rôle construit autour d'un petit socle commun de règles et de plusieurs déclinaisons prêtes à jouer.
+**Metaxy** est un jeu de rôle sur notre rapport à ce qui nous dépasse — la mort, le temps, le divin, l'inconnu — et sur les figures que les mythes, les religions, le fantastique et la science-fiction ont inventées pour entrer en relation avec lui : dieux, anges, psychopompes, revenants, vampires, intelligences venues d'ailleurs.
 
-Le jeu part d'un postulat métaphysique simple :
+*Metaxy* (μεταξύ) est le mot par lequel Diotime désigne cet entre-deux. Le jeu prend au sérieux ceux qui s'y tiennent.
+
+Il part d'un postulat simple :
 
 > **Une Puissance devient présente dans le monde à travers ses Agents.**  
 > **Un Agent n'est pas entièrement déterminé par elle : au contact du monde, il devient autre.**
 
-Cette relation n'impose ni cosmologie, ni religion, ni morale uniques. Elle décrit une médiation : une Puissance ne devient pas simplement un personnage plus puissant dans le monde. Quelque chose d'elle passe par ses Agents, mais ceux-ci rencontrent aussi ce que leur Puissance ne détermine pas.
+Les joueurs incarnent ces **Agents**. [Le propos du jeu](purpose) explique pourquoi.
+
+## Horizon, Puissances, Agents
+
+Chaque partie se joue sur un **Horizon** : quelque chose qui nous dépasse, comme la Mort. Plusieurs **Puissances** en sont les formes, selon les âges et les cultures. Chacune devient présente dans le monde par ses **Agents**.
 
 **Metaxy** appelle **Devenir** la part d'un être ou du monde qui n'est pas entièrement déterminée par ce qu'elle est déjà. L'Humanité en est souvent une source majeure — par ses relations, ses créations, ses institutions et ses contradictions — mais elle n'en a pas le monopole. D'autres Agents, d'autres formes de vie, des environnements, des événements ou le hasard peuvent tout autant faire devenir un Agent autre.
 
-Chaque Déclinaison donne une forme concrète à cette relation en répondant notamment à quatre questions :
+Chaque Agent répond à quatre questions :
 
-1. **Qu'est-ce qui te dépasse ?** — la Puissance.
+1. **Quel horizon te dépasse ?** — l'Horizon, et la Puissance qui lui donne forme pour toi.
 2. **Comment cela passe-t-il par toi ?** — le Lien.
 3. **Qu'es-tu devenu au contact du monde ?** — le Devenir.
 4. **Qu'est-ce qui peut apparaître dans le monde que ta Puissance ne contient pas encore ?**
 
 ## Structure actuelle
 
+- [Le propos du jeu](purpose) — ce que le jeu explore, et pourquoi on y joue des Agents.
 - [Règles](core-rules) — le socle commun du jeu.
-- [Déclinaisons](settings) — des mondes prêts à jouer construits sur ce socle.
-- [Tonalités](tones) — différentes manières de jouer une même déclinaison.
+- [Horizons](horizons) — ce qui nous dépasse, ses Puissances et leurs Agents. Premier Horizon : [la Mort](death).
+- [Tonalités](tones) — différentes manières de jouer un même Horizon.
 - [Temporalités](time) — d'une époque unique aux campagnes traversant les siècles ou les millénaires.
-
-Les premières déclinaisons prévues sont **Choeurs & Légions**, **Anciens & Nouveaux Dieux**, **Signaux** et **Sang & Nuit**.
