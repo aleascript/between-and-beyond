@@ -378,4 +378,4 @@ The **6** belongs to **Becoming**.
 
 It has its own effect only on dice rolled with the Becoming prism: those of beings that use this prism and the Acquired Bets of Agents. For matter and for Bond Bets rolled with the Neutral prism, a 6 is only an ordinary Success.
 
-A Horizon may specify the form this drive of Becoming takes. The 6 is not, however, where the Power manifests: what passes from the Power into the world passes through its Agents, and in particular through their Bond Bets.
+The 6 is not where the Power manifests: what passes from the Power into the world passes through its Agents, and in particular through their Bond Bets.

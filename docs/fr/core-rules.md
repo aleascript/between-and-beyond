@@ -378,4 +378,4 @@ Le **6** appartient au **Devenir**.
 
 Il n'a d'effet propre que sur les dés lancés au prisme Devenir : ceux des êtres qui relèvent de ce prisme et les Mises acquises des Agents. Pour la matière et pour les Mises du Lien lancées au prisme Neutre, un 6 n'est qu'une Réussite ordinaire.
 
-Un Horizon peut préciser la forme que prend cette poussée du Devenir. Le 6 n'est en revanche pas l'endroit où la Puissance se manifeste : ce qui passe de la Puissance dans le monde passe par ses Agents, et en particulier par leurs Mises du Lien.
+Le 6 n'est pas l'endroit où la Puissance se manifeste : ce qui passe de la Puissance dans le monde passe par ses Agents, et en particulier par leurs Mises du Lien.
