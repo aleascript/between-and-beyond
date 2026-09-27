@@ -33,6 +33,9 @@ const copy = {
     unavailable: 'No publication is available for this language yet.',
     loading: 'Loading publications…',
     error: 'The publication manifest could not be loaded.',
+    formatLabels: {pdf: 'PDF', md: 'Markdown (AI)'},
+    markdownNote:
+      'The Markdown file contains the whole game. Attach it to a conversation with the AI of your choice, then ask for what you need: explaining the game or a rule, or playing a game.',
   },
   fr: {
     title: 'Publications',
@@ -42,6 +45,9 @@ const copy = {
     unavailable: "Aucune publication n'est encore disponible dans cette langue.",
     loading: 'Chargement des publications…',
     error: "Le manifeste des publications n'a pas pu être chargé.",
+    formatLabels: {pdf: 'PDF', md: 'Markdown (IA)'},
+    markdownNote:
+      "Le fichier Markdown contient le jeu entier. Joignez-le à une conversation avec l'IA de votre choix, puis demandez-lui ce dont vous avez besoin : expliquer le jeu, une règle ou jouer une partie.",
   },
 } as const;
 
@@ -49,6 +55,8 @@ export default function PublicationsPage(): React.ReactNode {
   const {i18n, siteConfig} = useDocusaurusContext();
   const locale = i18n.currentLocale;
   const labels = copy[locale as keyof typeof copy] ?? copy.en;
+  const formatLabel = (format: string) =>
+    (labels.formatLabels as Record<string, string>)[format] ?? format.toUpperCase();
   const configuredDeploymentBaseUrl = siteConfig.customFields?.deploymentBaseUrl;
   const deploymentBaseUrl =
     typeof configuredDeploymentBaseUrl === 'string'
@@ -125,10 +133,13 @@ export default function PublicationsPage(): React.ReactNode {
                     className="button button--primary button--sm"
                     href={`${downloadsBase}${asset.path}`}
                     key={asset.format}>
-                    {asset.format.toUpperCase()}
+                    {formatLabel(asset.format)}
                   </a>
                 ))}
               </div>
+              {localizedPublication.formats.some((asset) => asset.format === 'md') ? (
+                <p className="publication-format-note">{labels.markdownNote}</p>
+              ) : null}
             </article>
           ))}
         </div>
