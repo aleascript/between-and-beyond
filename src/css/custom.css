@@ -1,7 +1,6 @@
 /*
- * The template deliberately starts with a restrained editorial theme.
- * Derived games can replace the tokens in site.config.ts and add a small
- * amount of project-specific CSS without touching component code.
+ * Ink and ember: colors and fonts come from the tokens in site.config.ts.
+ * This file only adds what the tokens cannot express.
  */
 :root {
   --ifm-color-primary: var(--site-primary);
@@ -51,8 +50,9 @@ body {
 }
 
 .navbar__title {
-  font-weight: 700;
-  letter-spacing: -0.02em;
+  font-family: var(--site-font-heading);
+  font-weight: 600;
+  letter-spacing: 0.01em;
 }
 
 .theme-doc-markdown {
@@ -68,7 +68,9 @@ html[data-theme='dark'] .theme-doc-markdown img[src*='logo_light_theme_400'] {
 }
 
 .theme-doc-markdown > h1:first-child {
-  letter-spacing: -0.035em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid var(--site-primary);
+  letter-spacing: -0.01em;
 }
 
 .theme-doc-markdown p,
@@ -79,6 +81,14 @@ html[data-theme='dark'] .theme-doc-markdown img[src*='logo_light_theme_400'] {
 .theme-doc-markdown blockquote {
   border-left-color: var(--site-primary);
   color: var(--site-muted);
+}
+
+/* Notes and examples: bone paper and ink rather than Docusaurus grey-blue. */
+.alert--secondary {
+  --ifm-alert-background-color: var(--site-surface);
+  --ifm-alert-background-color-highlight: color-mix(in srgb, var(--site-text) 12%, transparent);
+  --ifm-alert-foreground-color: var(--site-text);
+  --ifm-alert-border-color: var(--site-muted);
 }
 
 /* `:::design` is a custom editorial admonition; standard `:::note` remains untouched. */
