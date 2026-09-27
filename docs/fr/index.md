@@ -15,9 +15,11 @@ description: Un jeu de rôle sur ce qui nous dépasse, et sur ceux qui se tienne
 
 :::
 
-> *« Tout le daimonique est entre le dieu et le mortel. […] Il interprète et fait passer aux dieux ce qui vient des hommes, et aux hommes ce qui vient des dieux […] ; et, se tenant au milieu des deux, il comble l'intervalle, de sorte que le Tout se trouve lié à lui-même. »*
+> *« Tout ce qui est démonique est intermédiaire entre le dieu et le mortel.*  
+> *— Quel en est, demandai-je, le rôle ?*  
+> *— C'est de traduire et de transmettre aux dieux ce qui vient des hommes et, aux hommes, ce qui vient des dieux […] ; et d'autre part, puisqu'il est à mi-distance des uns et des autres, de combler le vide : il est ainsi le lien qui unit le Tout à lui-même. »*
 >
-> — Diotime, dans Platon, *Le Banquet*, 202d-e
+> — Diotime, dans Platon, *Le Banquet*, 202d-e, traduction de Léon Robin (1929)
 
 **Incarnez ceux qui se tiennent entre nous et ce qui nous dépasse.**
 

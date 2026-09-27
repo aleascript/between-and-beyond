@@ -15,9 +15,11 @@ description: A tabletop role-playing game about what exceeds us, and those who s
 
 :::
 
-> *"Everything daimonic is between god and mortal. […] It interprets and ferries to the gods what comes from humans, and to humans what comes from the gods […]; and, standing in the middle of both, it fills the gap, so that the whole is bound together with itself."*
+> *"Everything daemoniacal holds an intermediate place between what is divine and what is mortal."*  
+> *"What is his power and nature?" I inquired.*  
+> *"He interprets and makes a communication between divine and human things, conveying the prayers and sacrifices of men to the Gods, and communicating the commands and directions […] from Gods to men. He fills up that intermediate space between these two classes of beings, so as to bind together, by his own power, the whole universe of things."*
 >
-> — Diotima, in Plato, *Symposium*, 202d–e
+> — Diotima, in Plato, *Symposium*, 202d–e, translated by Percy Bysshe Shelley (1818)
 
 **Play those who stand between us and what exceeds us.**
 
