@@ -1,19 +1,22 @@
+/* Ink and ember: the same palette and fonts as the website. */
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400..700&display=swap');
+
 @page {
   size: A4;
   margin: 20mm 18mm 22mm;
 
   @top-center {
     content: string(publication-chapter);
-    color: #667085;
-    font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+    color: #6b635a;
+    font-family: Fraunces, Georgia, serif;
     font-size: 7.5pt;
     letter-spacing: 0.04em;
   }
 
   @bottom-center {
     content: counter(page);
-    color: #667085;
-    font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+    color: #6b635a;
+    font-family: Fraunces, Georgia, serif;
     font-size: 8pt;
   }
 }
@@ -44,7 +47,8 @@
 
 @page publication-cover {
   size: A4;
-  margin: 18mm;
+  margin: 0;
+  background: #121110;
 
   @top-center {
     content: none;
@@ -56,11 +60,11 @@
 }
 
 :root {
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: 'Source Serif 4', Georgia, 'Times New Roman', serif;
   font-size: 10.5pt;
   line-height: 1.55;
-  color: #202a38;
-  background: #fcfcfd;
+  color: #1b1917;
+  background: #fff;
 }
 
 body {
@@ -78,7 +82,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  font-family: Fraunces, Georgia, serif;
   line-height: 1.15;
   break-after: avoid;
 }
@@ -87,29 +91,29 @@ h1 {
   string-set: publication-chapter content(text);
   margin: 0 0 0.95em;
   padding-bottom: 0.35em;
-  border-bottom: 0.7pt solid #d7dce4;
+  border-bottom: 1.2pt solid #a8321f;
   font-size: 26pt;
-  font-weight: 650;
-  letter-spacing: -0.015em;
+  font-weight: 600;
+  letter-spacing: -0.01em;
 }
 
 h2 {
   margin-top: 1.8em;
   padding-bottom: 0.2em;
-  border-bottom: 0.5pt solid #d7dce4;
+  border-bottom: 0.5pt solid #dbd2c4;
   font-size: 17pt;
-  font-weight: 650;
+  font-weight: 600;
 }
 
 h3 {
   margin-top: 1.45em;
   font-size: 13pt;
-  font-weight: 650;
+  font-weight: 600;
 }
 
 h4 {
   font-size: 11pt;
-  font-weight: 650;
+  font-weight: 600;
 }
 
 section.level1 {
@@ -131,7 +135,7 @@ strong {
 }
 
 a {
-  color: #315da8;
+  color: #a8321f;
   text-decoration-thickness: 0.05em;
   text-underline-offset: 0.12em;
 }
@@ -139,8 +143,8 @@ a {
 blockquote {
   margin: 1.25em 0;
   padding: 0.8em 1em;
-  border-inline-start: 2.5pt solid #315da8;
-  background: #f4f6f9;
+  border-inline-start: 2.5pt solid #a8321f;
+  background: #f1ece3;
   break-inside: avoid;
 }
 
@@ -155,8 +159,8 @@ blockquote > :last-child {
 .publication-admonition-title {
   display: inline-block;
   margin-bottom: 0.3em;
-  color: #315da8;
-  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  color: #a8321f;
+  font-family: Fraunces, Georgia, serif;
   font-size: 8pt;
   font-weight: 700;
   letter-spacing: 0.05em;
@@ -170,7 +174,7 @@ blockquote:has(.publication-admonition-warning),
 blockquote:has(.publication-admonition-danger),
 blockquote:has(.publication-admonition-caution),
 blockquote:has(.publication-admonition-design) {
-  background: #f4f6f9;
+  background: #f1ece3;
 }
 
 blockquote:has(.publication-admonition-warning),
@@ -205,19 +209,19 @@ table {
 }
 
 thead {
-  background: #f4f6f9;
+  background: #f1ece3;
 }
 
 th,
 td {
   padding: 0.45em 0.6em;
-  border: 0.5pt solid #d7dce4;
+  border: 0.5pt solid #dbd2c4;
   vertical-align: top;
 }
 
 th {
-  color: #475467;
-  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  color: #4a443d;
+  font-family: Fraunces, Georgia, serif;
   font-size: 8pt;
   font-weight: 700;
   letter-spacing: 0.04em;
@@ -230,20 +234,21 @@ th {
   box-sizing: border-box;
   display: flex;
   width: 100%;
-  min-height: 259mm;
-  padding: 12mm;
-  border: 0.8pt solid #d7dce4;
+  min-height: 297mm;
+  padding: 30mm 24mm 22mm;
   flex-direction: column;
   align-items: stretch;
-  background: #fcfcfd;
+  background: #121110;
   text-align: center;
 }
 
 .publication-cover-title {
   margin: 0 0 8mm;
-  color: #202a38;
-  font-size: 31pt;
-  font-weight: 650;
+  color: #ece6dc;
+  border: none;
+  font-size: 40pt;
+  letter-spacing: 0.02em;
+  font-weight: 600;
   letter-spacing: -0.02em;
 }
 
@@ -258,18 +263,18 @@ th {
 .publication-cover-metadata {
   margin-top: auto;
   padding-top: 6mm;
-  border-top: 0.6pt solid #d7dce4;
-  color: #667085;
-  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  border-top: 0.6pt solid #e8765a;
+  color: #a39a8e;
+  font-family: Fraunces, Georgia, serif;
   font-size: 8pt;
   line-height: 1.5;
 }
 
 .publication-cover-author {
   margin-bottom: 0.45em;
-  color: #202a38;
+  color: #ece6dc;
   font-size: 9.5pt;
-  font-weight: 650;
+  font-weight: 600;
 }
 
 .publication-cover-edition,
@@ -279,7 +284,7 @@ th {
 }
 
 nav[role='doc-toc'] {
-  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  font-family: Fraunces, Georgia, serif;
   font-size: 9.2pt;
   line-height: 1.35;
 }
@@ -290,7 +295,7 @@ nav[role='doc-toc'] ol {
 }
 
 nav[role='doc-toc'] a {
-  color: #202a38;
+  color: #1b1917;
   text-decoration: none;
 }
 
@@ -305,7 +310,7 @@ nav[role='doc-toc'] a {
     order: 1;
     flex: auto;
     margin-inline: 0.5em;
-    border-bottom: 0.5pt dotted #98a2b3;
+    border-bottom: 0.5pt dotted #a39a8e;
     content: '';
   }
 
@@ -316,4 +321,8 @@ nav[role='doc-toc'] a {
     content: target-counter(attr(href), page);
     text-align: right;
   }
+}
+
+.publication-cover-metadata a {
+  color: #e8765a;
 }

@@ -86,6 +86,21 @@ const config: Config = {
   headTags: [
     {
       tagName: 'link',
+      attributes: {rel: 'preconnect', href: 'https://fonts.googleapis.com'},
+    },
+    {
+      tagName: 'link',
+      attributes: {rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: 'anonymous'},
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400..700&display=swap',
+      },
+    },
+    {
+      tagName: 'link',
       attributes: {
         rel: 'icon',
         type: 'image/svg+xml',

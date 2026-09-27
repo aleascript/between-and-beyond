@@ -38,7 +38,7 @@ export default definePublications({
       size: 'A4',
       theme: 'publication/theme.css',
       cover: {
-        image: 'static/img/site/logo_light_theme_400.png',
+        image: 'static/img/site/logo_dark_theme_400.png',
         showTitle: true,
         showMetadata: true,
       },
