@@ -1,7 +1,7 @@
 ---
 id: core-rules
 title: Core Rules
-description: The common rules shared by every Metaxy setting.
+description: The common rules shared by every Metaxy Horizon.
 ---
 
 # Core Rules
@@ -10,19 +10,19 @@ In **Metaxy**, the player characters are **Agents** bound to **Powers** that tra
 
 > **A Power becomes present in the world through its Agents.**
 
-A Power does not need to be a person, command its Agents, or even possess an intelligible will. An Agent is an Agent because a Bond lets something of the Power pass through them. The exact nature of that Bond depends on the Setting: service, lineage, incarnation, pact, creation, debt, possession, inheritance, or any other relationship established by the game world.
+A Power does not need to be a person, command its Agents, or even possess an intelligible will. An Agent is an Agent because a Bond lets something of the Power pass through them. The exact nature of that Bond depends on the Horizon and the Power: service, lineage, incarnation, pact, creation, debt, possession, inheritance, or any other relationship established by the game world.
 
 > **An Agent is how their Power becomes present. But they are not entirely determined by it: through contact with the world, they become other.**
 
 **Metaxy** calls **Becoming** the part of a being or the world that is not entirely determined by what it already is. For an Agent, it includes what they acquire beyond what their Power determines: relationships, experiences, knowledge, wounds, encounters, and transformations. Humanity is often a major source of Becoming, but other Agents, other forms of life, environments, events, or chance may transform them just as deeply.
 
-Settings give these elements a concrete form. They define the Powers that exist, the Agents that can be played, their Bonds, the forms of Becoming that may transform them, and the situations that set them in motion.
+[Horizons](horizons.md) give these elements a concrete form. Each one defines the Powers that are its forms, the Agents that can be played, their Bonds, the forms of Becoming that may transform them, and the situations that set them in motion.
 
 :::note[Some Possible Powers]
 
-In **Choirs & Legions**, a Power might be an Archangel or a Demon Prince. In **Ancient & New Gods**, it might be a Norse deity or a forgotten god finding a new place in the modern world. **Blood & Night** may feature Vampires, bloodlines, or other Powers of the night. **Signals** may involve entities whose very nature is difficult to interpret.
+On the Horizon of **Death**, a Power might be the Passage, which carries the living over to the dead, or the Eldest Blood, origin of a vampire lineage. On that of the **Divine**, it might be an Archangel or a Demon Prince. On that of the **Collective**, a recent Power such as Money or Communication. On that of the **Unknown**, an entity whose very nature is difficult to interpret.
 
-These examples belong to their Settings. They do not form a shared cosmology for all of Metaxy.
+These examples belong to their Horizons. They do not form a shared cosmology for all of Metaxy.
 
 :::
 
@@ -30,7 +30,7 @@ These examples belong to their Settings. They do not form a shared cosmology for
 
 A Power is not simply “something very powerful.”
 
-Its portrait contains a small number of distinct **Attributes** that state what it is: its reason for being, nature, agency, limits, relationships, or other fundamental properties useful to the Setting.
+Its portrait contains a small number of distinct **Attributes** that state what it is: its reason for being, nature, agency, limits, relationships, or other fundamental properties useful to the Horizon.
 
 These Attributes are not a list of bonuses. They describe a relatively stable whole. Changing an Attribute of a Power means that the Power itself has been transformed.
 
@@ -92,7 +92,7 @@ The same reason only counts once. *Exceptional warrior*, *trained since childhoo
 
 When nobody immediately sees anything else that matters without repeating what is already in play, resolve.
 
-:::note[Example — Choirs & Legions]
+:::note[Example — the Divine]
 
 An Agent wants to stop a group of occultists from opening a seal.
 
@@ -118,7 +118,7 @@ How those dice become Successes depends on the **nature of what is acting**. Met
 
 Agents have no prism of their own. They stand between Becoming and their Power, and each of their Bets belongs to one or the other depending on where it comes from.
 
-This scale is common to Metaxy. A Setting may then specify particular features of its Powers and Agents.
+This scale is common to Metaxy. A Horizon may then specify particular features of its Powers and Agents.
 
 ### Neutral
 
@@ -188,7 +188,7 @@ Two Powers never confront one another directly. When an Agent's Bond Bets meet t
 
 A clash between Agents is therefore decided at least as much by what they have become through contact with the world as by what their Powers give them.
 
-:::note[Example — Choirs & Legions]
+:::note[Example — the Divine]
 
 An Angel protects a witness from a manipulated crowd. They commit *Wings of Light* and *Voice of the Archangel* (Bond), as well as *Former Wartime Nurse* (acquired). Against the crowd, their two Bond Bets directly produce 2 Successes; they roll one Becoming die for the third. If the crowd falls back, it is the Archangel's light that drove it away: witnesses will talk about it, and some will keep burned eyes.
 
@@ -198,7 +198,7 @@ Later, a Demon steps in and also commits Bond Bets. This time, both Agents' Bond
 
 ## The Presence of a Power
 
-A Power is not normally a directly accessible protagonist in a scene. It becomes present through its Agents, avatars, signs, institutions, or other manifestations established by the Setting.
+A Power is not normally a directly accessible protagonist in a scene. It becomes present through its Agents, avatars, signs, institutions, or other manifestations established by the Horizon.
 
 ### Powers Do Not Confront One Another Directly
 
@@ -212,7 +212,7 @@ If the characters believe they are directly confronting a Power outside their ow
 
 A being may confront a Power directly only when the fiction establishes that they are **already bound to it**.
 
-The Bond is precisely what makes the encounter possible: creation, lineage, pact, faith, possession, debt, participation, inheritance, or any other relationship recognized by the Setting.
+The Bond is precisely what makes the encounter possible: creation, lineage, pact, faith, possession, debt, participation, inheritance, or any other relationship recognized by the Horizon.
 
 The confrontation need not be a physical fight. It may concern a refused command, emancipation, transformation, judgment, negotiation, rupture, or any other question capable of truly opposing the bound being to their Power.
 
@@ -296,7 +296,7 @@ When an extension becomes genuinely established in the fiction:
 - the **world** changes: the novelty may now become a place, means, or reason through which the Power manifests;
 - the **Agent** who made the extension possible is transformed in return by their relationship with the Power.
 
-That transformation of the Agent is their reward. Depending on the Setting and the fiction, it may take the form of a new gift, status, authority, possibility, mission, mark, or change in the Bond.
+That transformation of the Agent is their reward. Depending on the Horizon and the fiction, it may take the form of a new gift, status, authority, possibility, mission, mark, or change in the Bond.
 
 > **What the Power could not make present before this act may now pass through the Agent who brought it.**
 
@@ -308,11 +308,11 @@ One of the strongest forms of this reward concerns the very origin of keywords.
 
 When what an Agent brings to their Power corresponded to one of their acquired keywords, that keyword may **become a Bond keyword**. What belonged to them alone, with the uncertainty of what is acquired, is now recognized by the Power and passes through it with its certainty.
 
-This recognition does not necessarily concern them alone. What now belongs to the Power's domain can often pass through all of its Agents: depending on the Setting and the Power, other Agents may receive that Bond keyword. A single Agent can thus change what all the others are.
+This recognition does not necessarily concern them alone. What now belongs to the Power's domain can often pass through all of its Agents: depending on the Horizon and the Power, other Agents may receive that Bond keyword. A single Agent can thus change what all the others are.
 
 The cost remains that of the Bond: what now succeeds through this keyword is the Power succeeding.
 
-:::note[Example — Choirs & Legions]
+:::note[Example — the Divine]
 
 The Angel from the previous example learned to care for the wounded on battlefields: *Former Wartime Nurse* is an acquired keyword. They manage to have the care of bodies recognized as part of their Archangel's domain, which until then knew only protection and judgment.
 
@@ -328,4 +328,4 @@ The **6** belongs to **Becoming**.
 
 It has its own effect only on dice rolled with the Becoming prism: those of beings that use this prism and the Acquired Bets of Agents. For matter and for Bond Bets rolled with the Neutral prism, a 6 is only an ordinary Success.
 
-A Setting may specify the form this drive of Becoming takes in its world. The 6 is not, however, where the Power manifests: what passes from the Power into the world passes through its Agents, and in particular through their Bond Bets.
+A Horizon may specify the form this drive of Becoming takes. The 6 is not, however, where the Power manifests: what passes from the Power into the world passes through its Agents, and in particular through their Bond Bets.

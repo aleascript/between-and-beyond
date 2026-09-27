@@ -1,7 +1,7 @@
 ---
 id: core-rules
 title: Règles
-description: Le socle de règles commun à toutes les déclinaisons de Metaxy.
+description: Le socle de règles commun à tous les Horizons de Metaxy.
 ---
 
 # Règles
@@ -10,19 +10,19 @@ Dans **Metaxy**, les personnages joueurs sont des **Agents** liés à des **Puis
 
 > **Une Puissance devient présente dans le monde à travers ses Agents.**
 
-Une Puissance n'a pas besoin d'être une personne, de commander ses Agents ni même de posséder une volonté intelligible. Un Agent l'est parce qu'un Lien fait passer quelque chose de la Puissance à travers lui. La nature exacte de ce Lien dépend de la Déclinaison : service, filiation, incarnation, pacte, création, dette, possession, héritage ou toute autre relation prévue par le cadre de jeu.
+Une Puissance n'a pas besoin d'être une personne, de commander ses Agents ni même de posséder une volonté intelligible. Un Agent l'est parce qu'un Lien fait passer quelque chose de la Puissance à travers lui. La nature exacte de ce Lien dépend de l'Horizon et de la Puissance : service, filiation, incarnation, pacte, création, dette, possession, héritage ou toute autre relation prévue par le cadre de jeu.
 
 > **Un Agent est ce par quoi sa Puissance devient présente. Mais il n'est pas entièrement déterminé par elle : au contact du monde, il devient autre.**
 
 **Metaxy** appelle **Devenir** la part d'un être ou du monde qui n'est pas entièrement déterminée par ce qu'elle est déjà. Pour un Agent, elle comprend ce qu'il acquiert hors de ce que sa Puissance détermine : relations, expériences, savoirs, blessures, rencontres et transformations. L'Humanité en est souvent une source majeure, mais d'autres Agents, d'autres formes de vie, des environnements, des événements ou le hasard peuvent tout autant le transformer.
 
-Les Déclinaisons donnent une forme concrète à ces éléments. Elles définissent les Puissances présentes, les Agents que l'on peut incarner, leurs Liens, les formes de Devenir qui peuvent les transformer et les situations qui les mettent en mouvement.
+Les [Horizons](horizons.md) donnent une forme concrète à ces éléments. Chacun définit les Puissances qui en sont les formes, les Agents que l'on peut incarner, leurs Liens, les formes de Devenir qui peuvent les transformer et les situations qui les mettent en mouvement.
 
 :::note[Quelques Puissances possibles]
 
-Dans **Choeurs & Légions**, une Puissance peut être un Archange ou un Prince-Démon. Dans **Anciens & Nouveaux Dieux**, ce peut être une divinité nordique ou un dieu oublié qui trouve une nouvelle place dans le monde contemporain. **Sang & Nuit** peut mettre en jeu des vampires, des lignées ou d'autres puissances nocturnes. **Signaux** peut faire intervenir des entités dont la nature même reste difficile à interpréter.
+Sur l'Horizon de **la Mort**, une Puissance peut être le Passage, qui fait passer les vivants chez les morts, ou le Premier-Sang, origine d'une lignée de vampires. Sur celui du **Divin**, ce peut être un Archange ou un Prince-Démon. Sur celui du **Collectif**, une Puissance récente comme Argent ou Communication. Sur celui de l'**Inconnu**, une entité dont la nature même reste difficile à interpréter.
 
-Ces exemples appartiennent à leurs Déclinaisons. Ils ne forment pas une cosmologie commune à tout Metaxy.
+Ces exemples appartiennent à leurs Horizons. Ils ne forment pas une cosmologie commune à tout Metaxy.
 
 :::
 
@@ -30,7 +30,7 @@ Ces exemples appartiennent à leurs Déclinaisons. Ils ne forment pas une cosmol
 
 Une Puissance n'est pas simplement « quelque chose de très puissant ».
 
-Son portrait contient un petit nombre d'**Attributs** distincts qui disent ce qu'elle est : sa raison d'être, sa nature, son agentivité, ses limites, ses relations ou d'autres propriétés fondamentales utiles à la Déclinaison.
+Son portrait contient un petit nombre d'**Attributs** distincts qui disent ce qu'elle est : sa raison d'être, sa nature, son agentivité, ses limites, ses relations ou d'autres propriétés fondamentales utiles à l'Horizon.
 
 Ces Attributs ne sont pas une liste de bonus. Ils décrivent une totalité relativement stable. Modifier un Attribut de Puissance signifie que la Puissance elle-même a été transformée.
 
@@ -92,7 +92,7 @@ Une même raison ne compte qu'une fois. *Guerrier exceptionnel*, *entraîné dep
 
 Quand plus personne ne voit immédiatement autre chose qui compte sans répéter ce qui est déjà posé, on résout.
 
-:::note[Exemple — Choeurs & Légions]
+:::note[Exemple — le Divin]
 
 Un Agent veut empêcher un groupe d'occultistes d'ouvrir un sceau.
 
@@ -118,7 +118,7 @@ La manière dont ces dés deviennent des Réussites dépend de la **nature de ce
 
 Les Agents n'ont pas de prisme propre. Ils se tiennent entre le Devenir et leur Puissance, et chacune de leurs Mises relève de l'un ou de l'autre selon sa provenance.
 
-Cette échelle est commune à Metaxy. Une Déclinaison peut ensuite préciser certaines particularités de ses Puissances et de leurs Agents.
+Cette échelle est commune à Metaxy. Un Horizon peut ensuite préciser certaines particularités de ses Puissances et de leurs Agents.
 
 ### Neutre
 
@@ -188,7 +188,7 @@ Deux Puissances ne s'affrontent jamais directement. Lorsque les Mises du Lien d'
 
 Un affrontement entre Agents se décide donc au moins autant par ce qu'ils sont devenus au contact du monde que par ce que leurs Puissances leur donnent.
 
-:::note[Exemple — Choeurs & Légions]
+:::note[Exemple — le Divin]
 
 Un Ange protège un témoin face à une foule manipulée. Il engage *Ailes de lumière* et *Voix de l'Archange* (Lien), ainsi que *Ancien infirmier de guerre* (acquis). Face à la foule, ses deux Mises du Lien produisent directement 2 Réussites ; il lance un dé de Devenir pour la troisième. Si la foule recule, c'est la lumière de l'Archange qui l'a repoussée : les témoins en parleront, et certains garderont les yeux brûlés.
 
@@ -198,7 +198,7 @@ Plus tard, un Démon s'interpose et engage lui aussi des Mises du Lien. Cette fo
 
 ## La Présence d'une Puissance
 
-Une Puissance n'est normalement pas un protagoniste directement accessible dans une scène. Elle devient présente par ses Agents, ses avatars, ses signes, ses institutions ou d'autres manifestations prévues par la Déclinaison.
+Une Puissance n'est normalement pas un protagoniste directement accessible dans une scène. Elle devient présente par ses Agents, ses avatars, ses signes, ses institutions ou d'autres manifestations prévues par l'Horizon.
 
 ### Les Puissances ne s'affrontent pas directement
 
@@ -212,7 +212,7 @@ Si les personnages pensent affronter directement une Puissance extérieure à le
 
 Un être ne peut confronter directement une Puissance que si la fiction établit qu'il est **déjà lié à elle**.
 
-Le Lien est précisément ce qui rend cette rencontre possible : création, filiation, pacte, foi, possession, dette, participation, héritage ou toute autre relation reconnue par la Déclinaison.
+Le Lien est précisément ce qui rend cette rencontre possible : création, filiation, pacte, foi, possession, dette, participation, héritage ou toute autre relation reconnue par l'Horizon.
 
 La confrontation n'est pas nécessairement un combat physique. Elle peut porter sur un ordre refusé, une émancipation, une transformation, un jugement, une négociation, une rupture ou toute autre question capable d'opposer réellement l'être lié à sa Puissance.
 
@@ -296,7 +296,7 @@ Lorsqu'une extension devient réellement établie dans la fiction :
 - le **monde** change : cette nouveauté peut désormais devenir un lieu, un moyen ou une raison par laquelle la Puissance se manifeste ;
 - l'**Agent** qui a rendu cette extension possible est transformé en retour par sa relation avec la Puissance.
 
-Cette transformation de l'Agent constitue sa récompense. Selon la Déclinaison et la fiction, elle peut prendre la forme d'un nouveau don, d'un statut, d'une autorité, d'une possibilité, d'une mission, d'une marque ou d'une modification du Lien.
+Cette transformation de l'Agent constitue sa récompense. Selon l'Horizon et la fiction, elle peut prendre la forme d'un nouveau don, d'un statut, d'une autorité, d'une possibilité, d'une mission, d'une marque ou d'une modification du Lien.
 
 > **Ce que la Puissance ne pouvait pas rendre présent avant cet acte peut désormais passer par l'Agent qui le lui a apporté.**
 
@@ -308,11 +308,11 @@ L'une des formes les plus fortes de cette récompense touche la provenance même
 
 Lorsque ce qu'un Agent apporte à sa Puissance correspondait à l'un de ses mots-clés acquis, ce mot-clé peut **devenir un mot-clé du Lien**. Ce qui lui appartenait en propre, avec l'incertitude de ce qui est acquis, est désormais reconnu par la Puissance et passe par elle avec sa certitude.
 
-Cette reconnaissance ne concerne pas nécessairement lui seul. Ce qui appartient désormais au domaine de la Puissance peut souvent passer par l'ensemble de ses Agents : selon la Déclinaison et la Puissance, d'autres Agents peuvent recevoir ce mot-clé du Lien. Un seul Agent peut ainsi changer ce que sont tous les autres.
+Cette reconnaissance ne concerne pas nécessairement lui seul. Ce qui appartient désormais au domaine de la Puissance peut souvent passer par l'ensemble de ses Agents : selon l'Horizon et la Puissance, d'autres Agents peuvent recevoir ce mot-clé du Lien. Un seul Agent peut ainsi changer ce que sont tous les autres.
 
 La contrepartie reste celle du Lien : ce qui réussit désormais par ce mot-clé, c'est la Puissance qui le réussit.
 
-:::note[Exemple — Choeurs & Légions]
+:::note[Exemple — le Divin]
 
 L'Ange de l'exemple précédent a appris à soigner les blessés sur les champs de bataille : *Ancien infirmier de guerre* est un mot-clé acquis. Il parvient à faire reconnaître le soin des corps comme appartenant au domaine de son Archange, qui ne connaissait jusque-là que la protection et le jugement.
 
@@ -328,4 +328,4 @@ Le **6** appartient au **Devenir**.
 
 Il n'a d'effet propre que sur les dés lancés au prisme Devenir : ceux des êtres qui relèvent de ce prisme et les Mises acquises des Agents. Pour la matière et pour les Mises du Lien lancées au prisme Neutre, un 6 n'est qu'une Réussite ordinaire.
 
-Une Déclinaison peut préciser la forme que prend cette poussée du Devenir dans son monde. Le 6 n'est en revanche pas l'endroit où la Puissance se manifeste : ce qui passe de la Puissance dans le monde passe par ses Agents, et en particulier par leurs Mises du Lien.
+Un Horizon peut préciser la forme que prend cette poussée du Devenir. Le 6 n'est en revanche pas l'endroit où la Puissance se manifeste : ce qui passe de la Puissance dans le monde passe par ses Agents, et en particulier par leurs Mises du Lien.

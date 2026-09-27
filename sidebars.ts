@@ -5,17 +5,13 @@ const t = (fr: string, en: string) => (isFrench ? fr : en);
 const sidebars: SidebarsConfig = {
   docsSidebar: [
     'home',
+    'purpose',
     'core-rules',
     {
       type: 'category',
-      label: t('Déclinaisons', 'Settings'),
-      link: {type: 'doc', id: 'settings'},
-      items: [
-        'choirs-and-legions',
-        'ancient-and-new-gods',
-        'signals',
-        'blood-and-night',
-      ],
+      label: t('Horizons', 'Horizons'),
+      link: {type: 'doc', id: 'horizons'},
+      items: ['death', 'divine', 'dreams', 'deep-time', 'unknown', 'collective', 'desire', 'destruction', 'nature'],
     },
     'tones',
     'time',

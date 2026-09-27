@@ -62,8 +62,8 @@ export type SiteTheme = {
 
 export const site = {
   title: 'Metaxy',
-  tagline: 'Powers act through Agents.',
-  description: 'A standalone tabletop role-playing game about Powers and the Agents through whom they become present.',
+  tagline: 'Those who stand between.',
+  description: 'A tabletop role-playing game about what exceeds us, and those who stand between.',
   author: 'AleaScript',
   defaultLocale: 'en',
   locales: {
@@ -96,10 +96,13 @@ export const site = {
   } satisfies ContentLicense,
   lineage: {
     designedWith: {
+      label: 'Resonance',
+      href: 'https://aleascript.github.io/resonance/',
+    },
+    poweredBy: {
       label: 'Regard',
       href: 'https://aleascript.github.io/regard/',
     },
-    poweredBy: null,
   } as SiteLineage,
   theme: {
     colors: {
