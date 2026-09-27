@@ -14,8 +14,6 @@ const sidebars: SidebarsConfig = {
       items: ['death', 'divine', 'dreams', 'deep-time', 'unknown', 'collective', 'desire', 'destruction', 'nature'],
     },
     'situations',
-    'tones',
-    'time',
     {
       type: 'link',
       label: 'Publications',

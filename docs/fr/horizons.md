@@ -62,6 +62,20 @@ La Mort, le Collectif et le Divin se rencontrent ici autour d'une même nouveaut
 
 :::
 
+## Tonalités
+
+Un même Horizon peut produire des expériences très différentes. Une campagne peut être réaliste, épique, sombre, onirique, satirique, tragique ou adopter un autre ton. Le ton modifie la présentation, les situations et les conséquences sans exiger un autre socle de jeu : une table venue pour l'aventure et une table venue pour réfléchir à ce qui nous dépasse jouent au même jeu.
+
+Chaque Horizon indique les tonalités auxquelles il se prête.
+
+## Temporalités
+
+Une campagne peut rester dans une seule époque ou traverser des années, des siècles ou des millénaires. Des Agents immortels ou très anciens peuvent faire du changement historique une matière de jeu, mais cette possibilité n'est jamais obligatoire.
+
+Chaque époque a son horizon : on ne voit pas la mort, le divin ou l'inconnu de la même manière d'un siècle à l'autre. Une campagne qui traverse les âges permet de voir ce qu'un Horizon devient — et ce que les Agents ont fait de leurs Puissances.
+
+Chaque Horizon indique aussi les échelles de temps qui lui conviennent. Pour [le Temps](deep-time.md), la temporalité d'une campagne devient le sujet même du jeu.
+
 ## Les Horizons
 
 - [**La Mort**](death.md) — ce que personne ne peut occuper vivant.

@@ -131,4 +131,4 @@ Destiny *reveals itself in fragments*, and Cassandra has never been able to say 
 
 Time lends itself to melancholy, epic, philosophical tale, and adventure.
 
-It is the Horizon where campaigns across the ages find their most natural form: a campaign's [timescale](time.md) becomes the very subject of play.
+It is the Horizon where campaigns across the ages find their most natural form: a campaign's [timescale](horizons.md#timescales) becomes the very subject of play.

@@ -9,12 +9,6 @@ description: A tabletop role-playing game about what exceeds us, and those who s
 
 # Metaxy
 
-:::caution[Work in progress]
-
-**Metaxy is still in active design.** Its structure, terminology and rules may change. The pages currently published here are intentionally minimal.
-
-:::
-
 > *"Everything daemoniacal holds an intermediate place between what is divine and what is mortal."*  
 > *"What is his power and nature?" I inquired.*  
 > *"He interprets and makes a communication between divine and human things, conveying the prayers and sacrifices of men to the Gods, and communicating the commands and directions […] from Gods to men. He fills up that intermediate space between these two classes of beings, so as to bind together, by his own power, the whole universe of things."*
@@ -47,11 +41,9 @@ Every Agent answers four questions:
 3. **What have you become through contact with the world?** — Becoming.
 4. **What can appear in the world that your Power does not yet contain?**
 
-## Current structure
+## Contents
 
 - [What This Game Is About](purpose) — what the game explores, and why the players take on Agents.
 - [Core Rules](core-rules) — the common game rules.
-- [Horizons](horizons) — what exceeds us, its Powers, and their Agents: [Death](death), [the Divine](divine), [Dreams](dreams), [Time](deep-time), [the Unknown](unknown), [the Collective](collective), [Desire](desire), [Destruction](destruction), [Nature](nature).
+- [Horizons](horizons) — what exceeds us, its Powers, and their Agents, with their tones and timescales: [Death](death), [the Divine](divine), [Dreams](dreams), [Time](deep-time), [the Unknown](unknown), [the Collective](collective), [Desire](desire), [Destruction](destruction), [Nature](nature).
 - [Situations](situations) — preparing what sets the Agents in motion.
-- [Tones](tones) — different ways to play the same Horizon.
-- [Timescales](time) — from a single period to campaigns spanning centuries or millennia.

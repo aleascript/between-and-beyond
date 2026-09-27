@@ -62,6 +62,20 @@ Death, the Collective, and the Divine meet here around a single novelty.
 
 :::
 
+## Tones
+
+A single Horizon can support very different experiences. A campaign may be realistic, epic, dark, dreamlike, satirical, tragic, or use another tone. Tone changes presentation, situations, and consequences without requiring a different core game: a table that came for adventure and a table that came to reflect on what exceeds us are playing the same game.
+
+Each Horizon says which tones it lends itself to.
+
+## Timescales
+
+A campaign can stay within one period or cross years, centuries, or millennia. Immortal or long-lived Agents can make historical change part of play, but this is an option rather than a requirement.
+
+Every age has its own horizon: death, the divine, or the unknown are not seen the same way from one century to the next. A campaign that crosses the ages shows what a Horizon becomes — and what the Agents have made of their Powers.
+
+Each Horizon also says which timescales suit it. For [Time](deep-time.md), a campaign's timescale becomes the very subject of play.
+
 ## The Horizons
 
 - [**Death**](death.md) — what no one can occupy while alive.

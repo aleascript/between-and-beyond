@@ -131,4 +131,4 @@ Le Destin *se révèle par fragments*, et Cassandre n'a jamais su dire *quand*. 
 
 Le Temps se prête à la mélancolie, à l'épopée, au conte philosophique, à l'aventure.
 
-C'est l'Horizon où les campagnes à travers les âges trouvent leur forme la plus naturelle : la [temporalité](time.md) d'une campagne y devient le sujet même du jeu.
+C'est l'Horizon où les campagnes à travers les âges trouvent leur forme la plus naturelle : la [temporalité](horizons.md#temporalités) d'une campagne y devient le sujet même du jeu.
