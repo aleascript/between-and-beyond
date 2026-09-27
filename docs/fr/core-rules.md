@@ -36,7 +36,7 @@ Ces Attributs ne sont pas une liste de bonus. Ils décrivent une totalité relat
 
 La plupart du temps, une Puissance n'entre pas directement dans une résolution : ce sont ses Agents, ses avatars ou ses autres manifestations qui deviennent présents dans le monde. Les Attributs de la Puissance servent alors à comprendre ce qui passe à travers eux.
 
-Lorsqu'un être déjà lié à une Puissance parvient à la confronter directement, les règles de **Présence** décrites plus loin permettent à cette totalité de peser dans la résolution.
+Seul un être déjà lié à une Puissance peut se retrouver face à cette totalité, lors d'un [moment de Présence](#la-présence).
 
 ## Jouer
 
@@ -196,47 +196,15 @@ Plus tard, un Démon s'interpose et engage lui aussi des Mises du Lien. Cette fo
 
 :::
 
-## La Présence d'une Puissance
+## Les Puissances ne s'affrontent pas directement
 
 Une Puissance n'est normalement pas un protagoniste directement accessible dans une scène. Elle devient présente par ses Agents, ses avatars, ses signes, ses institutions ou d'autres manifestations prévues par l'Horizon.
-
-### Les Puissances ne s'affrontent pas directement
 
 **Deux Puissances ne sont jamais les deux adversaires directs d'une même résolution.**
 
 Lorsqu'elles entrent en conflit, leur opposition doit devenir présente dans le monde : par leurs Agents, leurs avatars, des êtres qui leur sont liés, des lieux, des phénomènes ou d'autres médiations.
 
 Si les personnages pensent affronter directement une Puissance extérieure à leur propre Lien, ils affrontent en réalité ce par quoi elle devient présente à cet endroit et à ce moment. Cette manifestation reçoit la nature appropriée — le plus souvent Agent — et se résout normalement.
-
-### Atteindre une Puissance
-
-Un être ne peut confronter directement une Puissance que si la fiction établit qu'il est **déjà lié à elle**.
-
-Le Lien est précisément ce qui rend cette rencontre possible : création, filiation, pacte, foi, possession, dette, participation, héritage ou toute autre relation reconnue par l'Horizon.
-
-La confrontation n'est pas nécessairement un combat physique. Elle peut porter sur un ordre refusé, une émancipation, une transformation, un jugement, une négociation, une rupture ou toute autre question capable d'opposer réellement l'être lié à sa Puissance.
-
-### La Puissance comme totalité
-
-:::caution[Règle provisoire]
-
-Cette règle est encore en construction. Elle permet de jouer dès maintenant une confrontation avec sa Puissance, mais ne représente pas encore bien ce qui s'y joue réellement : se couper d'elle, rompre ou transformer le Lien, défaire ou changer l'un de ses Attributs. Elle évoluera pour mieux rendre compte de ce geste.
-
-:::
-
-Une résolution ordinaire ne retient comme Mises que les éléments réellement pertinents pour le Focus, à ce Zoom.
-
-**Une confrontation directe avec sa Puissance constitue une exception.**
-
-La Puissance n'est pas découpée par le Focus en quelques capacités localement pertinentes. À l'échelle de cette rencontre, elle se présente comme une totalité relativement statique.
-
-- La Puissance peut engager **chacun des Attributs distincts de son portrait** comme une Mise en sa faveur, même si cet Attribut ne semblerait pas directement lié au Focus dans une résolution ordinaire. Comme toujours pour une Puissance, chaque Mise produit directement **1 Réussite**.
-- L'être lié engage ce qui lui appartient — les **Mises acquises** d'un Agent ou toute autre Mise relevant du Devenir — au prisme **Devenir**, et ses éventuelles **Mises du Lien**. Face à la Puissance dont elles proviennent, les Mises du Lien perdent leur certitude et sont lancées au prisme **Neutre**.
-- Les autres éléments pertinents de la situation deviennent des Mises de part et d'autre, comme dans toute résolution.
-
-Une victoire reste rare : la Puissance est fiable, l'être lié ne l'est pas.
-
-Une victoire contre une Puissance ne signifie pas automatiquement sa destruction. Le **Focus** et le **Zoom** disent toujours ce qui était réellement en jeu : refuser un ordre, rompre un Lien, transformer un Attribut ou renverser une Puissance sont des enjeux très différents.
 
 ## Plusieurs natures dans la même résolution
 
@@ -246,7 +214,7 @@ Chacun résout ses propres Mises selon son prisme — un Agent selon la provenan
 
 Des Humains, des Agents et d'autres acteurs peuvent donc agir ensemble, y compris lorsque plusieurs Agents servent des Puissances différentes, sans qu'il soit nécessaire de leur appliquer une règle commune.
 
-Une Puissance n'intervient directement que dans le cas particulier décrit par les règles de **Présence**. Dans les autres scènes, ce qui agit pour elle est traité selon la nature de sa manifestation.
+Une Puissance n'entre jamais elle-même dans une résolution : ce qui agit pour elle est traité selon la nature de sa manifestation. On ne la rencontre directement que lors d'un [moment de Présence](#la-présence).
 
 ## Comparer les Réussites
 
@@ -312,6 +280,8 @@ Cette reconnaissance ne concerne pas nécessairement lui seul. Ce qui appartient
 
 La contrepartie reste celle du Lien : ce qui réussit désormais par ce mot-clé, c'est la Puissance qui le réussit.
 
+C'est souvent lors d'un [moment de Présence](#la-présence) que la Puissance demande à l'Agent de lui céder ce qu'il a acquis.
+
 :::note[Exemple — le Divin]
 
 L'Ange de l'exemple précédent a appris à soigner les blessés sur les champs de bataille : *Ancien infirmier de guerre* est un mot-clé acquis. Il parvient à faire reconnaître le soin des corps comme appartenant au domaine de son Archange, qui ne connaissait jusque-là que la protection et le jugement.
@@ -321,6 +291,86 @@ Son mot-clé devient un mot-clé du Lien, *Mains de l'Archange*. Désormais, ses
 :::
 
 Dans une campagne longue, une extension ancienne peut finir par sembler avoir toujours appartenu à la Puissance. Les Attributs présents décrivent ce qu'elle est maintenant, pas nécessairement tout ce qu'elle a toujours été.
+
+## La Présence
+
+Une Puissance n'entre jamais elle-même dans une résolution. Mais un Agent peut se retrouver face à elle : c'est un **moment de Présence**.
+
+Seul un être **déjà lié** à une Puissance peut se tenir devant elle. Le Lien est précisément ce qui rend cette rencontre possible : création, filiation, pacte, foi, possession, dette, héritage ou toute autre relation reconnue par l'Horizon.
+
+Un moment de Présence peut se jouer régulièrement : en fin de partie, pendant un temps mort, ou à la demande du joueur. Sa forme dépend de l'Horizon et de la Puissance : une prière, un rapport, un rêve, une convocation, le sang qui parle.
+
+### Face à face
+
+D'un côté, la Puissance et **tous ses Attributs**. De l'autre, l'Agent, avec **ses mots-clés du Lien et ses mots-clés acquis**.
+
+Il n'y a ni dés ni Mises. Le MJ fait entendre la Puissance, le joueur répond pour son Agent. Ce qui se joue, c'est ce que la Puissance voit en lui, et ce que chacun accepte de donner.
+
+Trois cas peuvent se présenter.
+
+### Rien à signaler
+
+Rien de ce que l'Agent est devenu ne concerne sa Puissance. Elle réagit selon sa nature : « Pourquoi me déranges-tu ? », ou au contraire un réconfort.
+
+La scène ne reste pas creuse pour autant : la Puissance confie à l'Agent **une mission, un nouveau mot-clé du Lien ou une contrainte**, quelque chose qui le fait avancer. Ce qu'elle lui confie peut devenir le point de départ de la [Situation](situations.md) suivante.
+
+### Un acquis qui intéresse la Puissance
+
+L'un des mots-clés acquis de l'Agent apporte quelque chose que sa Puissance ne contient pas encore. La Puissance **lui demande de le lui céder**.
+
+Le joueur choisit.
+
+- S'il cède, le mot-clé devient un mot-clé du Lien et la Puissance s'[étend](#étendre-une-puissance). L'Agent gagne la certitude du Lien, mais perd le contrôle de ce qui lui appartenait : désormais, c'est la Puissance qui le réussit.
+- S'il refuse, il garde son acquis. Mais la relation en porte la trace : une conséquence, immédiate ou différée, que le MJ note ou révèle.
+
+### Un acquis en contradiction
+
+L'un des mots-clés acquis de l'Agent contredit un Attribut de sa Puissance. Si plusieurs sont dans ce cas, le MJ en choisit un.
+
+La Puissance questionne l'Agent. Le joueur peut mentir pour cacher cet acquis. Le mensonge peut tenir, mais il peut aussi revenir plus tard, plus lourd.
+
+Si la contradiction est révélée, l'Agent a trois voies :
+
+- **abandonner** son acquis, de son plein gré ;
+- **le garder** : la Puissance peut l'y autoriser, mais lui retire un mot-clé du Lien ;
+- **demander à la Puissance de changer**.
+
+### Transformer un Attribut
+
+L'Agent plaide sa cause face à sa Puissance.
+
+La Puissance a toute légitimité pour refuser d'évoluer : elle est déjà ce qu'elle est. Mais si **le monde porte déjà** ce que l'Agent a acquis, c'est un argument de poids. La Puissance peut refuser de changer ; le monde, lui, a déjà changé.
+
+La transformation réussit si le joueur trouve **comment la Puissance peut changer sans se renier** :
+
+- ses autres Attributs restent vrais ;
+- la nouvelle formulation protège encore ce que l'ancienne protégeait.
+
+Ce n'est pas un concours d'éloquence mais une énigme, et toute la table peut aider à la résoudre. Ce sont souvent les moments les plus forts d'une campagne.
+
+Si la transformation réussit, l'Attribut est réécrit, et ce changement touche tous les Agents de la Puissance. L'acquis de l'Agent peut alors devenir un mot-clé du Lien, comme lors d'une extension.
+
+Sinon, la demande se solde le plus souvent par la perte d'un mot-clé du Lien.
+
+:::note[Exemple — la Mort]
+
+Un vampire a vieilli aux côtés d'une humaine qu'il aimait, sans vieillir lui-même. Son acquis, *A aimé une mortelle jusqu'à sa mort*, contredit l'un des Attributs du Premier-Sang : *Ne meurt pas, ne vit pas*. Il veut désormais que sa lignée puisse mourir.
+
+Refuser la mort, c'est tout le Premier-Sang. Mais son joueur, aidé par la table, trouve un chemin : ce qui ne meurt pas, c'est le Premier-Sang lui-même, à travers ceux qu'il engendre. Une lignée qui se transmet ne meurt pas, même si ses enfants meurent.
+
+L'Attribut devient *La lignée ne meurt pas*. Les trois autres restent vrais, et ce que l'ancien protégeait demeure. Le Premier-Sang a changé sans se renier — et tous ses vampires peuvent désormais mourir.
+
+:::
+
+### Perdre tous ses Liens
+
+Un Lien ne se coupe pas d'un coup. Les mots-clés du Lien ne se perdent que lors de moments de Présence, un à un. Un Agent peut subir cette perte, ou la choisir : rompre, Présence après Présence.
+
+Lorsqu'il perd son dernier mot-clé du Lien, il cesse d'être un Agent. Chez Diotime, le daimôn se tient entre le dieu et le mortel ; l'Agent peut quitter cet entre-deux par l'un ou l'autre bout.
+
+**Redevenir humain.** Si le monde ne porte pas encore ce qu'il est devenu, l'Agent redevient humain. Il retrouve la condition humaine, avec ce qu'elle signifie pour lui : un vampire, déjà mort, meurt enfin. S'il y survit, il garde ses mots-clés acquis : ce qu'il sait, ceux qu'il connaît, ce qu'il a vécu. Le joueur peut continuer à le jouer : un humain à part, qui en sait beaucoup, qui a sans doute des alliés parmi les Agents, et qui peut organiser des humains contre les forces des Puissances. Seul face à un Agent, il subit la certitude du Lien ; mais si un Agent allié engage à ses côtés des Mises du Lien, celles de l'adversaire perdent leur certitude (voir [Face à un autre Agent](#face-à-un-autre-agent)).
+
+**Devenir une Puissance.** Si le monde porte déjà ce qu'il est devenu, et si le joueur en accepte le fardeau, l'Agent devient lui-même une Puissance. Une nouvelle Puissance apparaît sur l'Horizon, née de la campagne ; la table écrit ses Attributs à partir de ce que l'Agent était devenu. C'est un fardeau, car une Puissance ne devient plus : elle est déjà ce qu'elle est. Le joueur peut ensuite jouer un Agent de cette nouvelle Puissance, et porter sa voix lors des moments de Présence.
 
 ## Le 6
 

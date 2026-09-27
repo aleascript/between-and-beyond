@@ -36,7 +36,7 @@ These Attributes are not a list of bonuses. They describe a relatively stable wh
 
 Most of the time, a Power does not enter a resolution directly: its Agents, avatars, or other manifestations become present in the world instead. The Power's Attributes then help establish what passes through them.
 
-When a being already bound to a Power manages to confront it directly, the **Presence** rules below allow that whole to weigh on the resolution.
+Only a being already bound to a Power can find themselves face to face with that whole, during a [moment of Presence](#presence).
 
 ## Playing
 
@@ -196,47 +196,15 @@ Later, a Demon steps in and also commits Bond Bets. This time, both Agents' Bond
 
 :::
 
-## The Presence of a Power
+## Powers Do Not Confront One Another Directly
 
 A Power is not normally a directly accessible protagonist in a scene. It becomes present through its Agents, avatars, signs, institutions, or other manifestations established by the Horizon.
-
-### Powers Do Not Confront One Another Directly
 
 **Two Powers are never the two direct opponents of the same resolution.**
 
 When Powers enter into conflict, their opposition must become present in the world: through their Agents, avatars, beings bound to them, places, phenomena, or other forms of mediation.
 
 If the characters believe they are directly confronting a Power outside their own Bond, they are actually confronting whatever makes it present at that place and moment. That manifestation receives the appropriate nature — most often Agent — and is resolved normally.
-
-### Reaching a Power
-
-A being may confront a Power directly only when the fiction establishes that they are **already bound to it**.
-
-The Bond is precisely what makes the encounter possible: creation, lineage, pact, faith, possession, debt, participation, inheritance, or any other relationship recognized by the Horizon.
-
-The confrontation need not be a physical fight. It may concern a refused command, emancipation, transformation, judgment, negotiation, rupture, or any other question capable of truly opposing the bound being to their Power.
-
-### The Power as a Whole
-
-:::caution[Provisional rule]
-
-This rule is still under construction. It lets the table play a confrontation with one's own Power right away, but it does not yet capture well what is truly at stake: cutting oneself off from it, breaking or transforming the Bond, undoing or changing one of its Attributes. It will evolve to better account for that gesture.
-
-:::
-
-An ordinary resolution keeps only the elements that genuinely matter to the Focus, at that Zoom, as Bets.
-
-**A direct confrontation with one's own Power is an exception.**
-
-The Focus does not cut the Power down to a few locally relevant capabilities. At the scale of this encounter, it presents itself as a relatively static whole.
-
-- The Power may commit **each distinct Attribute in its portrait** as a Bet in its favor, even when that Attribute would not seem directly relevant to the Focus in an ordinary resolution. As always for a Power, each Bet directly produces **1 Success**.
-- The bound being commits what belongs to them — an Agent's **Acquired Bets** or any other Bet that belongs to Becoming — with the **Becoming** prism, and any **Bond Bets** they have. Against the Power they come from, Bond Bets lose their certainty and are rolled with the **Neutral** prism.
-- Other relevant elements of the situation become Bets on either side, as in any resolution.
-
-Victory remains rare: the Power is reliable; the bound being is not.
-
-A victory against a Power does not automatically mean destroying it. The **Focus** and **Zoom** still determine what was truly at stake: refusing an order, breaking a Bond, transforming an Attribute, or overthrowing a Power are very different questions.
 
 ## Different Natures in the Same Resolution
 
@@ -246,7 +214,7 @@ Each resolves their own Bets according to their prism — an Agent according to 
 
 Humans, Agents, and other actors may therefore act together, including when several Agents serve different Powers, without requiring everyone to use the same rule.
 
-A Power intervenes directly only in the particular case described by the **Presence** rules. In other scenes, whatever acts for it is resolved according to the nature of its manifestation.
+A Power never enters a resolution itself: whatever acts for it is resolved according to the nature of its manifestation. It is met directly only during a [moment of Presence](#presence).
 
 ## Comparing Successes
 
@@ -312,6 +280,8 @@ This recognition does not necessarily concern them alone. What now belongs to th
 
 The cost remains that of the Bond: what now succeeds through this keyword is the Power succeeding.
 
+It is often during a [moment of Presence](#presence) that the Power asks the Agent to cede what they have acquired.
+
 :::note[Example — the Divine]
 
 The Angel from the previous example learned to care for the wounded on battlefields: *Former Wartime Nurse* is an acquired keyword. They manage to have the care of bodies recognized as part of their Archangel's domain, which until then knew only protection and judgment.
@@ -321,6 +291,86 @@ Their keyword becomes a Bond keyword, *Hands of the Archangel*. From now on, the
 :::
 
 In a long campaign, an old extension may eventually seem as though it had always belonged to the Power. Present Attributes describe what the Power is now, not necessarily everything it has always been.
+
+## Presence
+
+A Power never enters a resolution itself. But an Agent can find themselves face to face with it: this is a **moment of Presence**.
+
+Only a being **already bound** to a Power can stand before it. The Bond is precisely what makes the encounter possible: creation, lineage, pact, faith, possession, debt, inheritance, or any other relationship recognized by the Horizon.
+
+A moment of Presence can be played regularly: at the end of a session, during a lull, or at the player's request. Its form depends on the Horizon and the Power: a prayer, a report, a dream, a summons, the blood speaking.
+
+### Face to Face
+
+On one side, the Power and **all of its Attributes**. On the other, the Agent, with **their Bond keywords and their acquired keywords**.
+
+There are no dice and no Bets. The GM lets the Power be heard; the player answers for their Agent. What is at play is what the Power sees in them, and what each side is willing to give.
+
+Three cases can arise.
+
+### Nothing to Report
+
+Nothing the Agent has become concerns their Power. It reacts according to its nature: "Why do you disturb me?", or on the contrary, comfort.
+
+The scene does not stay hollow for all that: the Power gives the Agent **a mission, a new Bond keyword, or a constraint**, something that moves them forward. What it gives them can become the starting point of the next [Situation](situations.md).
+
+### An Acquired Keyword That Interests the Power
+
+One of the Agent's acquired keywords brings something their Power does not yet contain. The Power **asks the Agent to cede it**.
+
+The player chooses.
+
+- If they cede it, the keyword becomes a Bond keyword and the Power [extends](#extending-a-power). The Agent gains the certainty of the Bond, but loses control of what was theirs: from now on, the Power is the one succeeding.
+- If they refuse, they keep their acquired keyword. But the relationship bears the mark: a consequence, immediate or deferred, which the GM notes or reveals.
+
+### An Acquired Keyword in Contradiction
+
+One of the Agent's acquired keywords contradicts an Attribute of their Power. If several do, the GM chooses one.
+
+The Power questions the Agent. The player may lie to hide that keyword. The lie may hold, but it may also come back later, heavier.
+
+If the contradiction is revealed, the Agent has three paths:
+
+- **give up** the acquired keyword, of their own free will;
+- **keep it**: the Power may allow it, but takes away one of their Bond keywords;
+- **ask the Power to change**.
+
+### Transforming an Attribute
+
+The Agent pleads their case before their Power.
+
+The Power is fully entitled to refuse to change: it already is what it is. But if **the world already carries** what the Agent has acquired, that is a weighty argument. The Power may refuse to change; the world has already changed.
+
+The transformation succeeds if the player finds **how the Power can change without denying itself**:
+
+- its other Attributes remain true;
+- the new wording still protects what the old one protected.
+
+This is not a contest of eloquence but a puzzle, and the whole table can help solve it. These are often the strongest moments of a campaign.
+
+If the transformation succeeds, the Attribute is rewritten, and the change affects all of the Power's Agents. The Agent's acquired keyword may then become a Bond keyword, as with an extension.
+
+Otherwise, the request most often ends with the loss of a Bond keyword.
+
+:::note[Example — Death]
+
+A vampire has grown old alongside a human he loved, without ageing himself. His acquired keyword, *Loved a mortal until her death*, contradicts one of the Eldest Blood's Attributes: *Neither dies nor lives*. He now wants his lineage to be able to die.
+
+Refusing death is everything the Eldest Blood is. But his player, helped by the table, finds a path: what does not die is the Eldest Blood itself, through those it begets. A lineage that is passed on does not die, even when its children do.
+
+The Attribute becomes *The lineage does not die*. The other three remain true, and what the old one protected endures. The Eldest Blood has changed without denying itself — and all its vampires can now die.
+
+:::
+
+### Losing All One's Bonds
+
+A Bond is not cut all at once. Bond keywords are lost only during moments of Presence, one by one. An Agent may suffer this loss, or choose it: breaking away, one moment of Presence after another.
+
+When they lose their last Bond keyword, they cease to be an Agent. For Diotima, the daimon stands between god and mortal; the Agent can leave that in-between by either end.
+
+**Becoming human again.** If the world does not yet carry what they have become, the Agent becomes human again. They return to the human condition, with what it means for them: a vampire, already dead, finally dies. If they survive it, they keep their acquired keywords: what they know, whom they know, what they have lived. The player can go on playing them: a human set apart, who knows a great deal, who likely has allies among the Agents, and who can organize humans against the forces of the Powers. Alone against an Agent, they suffer the certainty of the Bond; but if an allied Agent commits Bond Bets at their side, the opponent's Bond Bets lose their certainty (see [Against Another Agent](#against-another-agent)).
+
+**Becoming a Power.** If the world already carries what they have become, and if the player accepts the burden, the Agent becomes a Power themselves. A new Power appears on the Horizon, born of the campaign; the table writes its Attributes from what the Agent had become. It is a burden, for a Power no longer becomes: it already is what it is. The player can then play an Agent of this new Power, and voice it during moments of Presence.
 
 ## The 6
 

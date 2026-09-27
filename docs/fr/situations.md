@@ -24,7 +24,7 @@ Le mouvement que décrit [le propos du jeu](purpose.md) donne les directions dan
 
 **Disputer une nouveauté.** Quelque chose apparaît dans le monde, et plusieurs Puissances le veulent, le craignent ou le revendiquent. Elles ne s'affrontent jamais directement : leurs Agents le font pour elles.
 
-**Transformer sa propre Puissance.** L'Agent ne veut plus seulement porter ce qui passe par lui : il veut le changer. Il doit alors confronter sa Puissance selon les règles de [Présence](core-rules.md#la-présence-dune-puissance).
+**Transformer sa propre Puissance.** L'Agent ne veut plus seulement porter ce qui passe par lui : il veut le changer. Cela se joue lors d'un [moment de Présence](core-rules.md#la-présence), où il devra trouver comment elle peut changer sans se renier.
 
 Ces directions ne forment pas un catalogue. Une même Situation peut passer de l'une à l'autre : une affaire de médiation fait apparaître une nouveauté, une nouveauté disputée pousse un Agent à défier sa propre Puissance. Et une table en trouvera d'autres.
 
@@ -76,6 +76,8 @@ Le MJ n'a pas à tout inventer : chaque page d'[Horizon](horizons.md) est déjà
 - Les **situations** de l'Horizon donnent des points de départ.
 
 Préparer une séance peut donc se limiter à choisir une nouveauté ou une affaire de médiation, à noter quelles Puissances s'y intéressent et par qui, puis à ajouter une ou deux Pressions.
+
+Les moments de Présence en fournissent aussi : la mission qu'une Puissance confie à un Agent est un point de départ tout trouvé.
 
 Les joueurs peuvent aussi y contribuer. Le portrait de leurs Agents dit ce qu'ils ont acquis au contact du monde, et un joueur peut proposer une nouveauté que son Agent a remarquée : ce qu'il regarde dit souvent ce que la table viendra chercher.
 

@@ -2,7 +2,7 @@
 
 This appendix addresses the AI reading this file. It is not part of the rules: it only says how to behave when someone asks you about **Metaxy** or asks you to play.
 
-**Metaxy** is in active design. Some pages announce what they "will offer later", and the rule of **Presence** is explicitly provisional. When a question touches these areas, say so.
+**Metaxy** is in active design. Some pages announce what they "will offer later". When a question touches these areas, say so.
 
 ## Do not take on any role unless asked
 
@@ -60,9 +60,13 @@ Do not make a Power speak like an NPC. It becomes present through its Agents, av
 - **What succeeds through the Bond is achieved by the Power.** Describe the success in the Power's manner, even when it is not what the player hoped for.
 - Bets return to the fiction after the roll: use them to interpret the result.
 
-### Presence
+### Moments of Presence
 
-The rule of Presence is provisional. If an Agent confronts their own Power, apply it as written, flag it as provisional, and do not invent a replacement rule.
+A moment of Presence is resolved with neither dice nor Bets. Let the Power be heard according to its Attributes, then let the player choose: cede or keep an acquired keyword, lie or confess, give it up, lose a Bond, or ask the Power to change. Never choose for them.
+
+When they ask for an Attribute to be transformed, judge it by the two criteria in the rules (the other Attributes remain true, the new wording still protects what the old one protected), not by eloquence. If one of them fails, say which. If the player asks out of fiction, help them look for a wording, as the table would.
+
+Keep track of the deferred consequences of a refusal or a lie, and bring them back when the fiction allows.
 
 ## Creating an Agent is a conversation
 

@@ -2,7 +2,7 @@
 
 Cette annexe s'adresse à l'IA qui lit ce fichier. Elle ne fait pas partie des règles : elle dit seulement comment se comporter quand quelqu'un vous interroge sur **Metaxy** ou vous demande de jouer.
 
-**Metaxy** est en conception active. Certaines pages annoncent ce qu'elles « proposeront plus tard », et la règle de **Présence** est explicitement provisoire. Quand une question touche à ces zones, dites-le.
+**Metaxy** est en conception active. Certaines pages annoncent ce qu'elles « proposeront plus tard ». Quand une question touche à ces zones, dites-le.
 
 ## N'entrez dans aucun rôle sans qu'on vous le demande
 
@@ -60,9 +60,13 @@ Ne faites pas parler une Puissance comme un PNJ. Elle devient présente par ses 
 - **Ce qui réussit par le Lien, c'est la Puissance qui le réussit.** Décrivez la réussite à la manière de la Puissance, même quand ce n'est pas ce que le joueur espérait.
 - Les Mises reviennent dans la fiction après le jet : servez-vous-en pour interpréter le résultat.
 
-### La Présence
+### Les moments de Présence
 
-La règle de Présence est provisoire. Si un Agent confronte sa propre Puissance, appliquez-la telle qu'elle est écrite, signalez-la comme provisoire, et n'inventez pas de règle de remplacement.
+Un moment de Présence ne se résout ni avec des dés ni avec des Mises. Faites entendre la Puissance selon ses Attributs, puis laissez le joueur choisir : céder ou garder un acquis, mentir ou avouer, abandonner, perdre un Lien ou demander à la Puissance de changer. Ne choisissez jamais à sa place.
+
+Quand il demande une transformation d'Attribut, jugez-la sur les deux critères des règles (les autres Attributs restent vrais, la nouvelle formulation protège encore ce que l'ancienne protégeait), pas sur l'éloquence. Si l'un des deux échoue, dites lequel. Si le joueur le demande hors fiction, aidez-le à chercher une formulation, comme le ferait la table.
+
+Notez les conséquences différées d'un refus ou d'un mensonge, et faites-les revenir quand la fiction s'y prête.
 
 ## Créer un Agent est une conversation
 
