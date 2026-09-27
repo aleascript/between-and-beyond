@@ -9,6 +9,9 @@ export default definePublications({
   markdown: {
     admonitions: ['design'],
   },
+  site: {
+    publicUrl: 'https://aleascript.github.io/metaxy',
+  },
   publications: {
     metaxy: {
       author: 'AleaScript',
@@ -58,10 +61,11 @@ export default definePublications({
             'docs/en/desire.md',
             'docs/en/destruction.md',
             'docs/en/nature.md',
+            'docs/en/situations.md',
             'docs/en/tones.md',
             'docs/en/time.md',
           ],
-          outputs: ['pdf'],
+          outputs: ['pdf', 'md'],
         },
         fr: {
           title: 'Metaxy',
@@ -80,10 +84,11 @@ export default definePublications({
             'docs/fr/desire.md',
             'docs/fr/destruction.md',
             'docs/fr/nature.md',
+            'docs/fr/situations.md',
             'docs/fr/tones.md',
             'docs/fr/time.md',
           ],
-          outputs: ['pdf'],
+          outputs: ['pdf', 'md'],
         },
       },
     },

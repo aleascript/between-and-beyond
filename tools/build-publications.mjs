@@ -4,6 +4,7 @@ import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {build} from '@vivliostyle/cli';
 import config from '../publications.config.mjs';
+import {cleanChapter, llmHeader} from './llm-markdown.mjs';
 
 const projectRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const workRoot = path.join(projectRoot, '.publication-workspace');
@@ -303,8 +304,9 @@ function publicAssetPath(baseName, locale, format) {
   return format === 'webpub' ? `${name}/` : name;
 }
 
+// Vivliostyle renders the book formats; the Markdown edition is written directly.
 function outputTargets(baseName, locale, formats) {
-  return formats.map((format) => ({
+  return formats.filter((format) => format !== 'md').map((format) => ({
     path: path.join(outputRoot, assetName(baseName, locale, format)),
     format,
   }));
@@ -472,6 +474,39 @@ async function writeCover(
   };
 }
 
+async function pathExists(target) {
+  try {
+    await fs.access(target);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+async function writeMarkdownEdition(publicationName, publication, locale, localeConfig, version, chapters) {
+  // Instructions addressed to the AI reading the file: Markdown edition only,
+  // never the printed book.
+  const appendixPath = path.join(projectRoot, 'publication', 'ai', `${locale}.md`);
+  if (await pathExists(appendixPath)) {
+    chapters.push(cleanChapter(await fs.readFile(appendixPath, 'utf8')));
+  }
+
+  const header = llmHeader({
+    locale,
+    title: localeConfig.title,
+    author: publication.author,
+    version,
+    revision: publication.revision,
+    license: publication.license,
+    publicUrl: config.site?.publicUrl,
+  });
+  await fs.writeFile(
+    path.join(outputRoot, assetName(publication.outputName ?? publicationName, locale, 'md')),
+    `${[header, ...chapters].join('\n\n')}\n`,
+    'utf8',
+  );
+}
+
 async function preparePublication(
   publicationName,
   publication,
@@ -485,6 +520,8 @@ async function preparePublication(
 
   const customAdmonitions = config.markdown?.admonitions ?? [];
   const contentEntries = [];
+  const wantsMd = localeConfig.outputs.includes('md');
+  const llmChapters = [];
 
   for (const sourcePath of localeConfig.contents) {
     const sourceAbsolute = path.join(projectRoot, sourcePath);
@@ -499,6 +536,16 @@ async function preparePublication(
     await fs.mkdir(path.dirname(destinationAbsolute), {recursive: true});
     await fs.writeFile(destinationAbsolute, transformed, 'utf8');
     contentEntries.push(title ? {path: sourcePath, title} : sourcePath);
+
+    if (wantsMd) {
+      llmChapters.push(
+        cleanChapter(transformAdmonitions(withChapterHeading, locale, customAdmonitions)),
+      );
+    }
+  }
+
+  if (wantsMd) {
+    await writeMarkdownEdition(publicationName, publication, locale, localeConfig, version, llmChapters);
   }
 
   const themeSource = path.join(projectRoot, publication.theme);

@@ -42,7 +42,7 @@ When a being already bound to a Power manages to confront it directly, the **Pre
 
 **Metaxy** uses a traditional tabletop role-playing structure.
 
-One person is the **Game Master (GM)**. They present the world, play its inhabitants and forces, describe their reactions, and establish the important consequences of choices.
+One person is the **Game Master (GM)**. They present the world, play its inhabitants and forces, describe their reactions, and establish the important consequences of choices. [Situations](situations.md) help them prepare what sets the Agents in motion.
 
 The other participants are the **players**. Each usually plays an Agent and decides what they attempt, what they say, and how they act.
 

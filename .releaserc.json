@@ -33,6 +33,7 @@
         "assets": [
           "dist/publications/*.pdf",
           "dist/publications/*.epub",
+          "dist/publications/*.md",
           "dist/publications/publications.json"
         ],
         "successComment": false,

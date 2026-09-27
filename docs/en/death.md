@@ -131,7 +131,7 @@ The Passage holds no one back and knows nothing of care: it carries across. If M
 
 ## Situations
 
-The three forms of situations in **Metaxy** find concrete faces here.
+The [directions](situations.md#what-sets-the-agents-in-motion) a Situation can take find concrete faces here.
 
 **Bringing a novelty.** A guide discovers palliative care; a revenant discovers that they can be photographed; an Assessor attends a trial where a living person is judged for what they did to a dead one.
 
