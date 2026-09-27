@@ -1,0 +1,144 @@
+/*
+ * The template deliberately starts with a restrained editorial theme.
+ * Derived games can replace the tokens in site.config.ts and add a small
+ * amount of project-specific CSS without touching component code.
+ */
+:root {
+  --ifm-color-primary: var(--site-primary);
+  --ifm-color-primary-dark: color-mix(in srgb, var(--site-primary) 88%, black);
+  --ifm-color-primary-darker: color-mix(in srgb, var(--site-primary) 80%, black);
+  --ifm-color-primary-darkest: color-mix(in srgb, var(--site-primary) 66%, black);
+  --ifm-color-primary-light: color-mix(in srgb, var(--site-primary) 88%, white);
+  --ifm-color-primary-lighter: color-mix(in srgb, var(--site-primary) 80%, white);
+  --ifm-color-primary-lightest: color-mix(in srgb, var(--site-primary) 64%, white);
+  --ifm-background-color: var(--site-background);
+  --ifm-background-surface-color: var(--site-surface);
+  --ifm-font-color-base: var(--site-text);
+  --ifm-color-content-secondary: var(--site-muted);
+  --ifm-font-family-base: var(--site-font-body);
+  --ifm-heading-font-family: var(--site-font-heading);
+  --ifm-font-family-monospace: var(--site-font-mono);
+  --ifm-font-size-base: 100%;
+  --ifm-line-height-base: 1.7;
+  --ifm-heading-font-weight: var(--site-heading-weight);
+  --ifm-global-radius: var(--site-radius);
+  --ifm-global-border-width: var(--site-border-width);
+  --ifm-navbar-shadow: var(--site-navbar-shadow);
+  --ifm-navbar-background-color: var(--site-background);
+  --ifm-toc-border-color: var(--site-border);
+  --ifm-color-emphasis-200: var(--site-border);
+  --ifm-color-emphasis-300: var(--site-border);
+  --ifm-code-font-size: 92%;
+  --docusaurus-highlighted-code-line-bg: color-mix(
+    in srgb,
+    var(--site-primary) 12%,
+    transparent
+  );
+}
+
+html,
+body {
+  background: var(--site-background);
+  color: var(--site-text);
+}
+
+[data-theme='dark'] {
+  --docusaurus-highlighted-code-line-bg: color-mix(
+    in srgb,
+    var(--site-primary) 16%,
+    transparent
+  );
+}
+
+.navbar__title {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.theme-doc-markdown {
+  max-width: var(--site-content-width);
+}
+
+/*
+ * Keep the light logo in Markdown so publication builds use it unchanged.
+ * Only the website swaps the rendered image when Docusaurus is in dark mode.
+ */
+html[data-theme='dark'] .theme-doc-markdown img[src*='logo_light_theme_400'] {
+  content: url('/img/site/logo_dark_theme_400.png');
+}
+
+.theme-doc-markdown > h1:first-child {
+  letter-spacing: -0.035em;
+}
+
+.theme-doc-markdown p,
+.theme-doc-markdown li {
+  font-size: 1.04rem;
+}
+
+.theme-doc-markdown blockquote {
+  border-left-color: var(--site-primary);
+  color: var(--site-muted);
+}
+
+/* `:::design` is a custom editorial admonition; standard `:::note` remains untouched. */
+.theme-admonition-design {
+  border: var(--site-border-width) solid var(--site-border);
+  border-left: 4px solid var(--site-primary);
+  border-radius: var(--site-radius);
+  background: color-mix(in srgb, var(--site-primary) 7%, var(--site-surface));
+  color: var(--site-text);
+}
+
+.table-of-contents {
+  border-left-color: var(--site-border);
+}
+
+.publications-page {
+  max-width: var(--site-content-width);
+}
+
+.publications-header {
+  margin-bottom: 2rem;
+}
+
+.publications-header > h1 {
+  margin-bottom: 0.5rem;
+}
+
+.publications-version,
+.publication-revision {
+  color: var(--site-muted);
+}
+
+.publications-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+}
+
+.publication-card {
+  padding: 1.25rem;
+  border: var(--site-border-width) solid var(--site-border);
+  border-radius: var(--site-radius);
+  background: var(--site-surface);
+}
+
+.publication-card > h2 {
+  margin-bottom: 0.35rem;
+}
+
+.publication-formats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.footer--dark {
+  --ifm-footer-background-color: color-mix(
+    in srgb,
+    var(--site-background) 76%,
+    black
+  );
+}
