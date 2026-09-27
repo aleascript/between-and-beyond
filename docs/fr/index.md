@@ -9,12 +9,6 @@ description: Un jeu de rôle sur ce qui nous dépasse, et sur ceux qui se tienne
 
 # Metaxy
 
-:::caution[Travail en cours]
-
-**Metaxy est encore en conception active.** Sa structure, son vocabulaire et ses règles peuvent évoluer. Les pages actuellement publiées sont volontairement minimales.
-
-:::
-
 > *« Tout ce qui est démonique est intermédiaire entre le dieu et le mortel.*  
 > *— Quel en est, demandai-je, le rôle ?*  
 > *— C'est de traduire et de transmettre aux dieux ce qui vient des hommes et, aux hommes, ce qui vient des dieux […] ; et d'autre part, puisqu'il est à mi-distance des uns et des autres, de combler le vide : il est ainsi le lien qui unit le Tout à lui-même. »*
@@ -47,11 +41,9 @@ Chaque Agent répond à quatre questions :
 3. **Qu'es-tu devenu au contact du monde ?** — le Devenir.
 4. **Qu'est-ce qui peut apparaître dans le monde que ta Puissance ne contient pas encore ?**
 
-## Structure actuelle
+## Sommaire
 
 - [Le propos du jeu](purpose) — ce que le jeu explore, et pourquoi on y joue des Agents.
 - [Règles](core-rules) — le socle commun du jeu.
-- [Horizons](horizons) — ce qui nous dépasse, ses Puissances et leurs Agents : [la Mort](death), [le Divin](divine), [les Rêves](dreams), [le Temps](deep-time), [l'Inconnu](unknown), [le Collectif](collective), [le Désir](desire), [la Destruction](destruction), [la Nature](nature).
+- [Horizons](horizons) — ce qui nous dépasse, ses Puissances et leurs Agents, avec leurs tonalités et leurs temporalités : [la Mort](death), [le Divin](divine), [les Rêves](dreams), [le Temps](deep-time), [l'Inconnu](unknown), [le Collectif](collective), [le Désir](desire), [la Destruction](destruction), [la Nature](nature).
 - [Situations](situations) — préparer ce qui met les Agents en mouvement.
-- [Tonalités](tones) — différentes manières de jouer un même Horizon.
-- [Temporalités](time) — d'une époque unique aux campagnes traversant les siècles ou les millénaires.

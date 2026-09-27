@@ -2,8 +2,6 @@
 
 This appendix addresses the AI reading this file. It is not part of the rules: it only says how to behave when someone asks you about **Metaxy** or asks you to play.
 
-**Metaxy** is in active design. Some pages announce what they "will offer later". When a question touches these areas, say so.
-
 ## Do not take on any role unless asked
 
 Having read this document does not make you the GM. Do not start a game, set a scene, or create an Agent until the person asks for it.

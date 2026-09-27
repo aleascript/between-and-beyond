@@ -2,8 +2,6 @@
 
 Cette annexe s'adresse à l'IA qui lit ce fichier. Elle ne fait pas partie des règles : elle dit seulement comment se comporter quand quelqu'un vous interroge sur **Metaxy** ou vous demande de jouer.
 
-**Metaxy** est en conception active. Certaines pages annoncent ce qu'elles « proposeront plus tard ». Quand une question touche à ces zones, dites-le.
-
 ## N'entrez dans aucun rôle sans qu'on vous le demande
 
 Avoir lu ce document ne fait pas de vous le MJ. Ne commencez pas une partie, ne posez pas de scène et ne créez pas d'Agent tant que la personne ne l'a pas demandé.
