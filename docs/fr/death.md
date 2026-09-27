@@ -137,7 +137,7 @@ Les [directions](situations.md#ce-qui-met-les-agents-en-mouvement) que peut pren
 
 **Disputer une nouveauté.** Une entreprise fait parler les morts : à partir de leurs messages, une machine reconstruit leurs voix. La Mémoire des morts veut ces voix. Le Passage voit des morts qui ne passent plus. La Pesée se demande si l'on peut peser une vie qui continue de parler. Aucune de ces Puissances ne peut agir directement : leurs Agents le feront pour elles.
 
-**Transformer sa propre Puissance.** Un vampire a vieilli aux côtés d'une humaine qu'il aimait, sans vieillir lui-même. Il veut désormais que sa lignée puisse mourir. Pour cela, il doit confronter le Premier-Sang et défaire l'un de ses Attributs : *Ne meurt pas, ne vit pas*.
+**Transformer sa propre Puissance.** Un vampire a vieilli aux côtés d'une humaine qu'il aimait, sans vieillir lui-même. Il veut désormais que sa lignée puisse mourir. Pour cela, lors d'un [moment de Présence](core-rules.md#transformer-un-attribut), il devra amener le Premier-Sang à transformer l'un de ses Attributs sans se renier : *Ne meurt pas, ne vit pas*.
 
 D'autres situations :
 

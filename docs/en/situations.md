@@ -24,7 +24,7 @@ The movement described in [What This Game Is About](purpose.md) gives the direct
 
 **Contending for a novelty.** Something appears in the world, and several Powers want it, fear it, or claim it. They never confront one another directly: their Agents do it for them.
 
-**Transforming one's own Power.** The Agent no longer only wants to carry what passes through them: they want to change it. They must then confront their Power under the rules of [Presence](core-rules.md#the-presence-of-a-power).
+**Transforming one's own Power.** The Agent no longer only wants to carry what passes through them: they want to change it. This is played out during a [moment of Presence](core-rules.md#presence), where they must find how it can change without denying itself.
 
 These directions are not a catalog. The same Situation can move from one to another: a matter of mediation brings a novelty to light, a contested novelty pushes an Agent to defy their own Power. And a table will find others.
 
@@ -76,6 +76,8 @@ The GM does not have to invent everything: each [Horizon](horizons.md) page is a
 - The Horizon's **situations** give starting points.
 
 Preparing a session can therefore come down to choosing a novelty or a matter of mediation, noting which Powers care about it and through whom, then adding one or two Pressures.
+
+Moments of Presence provide some too: the mission a Power gives an Agent is a ready-made starting point.
 
 Players can contribute too. Their Agents' portraits say what they have acquired in contact with the world, and a player may suggest a novelty their Agent has noticed: what they look at often says what the table will come looking for.
 

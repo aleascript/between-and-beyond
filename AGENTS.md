@@ -26,7 +26,7 @@ Two Powers never confront each other directly: their Agents do. An Agent can ext
 - **Rules emerge from the game, never the reverse** (the author's *Resonance* approach to RPG design). A rule must reflect what is at stake in the fiction; no gimmick rules, tokens, or add-on subsystems. *The Strange* is the reference antipattern: it starts from rules and bolts worlds onto them.
 - Every Horizon must answer the three questions of "Why Agents?": the difference of scale, what each side experiences, what is transformed. A figure that answers none of them does not belong, however cool.
 - Mythic figures are taken seriously, neither as primitive nonsense nor as detachable tropes.
-- The rule of **Presence** (confronting one's own Power) is known to be provisional. Leave it to the author unless asked.
+- **Presence** is a dice-free moment between an Agent and their Power (three cases, Attribute transformation "without denying itself", the two exits: becoming human or becoming a Power). It was designed with the author: do not reintroduce dice or Bets into it, and keep the pages that mention it consistent.
 
 ## Horizon pages
 
