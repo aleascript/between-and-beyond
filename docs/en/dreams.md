@@ -88,9 +88,9 @@ Those who shape dreams. The Bond is a craft handed down.
 
 Those who put people to sleep. The figure comes from tales: Andersen's little man with his two umbrellas, or Hoffmann's far more disturbing one. The Bond is an office.
 
-- *Brings sleep with a gesture*, from *Every living being yields to it*;
-- *Sees what everyone dreams*, from the office itself;
-- *Invisible to the waking*, from the office itself.
+- *Brings sleep with a gesture*, from the office itself;
+- *Sees what everyone dreams*, from *Every living being yields to it*;
+- *Invisible to the waking*, from *Brother of Death*.
 
 **What the figure lets us think:** the threshold of sleep; letting go; entrusting one's night to someone.
 

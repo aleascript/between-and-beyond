@@ -88,9 +88,9 @@ Ceux qui façonnent les rêves. Le Lien est un savoir-faire transmis.
 
 Ceux qui endorment. La figure vient des contes : le petit homme d'Andersen avec ses deux parapluies, ou celui, plus inquiétant, d'Hoffmann. Le Lien est un office.
 
-- *Endort d'un geste*, de *Tout vivant lui cède* ;
-- *Voit ce que chacun rêve*, de l'office lui-même ;
-- *Invisible aux éveillés*, de l'office lui-même.
+- *Endort d'un geste*, de l'office lui-même ;
+- *Voit ce que chacun rêve*, de *Tout vivant lui cède* ;
+- *Invisible aux éveillés*, de *Frère de la Mort*.
 
 **Ce que la figure permet de penser :** le seuil du sommeil ; lâcher prise ; confier sa nuit à quelqu'un.
 
