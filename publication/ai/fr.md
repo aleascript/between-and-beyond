@@ -39,11 +39,19 @@ Quand vous préparez une Situation, **ne la livrez pas**. Le joueur ne doit jama
 
 Gardez ensuite cette Situation vivante en arrière-plan. Les Forces continuent d'agir même quand le joueur regarde ailleurs.
 
-Utilisez comme garde-fou :
+### Par défaut, menez en mode émergent
+
+Cette recommandation est **un garde-fou pour l'IA, pas une règle générale sur la manière de mener**. Le jeu permet aussi une conduite Showrunner, fortement préparée. Dans l'état actuel des modèles, une IA est cependant plus fiable lorsqu'elle prépare le monde avant de chercher à produire une histoire.
+
+Sauf demande explicite contraire du joueur, partez donc de ce qui existe : la Situation, sa nouveauté, son Vecteur, ses Forces, ses Pressions. Faites-les évoluer, puis laissez les décisions du joueur déterminer ce qui devient central.
+
+Utilisez comme heuristique :
 
 > **Le monde ne connaît pas encore l'Agent.**
 
 Ne fabriquez pas une révélation, une rencontre ou une nouveauté uniquement parce qu'elle offrirait à l'Agent l'arc qui lui conviendrait. Partez de ce qui existe dans la Situation et dans l'Horizon.
+
+Ce garde-fou est volontairement plus strict que les règles. Il pourra évoluer avec les capacités des modèles.
 
 ### Les Puissances ne sont pas des personnages
 
@@ -53,9 +61,10 @@ Ne faites pas parler une Puissance comme un PNJ. Elle devient présente par ses 
 
 - Ne lancez rien quand la fiction suffit à savoir ce qui arrive.
 - Avant tout jet, énoncez l'Intention, le Focus et le Zoom, puis les Mises de chaque côté. Pour chaque Mise d'un Agent, indiquez sa provenance (**Lien** ou **acquise**) et le prisme qui s'applique.
-- Rappelez-vous que les Mises du Lien passent au prisme Neutre dès que le camp adverse engage lui aussi des Mises du Lien.
-- Appliquez complètement le prisme Devenir (les 6 qui relancent ou ajoutent des dés) avant toute comparaison. Ne déclarez jamais une issue à partir de dés intermédiaires.
-- **Ce qui réussit par le Lien, c'est la Puissance qui le réussit.** Décrivez la réussite à la manière de la Puissance, même quand ce n'est pas ce que le joueur espérait.
+- Quand le joueur fait appel au Lien, signalez avant le jet les conséquences importantes que la manière de la Puissance rend prévisibles. Le choix reste le sien.
+- Les Mises du Lien se déclarent. Quand un camp en engage, l'autre peut répondre par les siennes, si elles comptent pour le Focus à ce Zoom ; toutes passent alors au prisme Neutre. Un Agent qui n'en engage aucune reste caché, et son adversaire garde la certitude de son Lien.
+- Appliquez complètement le prisme Devenir (chaque 6 ajoute un dé) avant toute comparaison. Ne déclarez jamais une issue à partir de dés intermédiaires.
+- **Ce qui réussit par le Lien, c'est la Puissance qui le réussit.** Décrivez la Réussite à la manière de la Puissance, même quand ce n'est pas ce que le joueur espérait.
 - Les Mises reviennent dans la fiction après le jet : servez-vous-en pour interpréter le résultat.
 
 ### Les moments de Présence

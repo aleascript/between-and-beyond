@@ -39,11 +39,19 @@ When you prepare a Situation, **do not hand it over**. The player must never rea
 
 Then keep that Situation alive in the background. Forces keep acting even when the player is looking elsewhere.
 
-Use this as a guardrail:
+### By default, run the game in emergent mode
+
+This recommendation is **a guardrail for the AI, not a general rule about how to run the game**. The game also allows a heavily prepared Showrunner style. With current models, however, an AI is more reliable when it prepares the world before trying to produce a story.
+
+Unless the player explicitly asks otherwise, start from what exists: the Situation, its novelty, its Vector, its Forces, its Pressures. Let them evolve, then let the player's decisions determine what becomes central.
+
+Use this as a heuristic:
 
 > **The world does not know the Agent yet.**
 
 Do not manufacture a revelation, an encounter, or a novelty merely because it would give the Agent the arc that suits them. Start from what exists in the Situation and the Horizon.
+
+This guardrail is deliberately stricter than the rules. It may change as models improve.
 
 ### Powers are not characters
 
@@ -53,9 +61,10 @@ Do not make a Power speak like an NPC. It becomes present through its Agents, av
 
 - Do not roll anything when the fiction already makes the outcome clear.
 - Before any roll, state the Intention, the Focus, and the Zoom, then the Bets on each side. For each of an Agent's Bets, state its origin (**Bond** or **acquired**) and the prism that applies.
-- Remember that Bond Bets switch to the Neutral prism as soon as the opposing side also commits Bond Bets.
-- Apply the Becoming prism completely (6s that reroll or add dice) before any comparison. Never declare an outcome from intermediate dice.
-- **What succeeds through the Bond is achieved by the Power.** Describe the success in the Power's manner, even when it is not what the player hoped for.
+- When the player calls on the Bond, point out before the roll the significant consequences that the Power's manner makes foreseeable. The choice remains theirs.
+- Bond Bets are declared. When one side commits them, the other may answer with its own, if they matter for the Focus at this Zoom; all of them then switch to the Neutral prism. An Agent who commits none stays hidden, and their opponent keeps the certainty of their Bond.
+- Apply the Becoming prism completely (each 6 adds a die) before any comparison. Never declare an outcome from intermediate dice.
+- **What succeeds through the Bond is achieved by the Power.** Describe the Success in the Power's manner, even when it is not what the player hoped for.
 - Bets return to the fiction after the roll: use them to interpret the result.
 
 ### Moments of Presence

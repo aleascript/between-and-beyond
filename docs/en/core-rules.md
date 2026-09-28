@@ -12,6 +12,8 @@ The player characters are **Agents** bound to **Powers** that transcend them.
 
 A Power does not need to be a person, command its Agents, or even possess an intelligible will. An Agent is an Agent because a Bond lets something of the Power pass through them. The exact nature of that Bond depends on the Horizon and the Power: service, lineage, incarnation, pact, creation, debt, possession, inheritance, or any other relationship established by the game world.
 
+An Agent normally serves a single Power. The game does not forbid serving two, but it must be justified in the fiction, and hidden from each of them, which is no easy matter during [moments of Presence](#presence).
+
 > **An Agent is how their Power becomes present. But they are not entirely determined by it: through contact with the world, they become other.**
 
 The game calls **Becoming** the part of a being or the world that is not entirely determined by what it already is. For an Agent, it includes what they acquire beyond what their Power determines: relationships, experiences, knowledge, wounds, encounters, and transformations. Humanity is often a major source of Becoming, but other Agents, other forms of life, environments, events, or chance may transform them just as deeply.
@@ -113,7 +115,7 @@ How those dice become Successes depends on the **nature of what is acting**. The
 | Prism | Resolution |
 | --- | --- |
 | **Neutral** | Each even result produces 1 Success. |
-| **Becoming** | Each even result produces 1 Success. Each 6 rerolls one odd result or, if none remains, adds a new die. |
+| **Becoming** | Each even result produces 1 Success. Each 6 adds a new die. |
 | **Power** | No roll: each Bet directly produces 1 Success. |
 
 Agents have no prism of their own. They stand between Becoming and their Power, and each of their Bets belongs to one or the other depending on where it comes from.
@@ -122,7 +124,7 @@ This scale is common to the whole game. A Horizon may then specify particular fe
 
 ### Neutral
 
-**Neutral** resolution applies to matter, the environment, and forces whose action belongs neither to Becoming nor to Power.
+**Neutral** resolution applies to what is not alive or is abstract, with no possibility of becoming: matter, the environment, and forces whose action belongs neither to Becoming nor to Power. It also replaces the certainty of the Bond when two revealed Agents oppose each other (see [Against Another Agent](#against-another-agent)).
 
 Roll one D6 per Bet.
 
@@ -132,15 +134,19 @@ Each **even** result produces one Success. Each odd result produces none.
 
 ### Becoming
 
+The **Becoming** prism applies to any actor capable of acquiring something it was not already determined to be: Humans first of all, but also an animal, a community, or any other form of life the fiction makes capable of becoming.
+
 **Becoming** remains close to Neutral resolution, but the **6** carries what the simple repetition of what already exists cannot produce: the possibility of recovering, branching, and surprising.
 
 Roll one D6 per Bet.
 
-Each **even** result produces one Success. Each **6** also lets the player reroll one odd result. If no odd result is left to reroll, the 6 adds **one new die**.
+Each **even** result produces one Success. Each **6** also adds **one new die**.
 
-Rerolled or added dice are resolved in the same way: a new 6 may in turn reroll an odd result or add a die. A 2 or a 4 produces only a Success.
+Added dice are resolved in the same way: a new 6 adds another die in turn. A 2 or a 4 produces only a Success.
 
-> **2, 3, 5, 6** first gives 2 Successes. The 6 rerolls the 3, which shows a 6: 3 Successes. That new 6 rerolls the 5, which also shows a 6: 4 Successes. No odd result is left, so this last 6 adds a new die, which shows a 4. Result: **5 Successes** from 4 Bets.
+> **2, 3, 5, 6** first gives 2 Successes. The 6 adds a die, which shows a 6: 3 Successes. That new 6 adds a die, which also shows a 6: 4 Successes. This last 6 adds yet another die, which shows a 4. Result: **5 Successes** from 4 Bets.
+
+**Recovering, then surprising.** A table may also roll the 6 another way: it first rerolls an odd result, and adds a die only when no odd result is left to reroll. The Successes obtained are exactly the same, since an odd result produced none. But it is not the same experience. Rerolling an odd result is **recovering**: going back to what had failed and giving it another chance. Adding a die is **surprising**: going beyond what was given, once there is nothing left to recover. Becoming does the one first, then the other.
 
 A Becoming roll can therefore, rarely, produce more Successes than Bets. Becoming is not stronger: it is the possibility that something may arise beyond what was already given.
 
@@ -176,15 +182,25 @@ The Bond is therefore the safe choice as long as no other Power becomes present 
 
 **What succeeds through the Bond is the Power succeeding.**
 
-Successes from Bond Bets are interpreted according to the nature of the Power, not that of the Agent: whatever is achieved is achieved the way the Power would achieve it. An Agent of a Seraph of Fire who prevails through the Bond burns something, whether they want to or not. The GM describes that manner; it is one of the ways they make the Power heard in the scene.
+Successes from Bond Bets are interpreted according to the nature of the Power, not that of the Agent: whatever is achieved is achieved the way the Power would achieve it. An Agent of a Seraph of Fire who prevails through the Bond burns something, whether they want to or not. The GM describes that manner, or the table if it plays more collaboratively; it is one of the ways the Power is made heard in the scene.
+
+Calling on the Bond remains the player's choice, but it is made in the fiction: the player decides how their Agent acts, and the table draws the Bets from that. An Agent can therefore act without letting their Power pass through them, even when a Bond keyword would be relevant.
+
+That choice is made knowingly. Before the roll, the GM points out the significant consequences that the Power's manner makes foreseeable, or at least reminds the player that, if the Agent prevails, the Power will carry part of the result.
 
 The Agent's tension arises from this choice, without a gauge or a morality. The Bond is reliable, but it is not theirs. What is acquired is uncertain, but it belongs to them.
 
 #### Against Another Agent
 
-Two Powers never confront one another directly. When an Agent's Bond Bets meet those of another Power, they lose their certainty.
+Two Powers never confront one another directly. When an Agent's Bond Bets meet those of another Agent, they lose their certainty.
 
 **If the opposing side commits Bond Bets, all Bond Bets on both sides are rolled with the Neutral prism.** Acquired Bets keep the Becoming prism.
+
+Bond Bets are declared. When one side commits them, the other may answer with its own, and then the roll is resolved. A Bond Bet committed in answer meets the same requirements as any other: it must genuinely matter for the Focus, at this Zoom. Being an Agent is not enough to strip the other of their certainty.
+
+An Agent who commits no Bond Bet does not reveal themselves: they act as a human would, and their opponent keeps the certainty of their Bond. That is the price of staying hidden.
+
+Two Agents of the same Power follow the same rule: facing itself, the Power is no longer certain either.
 
 A clash between Agents is therefore decided at least as much by what they have become through contact with the world as by what their Powers give them.
 
@@ -292,13 +308,19 @@ Their keyword becomes a Bond keyword, *Hands of the Archangel*. From now on, the
 
 In a long campaign, an old extension may eventually seem as though it had always belonged to the Power. Present Attributes describe what the Power is now, not necessarily everything it has always been.
 
+### Declining
+
+A Power can also fade. It does not die all at once: it declines as its Attributes lose their meaning and their hold on the real. On the day there were no more trees, a Power of the forest would have little reason left to be.
+
+No rule measures this decline: the fiction shows it. It can become the subject of a campaign.
+
 ## Presence
 
 A Power never enters a resolution itself. But an Agent can find themselves face to face with it: this is a **moment of Presence**.
 
 Only a being **already bound** to a Power can stand before it. The Bond is precisely what makes the encounter possible: creation, lineage, pact, faith, possession, debt, inheritance, or any other relationship recognized by the Horizon.
 
-A moment of Presence can be played regularly: at the end of a session, during a lull, or at the player's request. Its form depends on the Horizon and the Power: a prayer, a report, a dream, a summons, the blood speaking.
+A moment of Presence can be played regularly: at the end of a session, during a lull, or at the player's request. Each table finds its own rhythm, but a moment of Presence always answers something in the fiction, brought about by the Agent or by the GM. A Power disturbed for no reason makes it known. Its form depends on the Horizon and the Power: a prayer, a report, a dream, a summons, the blood speaking.
 
 ### Face to Face
 
@@ -341,6 +363,8 @@ The Agent pleads their case before their Power.
 
 The Power is fully entitled to refuse to change: it already is what it is. But if **the world already carries** what the Agent has acquired, that is a weighty argument. The Power may refuse to change; the world has already changed.
 
+The world carries a novelty once the [Vector](situations.md#vector) of its Situation has come about, or once a human Force has institutionalized it: it is no longer only one Agent's experience, it is a fact of the world. The same benchmark applies to [losing all one's Bonds](#losing-all-ones-bonds).
+
 The transformation succeeds if the player finds **how the Power can change without denying itself**:
 
 - its other Attributes remain true;
@@ -354,11 +378,11 @@ Otherwise, the request most often ends with the loss of a Bond keyword.
 
 :::note[Example — Death]
 
-A vampire has grown old alongside a human he loved, without ageing himself. His acquired keyword, *Loved a mortal until her death*, contradicts one of the Eldest Blood's Attributes: *Neither dies nor lives*. He now wants his lineage to be able to die.
+A vampire has grown old alongside a human he loved, without ageing himself. She has died, and she has passed over. He cannot follow her: the sun can destroy him, but a destroyed vampire does not pass over to the dead. Others have already chosen the sun, and none of them found those they loved. His acquired keyword, *Loved a mortal until her death*, contradicts one of the Eldest Blood's Attributes: *Neither dies nor lives*. He wants to be able to truly die, and join her.
 
-Refusing death is everything the Eldest Blood is. But his player, helped by the table, finds a path: what does not die is the Eldest Blood itself, through those it begets. A lineage that is passed on does not die, even when its children do.
+Refusing death is everything the Eldest Blood is: every child who leaves weakens the lineage, and it defends the lineage at all costs. The table searches for a long time. The compromise comes from a human who knows what he is: she freely chooses to become a vampire in his place. The Eldest Blood loses nothing, since the lineage keeps a child, and this time a child who wanted it. The vampire, for his part, can at last die and pass over.
 
-The Attribute becomes *The lineage does not die*. The other three remain true, and what the old one protected endures. The Eldest Blood has changed without denying itself — and all its vampires can now die.
+The Attribute becomes *The lineage does not die, it is passed on*. The other three remain true, and what the old one protected endures: the lineage does not die out, and its vampires still do not live, since they feed on the living. The Eldest Blood has changed without denying itself. From now on, each of its vampires can truly die, if someone agrees to take their place.
 
 :::
 
