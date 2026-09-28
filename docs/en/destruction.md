@@ -1,7 +1,7 @@
 ---
 id: destruction
 title: Destruction
-description: A Metaxy Horizon — what undoes what seemed bound to last.
+description: What undoes what seemed bound to last.
 ---
 
 # Destruction

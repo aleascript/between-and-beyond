@@ -1,7 +1,7 @@
 ---
 id: death
 title: Death
-description: The first Metaxy Horizon — what no one can occupy while alive, and those who stand on the threshold.
+description: The first Horizon — what no one can occupy while alive, and those who stand on the threshold.
 ---
 
 # Death

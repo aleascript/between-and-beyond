@@ -1,7 +1,7 @@
 ---
 id: dreams
 title: Les Rêves
-description: Horizon de Metaxy — ce que chacun visite chaque nuit sans jamais pouvoir l'habiter éveillé.
+description: Ce que chacun visite chaque nuit sans jamais pouvoir l'habiter éveillé.
 ---
 
 # Les Rêves

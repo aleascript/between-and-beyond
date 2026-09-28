@@ -1,12 +1,12 @@
 ---
 id: core-rules
 title: Core Rules
-description: The common rules shared by every Metaxy Horizon.
+description: The common rules shared by every Horizon.
 ---
 
 # Core Rules
 
-In **Metaxy**, the player characters are **Agents** bound to **Powers** that transcend them.
+The player characters are **Agents** bound to **Powers** that transcend them.
 
 > **A Power becomes present in the world through its Agents.**
 
@@ -14,7 +14,7 @@ A Power does not need to be a person, command its Agents, or even possess an int
 
 > **An Agent is how their Power becomes present. But they are not entirely determined by it: through contact with the world, they become other.**
 
-**Metaxy** calls **Becoming** the part of a being or the world that is not entirely determined by what it already is. For an Agent, it includes what they acquire beyond what their Power determines: relationships, experiences, knowledge, wounds, encounters, and transformations. Humanity is often a major source of Becoming, but other Agents, other forms of life, environments, events, or chance may transform them just as deeply.
+The game calls **Becoming** the part of a being or the world that is not entirely determined by what it already is. For an Agent, it includes what they acquire beyond what their Power determines: relationships, experiences, knowledge, wounds, encounters, and transformations. Humanity is often a major source of Becoming, but other Agents, other forms of life, environments, events, or chance may transform them just as deeply.
 
 [Horizons](horizons.md) give these elements a concrete form. Each one defines the Powers that are its forms, the Agents that can be played, their Bonds, the forms of Becoming that may transform them, and the situations that set them in motion.
 
@@ -22,7 +22,7 @@ A Power does not need to be a person, command its Agents, or even possess an int
 
 On the Horizon of **Death**, a Power might be the Passage, which carries the living over to the dead, or the Eldest Blood, origin of a vampire lineage. On that of the **Divine**, it might be an Archangel or a Demon Prince. On that of the **Collective**, a recent Power such as Money or Communication. On that of the **Unknown**, an entity whose very nature is difficult to interpret.
 
-These examples belong to their Horizons. They do not form a shared cosmology for all of Metaxy.
+These examples belong to their Horizons. They do not form a shared cosmology for the whole game.
 
 :::
 
@@ -40,7 +40,7 @@ Only a being already bound to a Power can find themselves face to face with that
 
 ## Playing
 
-**Metaxy** uses a traditional tabletop role-playing structure.
+The game uses a traditional tabletop role-playing structure.
 
 One person is the **Game Master (GM)**. They present the world, play its inhabitants and forces, describe their reactions, and establish the important consequences of choices. [Situations](situations.md) help them prepare what sets the Agents in motion.
 
@@ -108,7 +108,7 @@ An outcome may have **zero Bets**: it then starts with zero dice or zero Success
 
 Each Bet normally contributes **one D6**.
 
-How those dice become Successes depends on the **nature of what is acting**. Metaxy distinguishes three prisms.
+How those dice become Successes depends on the **nature of what is acting**. The game distinguishes three prisms.
 
 | Prism | Resolution |
 | --- | --- |
@@ -118,7 +118,7 @@ How those dice become Successes depends on the **nature of what is acting**. Met
 
 Agents have no prism of their own. They stand between Becoming and their Power, and each of their Bets belongs to one or the other depending on where it comes from.
 
-This scale is common to Metaxy. A Horizon may then specify particular features of its Powers and Agents.
+This scale is common to the whole game. A Horizon may then specify particular features of its Powers and Agents.
 
 ### Neutral
 

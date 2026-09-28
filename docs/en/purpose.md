@@ -1,12 +1,12 @@
 ---
 id: purpose
 title: What This Game Is About
-description: What Metaxy explores, and why the players take on the roles of Agents.
+description: What the game explores, and why the players take on the roles of Agents.
 ---
 
 # What This Game Is About
 
-**Metaxy** explores **our relationship with what is other than us and exceeds us**.
+The game explores **our relationship with what is other than us and exceeds us**.
 
 Human beings encounter realities they cannot simply bring down to their own scale: death, time, the divine, immortality, the cosmos, other forms of intelligence, what came before Humanity or will outlive it, and more generally whatever resists their ordinary categories.
 
@@ -34,7 +34,7 @@ That presence, however, cannot be an intact copy of the Power. By becoming local
 
 They become other.
 
-This is what Diotima calls the *metaxy*: the in-between where the daimon stands, neither god nor mortal, carrying from one to the other. The Agent's tension between their Power and the world is also their reason for being.
+This is the place Diotima gives the daimon: the in-between, neither god nor mortal, carrying from one to the other. The Agent's tension between their Power and the world is also their reason for being.
 
 ## Mediation transforms both ways
 
@@ -72,4 +72,10 @@ The human in all this is not primarily a character in the fiction: **it is the p
 
 Like myths, role-playing is a way of temporarily occupying an impossible position. The player takes up the Agent as a figure of the in-between in order to approach what they cannot occupy directly — and to discover what that encounter transforms on both sides.
 
-**This is why the players take on the roles of Agents.** Role-playing is itself a metaxy.
+**This is why the players take on the roles of Agents.** Role-playing is itself an in-between.
+
+## An old idea
+
+This in-between is not the game's invention. The Greeks called it *metaxy* (μεταξύ): in Plato, it is the place of Eros and the daimones. Eric Voegelin saw in it the human condition itself: a tension between us and what exceeds us, whose poles must not be frozen into separate objects. In the theater, Augusto Boal called *metaxis* the state of belonging fully, and at the same time, to two worlds: reality, and the image of it one plays.
+
+This is the player's state at the table.

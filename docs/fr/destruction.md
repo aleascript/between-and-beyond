@@ -1,7 +1,7 @@
 ---
 id: destruction
 title: La Destruction
-description: Horizon de Metaxy — ce qui défait ce qui semblait devoir durer.
+description: Ce qui défait ce qui semblait devoir durer.
 ---
 
 # La Destruction

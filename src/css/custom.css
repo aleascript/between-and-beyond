@@ -62,9 +62,11 @@ body {
 /*
  * Keep the light logo in Markdown so publication builds use it unchanged.
  * Only the website swaps the rendered image when Docusaurus is in dark mode.
+ * The SVG is small enough to be inlined as a data URI, so match the home
+ * page's opening image rather than its file name.
  */
-html[data-theme='dark'] .theme-doc-markdown img[src*='logo_light_theme_400'] {
-  content: url('/img/site/logo_dark_theme_400.png');
+html.docs-doc-id-home[data-theme='dark'] .theme-doc-markdown > p:first-child > img {
+  content: url('/img/site/logo_dark_theme.svg');
 }
 
 .theme-doc-markdown > h1:first-child {

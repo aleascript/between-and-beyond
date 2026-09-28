@@ -1,7 +1,7 @@
 ---
 id: collective
 title: The Collective
-description: A Metaxy Horizon — what we have made together and what now exceeds us.
+description: What we have made together and what now exceeds us.
 ---
 
 # The Collective

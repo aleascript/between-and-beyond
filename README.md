@@ -1,18 +1,18 @@
-# Metaxy
+# Between & Beyond
 
-**Metaxy** is a tabletop role-playing game in which the players take on Agents:
+**Between & Beyond** is a tabletop role-playing game in which the players take on Agents:
 figures that stand between humanity and what exceeds it — Death, the Divine,
 Dreams, the Unknown…
 
-- Website: <https://aleascript.github.io/metaxy/>
-- Downloads (PDF): <https://aleascript.github.io/metaxy/publications/>
+- Website: <https://aleascript.github.io/between-and-beyond/>
+- Downloads (PDF): <https://aleascript.github.io/between-and-beyond/publications/>
 
 This README is technical: how the repository is organized, how to work on it
 locally, and how the site and publications are released. The game itself — its
 purpose, rules, and Horizons — lives only in the published content under
 `docs/`. Guidance for AI assistants is in [`AGENTS.md`](AGENTS.md).
 
-Metaxy is designed with [Resonance](https://aleascript.github.io/resonance/)
+The game is designed with [Resonance](https://aleascript.github.io/resonance/)
 and powered by [Regard](https://aleascript.github.io/regard/). The site is built
 from [resonance-site-template](https://github.com/aleascript/resonance-site-template).
 
@@ -21,8 +21,8 @@ from [resonance-site-template](https://github.com/aleascript/resonance-site-temp
 Requirements: Node.js 24 (see `.nvmrc`).
 
 ```bash
-git clone https://github.com/aleascript/metaxy.git
-cd metaxy
+git clone https://github.com/aleascript/between-and-beyond.git
+cd between-and-beyond
 npm install
 npm run start:fr   # or npm run start:en
 ```
@@ -162,22 +162,36 @@ Game-specific files — `site.config.ts`, `src/css/custom.css`, `docs/`,
 - Publications download page: `src/pages/publications.tsx`
 - Publication builder and manifest: `tools/build-publications.mjs`
 - Release policy: `.releaserc.json`
+- Logo: `static/img/site/logo_{light,dark}_theme.svg`, a copy of one style kept in
+  `static/img/site/logos/` (see below)
+
+## Logo
+
+The configured logo is `static/img/site/logo_{light,dark}_theme.svg`. It is a
+copy of one of the styles kept in `static/img/site/logos/`, where every style
+ships as a light and dark pair named `logo_{light,dark}_theme_<style>.svg`.
+`logo_*_original.png` is the raster drawing they all come from.
+
+```bash
+npm run logo            # list the styles
+npm run logo -- encre   # use the ink style
+```
 
 ---
 
 ## Français
 
-**Metaxy** est un jeu de rôle où les joueurs incarnent des Agents : des figures
+**Between & Beyond** est un jeu de rôle où les joueurs incarnent des Agents : des figures
 qui se tiennent entre l'humanité et ce qui la dépasse — la Mort, le Divin, les
 Rêves, l'Inconnu…
 
-- Site : <https://aleascript.github.io/metaxy/>
-- Téléchargements (PDF) : <https://aleascript.github.io/metaxy/publications/>
+- Site : <https://aleascript.github.io/between-and-beyond/>
+- Téléchargements (PDF) : <https://aleascript.github.io/between-and-beyond/publications/>
 
 Ce README est technique. Le jeu lui-même (son propos, ses règles, ses Horizons)
 se trouve uniquement dans les contenus publiés, sous `docs/`.
 
-Metaxy est conçu avec [Resonance](https://aleascript.github.io/resonance/) et
+Le jeu est conçu avec [Resonance](https://aleascript.github.io/resonance/) et
 propulsé par [Regard](https://aleascript.github.io/regard/).
 
 ### Démarrer
@@ -203,6 +217,13 @@ langues) et aux pages d'index concernées. Le dossier `i18n/` ne contient que
 les libellés de l'interface.
 
 Les notes de design utilisent `:::design[Note de design]`.
+
+### Logo
+
+Le logo configuré, `static/img/site/logo_{light,dark}_theme.svg`, est une copie
+de l'un des styles rangés dans `static/img/site/logos/` (une paire clair et
+sombre par style, plus le dessin d'origine en PNG). Pour changer de style :
+`npm run logo -- <style>` ; `npm run logo` seul donne la liste.
 
 ### Versions et publications
 

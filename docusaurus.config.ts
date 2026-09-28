@@ -17,6 +17,10 @@ function normalizeBaseUrl(value: string): string {
   return `/${value}`.replace(/\/{2,}/g, '/').replace(/\/?$/, '/');
 }
 
+function faviconType(path: string): string {
+  return path.endsWith('.svg') ? 'image/svg+xml' : 'image/png';
+}
+
 function projectLink(label: string, href: string): string {
   return `<a href="${href}">${label}</a>`;
 }
@@ -103,7 +107,7 @@ const config: Config = {
       tagName: 'link',
       attributes: {
         rel: 'icon',
-        type: 'image/svg+xml',
+        type: faviconType(site.identity.favicon),
         href: `${baseUrl}${site.identity.favicon}`,
         media: '(prefers-color-scheme: light)',
       },
@@ -112,7 +116,7 @@ const config: Config = {
       tagName: 'link',
       attributes: {
         rel: 'icon',
-        type: 'image/svg+xml',
+        type: faviconType(site.identity.faviconDark),
         href: `${baseUrl}${site.identity.faviconDark}`,
         media: '(prefers-color-scheme: dark)',
       },

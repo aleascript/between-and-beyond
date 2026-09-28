@@ -14,7 +14,7 @@ A Horizon is not a place. One does not travel into Death as into another world: 
 
 ## Horizon, Powers, Agents
 
-The Horizon is the unit of play in **Metaxy**. It brings together:
+The Horizon is the unit of play. It brings together:
 
 - several **Powers**, the forms this Horizon has taken across ages and cultures;
 - **families of Agents**, the figures through which each Power becomes present in the world;

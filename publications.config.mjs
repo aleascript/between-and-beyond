@@ -10,17 +10,17 @@ export default definePublications({
     admonitions: ['design'],
   },
   site: {
-    publicUrl: 'https://aleascript.github.io/metaxy',
+    publicUrl: 'https://aleascript.github.io/between-and-beyond',
   },
   publications: {
-    metaxy: {
+    'between-and-beyond': {
       author: 'AleaScript',
       revision: 'Draft',
       license: {
         label: 'CC BY 4.0',
         href: 'https://creativecommons.org/licenses/by/4.0/',
         attribution: {
-          title: 'Metaxy',
+          title: 'Between & Beyond',
           author: 'AleaScript',
           href: null,
         },
@@ -38,14 +38,14 @@ export default definePublications({
       size: 'A4',
       theme: 'publication/theme.css',
       cover: {
-        image: 'static/img/site/logo_dark_theme_400.png',
+        image: 'static/img/site/logo_dark_theme.svg',
         showTitle: true,
         showMetadata: true,
       },
-      outputName: 'metaxy',
+      outputName: 'between-and-beyond',
       locales: {
         en: {
-          title: 'Metaxy',
+          title: 'Between & Beyond',
           tocTitle: 'Contents',
           contents: [
             'docs/en/index.md',
@@ -66,7 +66,7 @@ export default definePublications({
           outputs: ['pdf', 'md'],
         },
         fr: {
-          title: 'Metaxy',
+          title: 'Between & Beyond',
           tocTitle: 'Sommaire',
           contents: [
             'docs/fr/index.md',

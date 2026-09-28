@@ -1,7 +1,7 @@
 ---
 id: desire
 title: Desire
-description: A Metaxy Horizon — what moves us without our having chosen it.
+description: What moves us without our having chosen it.
 ---
 
 # Desire
@@ -10,7 +10,7 @@ description: A Metaxy Horizon — what moves us without our having chosen it.
 
 Desire is the Horizon of what moves us without our having chosen it: attraction, hunger, inspiration, ecstasy. Like Dreams, it exceeds us **from within**. But Dreams visit us at night; Desire keeps us awake.
 
-It is also the Horizon from which **Metaxy** takes its name. In the *Symposium*, Diotima does not speak of daimones in general: she speaks of Eros, son of Poros, Resource, and of Penia, Poverty. Neither god nor mortal, always between lack and what fills it.
+It is also the Horizon that the Agents' in-between comes from. In the *Symposium*, Diotima does not speak of daimones in general: she speaks of Eros, son of Poros, Resource, and of Penia, Poverty. Neither god nor mortal, always between lack and what fills it.
 
 Every age has seen it differently: an arrow shot by a winged child, a frenzy sent by the gods, a sin, a passion to be governed, a drive, a chemistry of the brain. And every age has invented figures to give it a face: cupids, muses, bacchantes, ogres.
 

@@ -1,7 +1,7 @@
 ---
 id: nature
 title: Nature
-description: A Metaxy Horizon — what lives without us, beyond the edge of the woods.
+description: What lives without us, beyond the edge of the woods.
 ---
 
 # Nature
