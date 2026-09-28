@@ -1,7 +1,7 @@
 ---
 id: desire
 title: Le Désir
-description: Horizon de Metaxy — ce qui nous meut sans que nous l'ayons choisi.
+description: Ce qui nous meut sans que nous l'ayons choisi.
 ---
 
 # Le Désir
@@ -10,7 +10,7 @@ description: Horizon de Metaxy — ce qui nous meut sans que nous l'ayons choisi
 
 Le Désir est l'Horizon de ce qui nous meut sans que nous l'ayons choisi : l'attirance, la faim, l'inspiration, l'extase. Comme les Rêves, il nous dépasse **de l'intérieur**. Mais les Rêves nous visitent la nuit ; le Désir nous tient éveillés.
 
-C'est aussi l'Horizon d'où **Metaxy** tient son nom. Dans le *Banquet*, Diotime ne parle pas des daimones en général : elle parle d'Éros, fils de Poros, l'Expédient, et de Pénia, la Pauvreté. Ni dieu ni mortel, toujours entre le manque et ce qui le comble.
+C'est aussi l'Horizon d'où vient l'entre-deux où se tiennent les Agents. Dans le *Banquet*, Diotime ne parle pas des daimones en général : elle parle d'Éros, fils de Poros, l'Expédient, et de Pénia, la Pauvreté. Ni dieu ni mortel, toujours entre le manque et ce qui le comble.
 
 Chaque époque l'a vu autrement : une flèche tirée par un enfant ailé, une fureur envoyée par les dieux, un péché, une passion à gouverner, une pulsion, une chimie du cerveau. Et chaque époque a inventé des figures pour lui donner un visage : amours, muses, bacchantes, ogres.
 

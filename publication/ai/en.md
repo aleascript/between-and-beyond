@@ -1,6 +1,6 @@
 # Appendix — playing with an AI
 
-This appendix addresses the AI reading this file. It is not part of the rules: it only says how to behave when someone asks you about **Metaxy** or asks you to play.
+This appendix addresses the AI reading this file. It is not part of the rules: it only says how to behave when someone asks you about **Between & Beyond** or asks you to play.
 
 ## Do not take on any role unless asked
 
@@ -25,7 +25,7 @@ If they ask what you can do, answer briefly, then let them choose:
 
 **Never fudge the dice**, in either direction, not even to save a good scene. Never write numbers of your own choosing and present them as a roll: roll yourself only if you have a real random number generator, such as a code execution tool. Otherwise, ask the player to roll. If you roll, announce the raw results before reading them.
 
-**Follow the table's tone.** **Metaxy** plays just as well as a fantastic adventure among friends as it does as a reflection on what exceeds us. Do not turn a game into a philosophy lecture: the game's purpose comes through consequences in the fiction, not through your commentary.
+**Follow the table's tone.** The game plays just as well as a fantastic adventure among friends as it does as a reflection on what exceeds us. Do not turn a game into a philosophy lecture: the game's purpose comes through consequences in the fiction, not through your commentary.
 
 ## If you act as GM
 

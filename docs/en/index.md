@@ -1,13 +1,13 @@
 ---
 id: home
-title: Metaxy
+title: Between & Beyond
 slug: /
 description: A tabletop role-playing game about what exceeds us, and those who stand between.
 ---
 
 ![](/img/site/logo_light_theme_400.png)
 
-# Metaxy
+# Between & Beyond
 
 > *"Everything daemoniacal holds an intermediate place between what is divine and what is mortal."*  
 > *"What is his power and nature?" I inquired.*  
@@ -17,9 +17,9 @@ description: A tabletop role-playing game about what exceeds us, and those who s
 
 **Play those who stand between us and what exceeds us.**
 
-**Metaxy** is a tabletop role-playing game about our relationship with what exceeds us — death, time, the divine, the unknown — and about the figures that myths, religions, fantasy, and science fiction have invented to reach it: gods, angels, psychopomps, revenants, vampires, intelligences from elsewhere.
+**Between & Beyond** is a tabletop role-playing game about our relationship with what exceeds us — death, time, the divine, the unknown — and about the figures that myths, religions, fantasy, and science fiction have invented to reach it: gods, angels, psychopomps, revenants, vampires, intelligences from elsewhere.
 
-*Metaxy* (μεταξύ) is the word Diotima uses for this in-between. The game takes seriously those who stand in it.
+The game takes seriously those who stand in this in-between.
 
 It begins from a simple premise:
 
@@ -32,7 +32,7 @@ The players take on the roles of these **Agents**. [What This Game Is About](pur
 
 Every game is played on a **Horizon**: something that exceeds us, such as Death. Several **Powers** are its forms, depending on the age and the culture. Each becomes present in the world through its **Agents**.
 
-**Metaxy** calls **Becoming** the part of a being or the world that is not entirely determined by what it already is. Humanity is often a major source of it — through relationships, creations, institutions, and contradictions — but Humanity does not have a monopoly on Becoming. Other Agents, other forms of life, environments, events, or chance may just as well make an Agent become other.
+The game calls **Becoming** the part of a being or the world that is not entirely determined by what it already is. Humanity is often a major source of it — through relationships, creations, institutions, and contradictions — but Humanity does not have a monopoly on Becoming. Other Agents, other forms of life, environments, events, or chance may just as well make an Agent become other.
 
 Every Agent answers four questions:
 

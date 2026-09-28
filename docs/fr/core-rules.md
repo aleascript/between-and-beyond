@@ -1,12 +1,12 @@
 ---
 id: core-rules
 title: Règles
-description: Le socle de règles commun à tous les Horizons de Metaxy.
+description: Le socle de règles commun à tous les Horizons.
 ---
 
 # Règles
 
-Dans **Metaxy**, les personnages joueurs sont des **Agents** liés à des **Puissances** qui les dépassent.
+Les personnages joueurs sont des **Agents** liés à des **Puissances** qui les dépassent.
 
 > **Une Puissance devient présente dans le monde à travers ses Agents.**
 
@@ -14,7 +14,7 @@ Une Puissance n'a pas besoin d'être une personne, de commander ses Agents ni m�
 
 > **Un Agent est ce par quoi sa Puissance devient présente. Mais il n'est pas entièrement déterminé par elle : au contact du monde, il devient autre.**
 
-**Metaxy** appelle **Devenir** la part d'un être ou du monde qui n'est pas entièrement déterminée par ce qu'elle est déjà. Pour un Agent, elle comprend ce qu'il acquiert hors de ce que sa Puissance détermine : relations, expériences, savoirs, blessures, rencontres et transformations. L'Humanité en est souvent une source majeure, mais d'autres Agents, d'autres formes de vie, des environnements, des événements ou le hasard peuvent tout autant le transformer.
+Le jeu appelle **Devenir** la part d'un être ou du monde qui n'est pas entièrement déterminée par ce qu'elle est déjà. Pour un Agent, elle comprend ce qu'il acquiert hors de ce que sa Puissance détermine : relations, expériences, savoirs, blessures, rencontres et transformations. L'Humanité en est souvent une source majeure, mais d'autres Agents, d'autres formes de vie, des environnements, des événements ou le hasard peuvent tout autant le transformer.
 
 Les [Horizons](horizons.md) donnent une forme concrète à ces éléments. Chacun définit les Puissances qui en sont les formes, les Agents que l'on peut incarner, leurs Liens, les formes de Devenir qui peuvent les transformer et les situations qui les mettent en mouvement.
 
@@ -22,7 +22,7 @@ Les [Horizons](horizons.md) donnent une forme concrète à ces éléments. Chacu
 
 Sur l'Horizon de **la Mort**, une Puissance peut être le Passage, qui fait passer les vivants chez les morts, ou le Premier-Sang, origine d'une lignée de vampires. Sur celui du **Divin**, ce peut être un Archange ou un Prince-Démon. Sur celui du **Collectif**, une Puissance récente comme Argent ou Communication. Sur celui de l'**Inconnu**, une entité dont la nature même reste difficile à interpréter.
 
-Ces exemples appartiennent à leurs Horizons. Ils ne forment pas une cosmologie commune à tout Metaxy.
+Ces exemples appartiennent à leurs Horizons. Ils ne forment pas une cosmologie commune à tout le jeu.
 
 :::
 
@@ -40,7 +40,7 @@ Seul un être déjà lié à une Puissance peut se retrouver face à cette total
 
 ## Jouer
 
-**Metaxy** utilise une organisation classique de jeu de rôle.
+Le jeu utilise une organisation classique de jeu de rôle.
 
 Une personne tient le rôle de **Meneur de jeu (MJ)**. Elle présente le monde, joue ses habitants et ses forces, décrit leurs réactions et pose les conséquences importantes des choix. Les [Situations](situations.md) l'aident à préparer ce qui met les Agents en mouvement.
 
@@ -108,7 +108,7 @@ Une issue peut avoir **zéro Mise** : elle aura alors zéro dé ou zéro Réussi
 
 Chaque Mise apporte normalement **un D6**.
 
-La manière dont ces dés deviennent des Réussites dépend de la **nature de ce qui agit**. Metaxy distingue trois prismes.
+La manière dont ces dés deviennent des Réussites dépend de la **nature de ce qui agit**. Le jeu distingue trois prismes.
 
 | Prisme | Résolution |
 | --- | --- |
@@ -118,7 +118,7 @@ La manière dont ces dés deviennent des Réussites dépend de la **nature de ce
 
 Les Agents n'ont pas de prisme propre. Ils se tiennent entre le Devenir et leur Puissance, et chacune de leurs Mises relève de l'un ou de l'autre selon sa provenance.
 
-Cette échelle est commune à Metaxy. Un Horizon peut ensuite préciser certaines particularités de ses Puissances et de leurs Agents.
+Cette échelle est commune à tout le jeu. Un Horizon peut ensuite préciser certaines particularités de ses Puissances et de leurs Agents.
 
 ### Neutre
 

@@ -1,13 +1,13 @@
 ---
 id: home
-title: Metaxy
+title: Between & Beyond
 slug: /
 description: Un jeu de rôle sur ce qui nous dépasse, et sur ceux qui se tiennent entre.
 ---
 
 ![](/img/site/logo_light_theme_400.png)
 
-# Metaxy
+# Between & Beyond
 
 > *« Tout ce qui est démonique est intermédiaire entre le dieu et le mortel.*  
 > *— Quel en est, demandai-je, le rôle ?*  
@@ -17,9 +17,9 @@ description: Un jeu de rôle sur ce qui nous dépasse, et sur ceux qui se tienne
 
 **Incarnez ceux qui se tiennent entre nous et ce qui nous dépasse.**
 
-**Metaxy** est un jeu de rôle sur notre rapport à ce qui nous dépasse — la mort, le temps, le divin, l'inconnu — et sur les figures que les mythes, les religions, le fantastique et la science-fiction ont inventées pour entrer en relation avec lui : dieux, anges, psychopompes, revenants, vampires, intelligences venues d'ailleurs.
+**Between & Beyond** est un jeu de rôle sur notre rapport à ce qui nous dépasse — la mort, le temps, le divin, l'inconnu — et sur les figures que les mythes, les religions, le fantastique et la science-fiction ont inventées pour entrer en relation avec lui : dieux, anges, psychopompes, revenants, vampires, intelligences venues d'ailleurs.
 
-*Metaxy* (μεταξύ) est le mot par lequel Diotime désigne cet entre-deux. Le jeu prend au sérieux ceux qui s'y tiennent.
+Le jeu prend au sérieux ceux qui se tiennent dans cet entre-deux.
 
 Il part d'un postulat simple :
 
@@ -32,7 +32,7 @@ Les joueurs incarnent ces **Agents**. [Le propos du jeu](purpose) explique pourq
 
 Chaque partie se joue sur un **Horizon** : quelque chose qui nous dépasse, comme la Mort. Plusieurs **Puissances** en sont les formes, selon les âges et les cultures. Chacune devient présente dans le monde par ses **Agents**.
 
-**Metaxy** appelle **Devenir** la part d'un être ou du monde qui n'est pas entièrement déterminée par ce qu'elle est déjà. L'Humanité en est souvent une source majeure — par ses relations, ses créations, ses institutions et ses contradictions — mais elle n'en a pas le monopole. D'autres Agents, d'autres formes de vie, des environnements, des événements ou le hasard peuvent tout autant faire devenir un Agent autre.
+Le jeu appelle **Devenir** la part d'un être ou du monde qui n'est pas entièrement déterminée par ce qu'elle est déjà. L'Humanité en est souvent une source majeure — par ses relations, ses créations, ses institutions et ses contradictions — mais elle n'en a pas le monopole. D'autres Agents, d'autres formes de vie, des environnements, des événements ou le hasard peuvent tout autant faire devenir un Agent autre.
 
 Chaque Agent répond à quatre questions :
 

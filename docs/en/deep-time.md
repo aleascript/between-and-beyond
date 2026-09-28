@@ -1,7 +1,7 @@
 ---
 id: deep-time
 title: Time
-description: A Metaxy Horizon — what came before Humanity and will outlive it, and those who pass through it.
+description: What came before Humanity and will outlive it, and those who pass through it.
 ---
 
 # Time

@@ -1,7 +1,7 @@
 ---
 id: divine
 title: The Divine
-description: A Metaxy Horizon — what founds, commands, or judges, and those who carry its messages.
+description: What founds, commands, or judges, and those who carry its messages.
 ---
 
 # The Divine

@@ -1,7 +1,7 @@
 ---
 id: deep-time
 title: Le Temps
-description: Horizon de Metaxy — ce qui précède l'Humanité et lui survivra, et ceux qui le traversent.
+description: Ce qui précède l'Humanité et lui survivra, et ceux qui le traversent.
 ---
 
 # Le Temps

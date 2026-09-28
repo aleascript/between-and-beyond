@@ -14,7 +14,7 @@ Un Horizon n'est pas un lieu. On ne voyage pas dans la Mort comme dans un autre 
 
 ## Horizon, Puissances, Agents
 
-L'Horizon est l'unité de jeu de **Metaxy**. Il réunit :
+L'Horizon est l'unité de jeu. Il réunit :
 
 - plusieurs **Puissances**, les formes que cet Horizon a prises selon les âges et les cultures ;
 - des **familles d'Agents**, les figures par lesquelles chaque Puissance devient présente dans le monde ;

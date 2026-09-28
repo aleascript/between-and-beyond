@@ -61,7 +61,7 @@ export type SiteTheme = {
 };
 
 export const site = {
-  title: 'Metaxy',
+  title: 'Between & Beyond',
   tagline: 'Those who stand between.',
   description: 'A tabletop role-playing game about what exceeds us, and those who stand between.',
   author: 'AleaScript',
@@ -77,7 +77,7 @@ export const site = {
     },
   },
   repository: {
-    defaultFullName: 'aleascript/metaxy',
+    defaultFullName: 'aleascript/between-and-beyond',
   },
   identity: {
     logo: 'img/site/logo_light_theme_400.png',
@@ -89,7 +89,7 @@ export const site = {
     label: 'CC BY 4.0',
     href: 'https://creativecommons.org/licenses/by/4.0/',
     attribution: {
-      title: 'Metaxy',
+      title: 'Between & Beyond',
       author: 'AleaScript',
       href: null,
     },

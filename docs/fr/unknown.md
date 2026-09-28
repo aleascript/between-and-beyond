@@ -1,7 +1,7 @@
 ---
 id: unknown
 title: L'Inconnu
-description: Horizon de Metaxy — ce qui résiste à toutes nos catégories, et ceux qui tentent de le traduire.
+description: Ce qui résiste à toutes nos catégories, et ceux qui tentent de le traduire.
 ---
 
 # L'Inconnu

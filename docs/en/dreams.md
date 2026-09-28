@@ -1,7 +1,7 @@
 ---
 id: dreams
 title: Dreams
-description: A Metaxy Horizon — what everyone visits every night without ever being able to inhabit it awake.
+description: What everyone visits every night without ever being able to inhabit it awake.
 ---
 
 # Dreams

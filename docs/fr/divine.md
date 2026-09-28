@@ -1,7 +1,7 @@
 ---
 id: divine
 title: Le Divin
-description: Horizon de Metaxy — ce qui fonde, commande ou juge, et ceux qui portent ses messages.
+description: Ce qui fonde, commande ou juge, et ceux qui portent ses messages.
 ---
 
 # Le Divin

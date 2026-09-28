@@ -4,7 +4,9 @@ Guidance for AI assistants working on this repository.
 
 ## The game
 
-**Metaxy** is a tabletop role-playing game about our relationship with what exceeds us. Players take on **Agents**: figures that stand between humans and a **Power** (vampires, angels, psychopomps, fae…). The name comes from Diotima's *metaxy* (Plato, *Symposium*, 202d–e), the in-between where the daimon stands. Role-playing is itself a metaxy: the human of the game's purpose is the player at the table.
+**Between & Beyond** is a tabletop role-playing game about our relationship with what exceeds us. Players take on **Agents**: figures that stand between humans and a **Power** (vampires, angels, psychopomps, fae…). *Between* is where the Agents stand; *Beyond* is what exceeds us. The in-between is Diotima's *metaxy* (Plato, *Symposium*, 202d–e), where the daimon stands; [docs/fr/purpose.md](docs/fr/purpose.md) traces the idea through Simone Weil's *metaxu* and Augusto Boal's *metaxis*, and that is the only place it is named. Role-playing is itself an in-between: the human of the game's purpose is the player at the table.
+
+Never abbreviate the title to its initials. In running text, prefer "the game" / "le jeu" and use the title only where it is needed. In French, the title stays in English and the Greek notion is written *métaxie*.
 
 Read [docs/fr/purpose.md](docs/fr/purpose.md), [docs/fr/core-rules.md](docs/fr/core-rules.md) and [docs/fr/horizons.md](docs/fr/horizons.md) before proposing anything.
 

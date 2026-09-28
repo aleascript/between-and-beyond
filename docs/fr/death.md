@@ -1,7 +1,7 @@
 ---
 id: death
 title: La Mort
-description: Premier Horizon de Metaxy — ce que personne ne peut occuper vivant, et ceux qui se tiennent sur le seuil.
+description: Le premier Horizon — ce que personne ne peut occuper vivant, et ceux qui se tiennent sur le seuil.
 ---
 
 # La Mort

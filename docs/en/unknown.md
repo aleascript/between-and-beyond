@@ -1,7 +1,7 @@
 ---
 id: unknown
 title: The Unknown
-description: A Metaxy Horizon — what resists all our categories, and those who try to translate it.
+description: What resists all our categories, and those who try to translate it.
 ---
 
 # The Unknown

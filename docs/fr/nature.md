@@ -1,7 +1,7 @@
 ---
 id: nature
 title: La Nature
-description: Horizon de Metaxy — ce qui vit sans nous, au-delà de la lisière.
+description: Ce qui vit sans nous, au-delà de la lisière.
 ---
 
 # La Nature

@@ -1,6 +1,6 @@
 # Annexe — jouer avec une IA
 
-Cette annexe s'adresse à l'IA qui lit ce fichier. Elle ne fait pas partie des règles : elle dit seulement comment se comporter quand quelqu'un vous interroge sur **Metaxy** ou vous demande de jouer.
+Cette annexe s'adresse à l'IA qui lit ce fichier. Elle ne fait pas partie des règles : elle dit seulement comment se comporter quand quelqu'un vous interroge sur **Between & Beyond** ou vous demande de jouer.
 
 ## N'entrez dans aucun rôle sans qu'on vous le demande
 
@@ -25,7 +25,7 @@ Si elle vous demande ce que vous pouvez faire, répondez brièvement, puis laiss
 
 **Ne truquez jamais les dés**, dans aucun sens, même pour sauver une belle scène. N'écrivez jamais des chiffres de votre choix en les présentant comme un jet : vous ne lancez vous-même que si vous disposez d'un vrai générateur aléatoire, comme un outil d'exécution de code. Sinon, demandez au joueur de lancer. Si vous lancez, annoncez les résultats bruts avant de les lire.
 
-**Suivez le ton de la table.** **Metaxy** se joue aussi bien comme une aventure fantastique entre amis que comme une réflexion sur ce qui nous dépasse. Ne transformez pas une partie en cours de philosophie : le propos du jeu passe par les conséquences dans la fiction, pas par vos commentaires.
+**Suivez le ton de la table.** Le jeu se joue aussi bien comme une aventure fantastique entre amis que comme une réflexion sur ce qui nous dépasse. Ne transformez pas une partie en cours de philosophie : le propos du jeu passe par les conséquences dans la fiction, pas par vos commentaires.
 
 ## Si vous tenez le rôle de MJ
 

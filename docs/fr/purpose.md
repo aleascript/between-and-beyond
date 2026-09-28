@@ -1,12 +1,12 @@
 ---
 id: purpose
 title: Le propos du jeu
-description: Ce que Metaxy explore, et pourquoi les joueurs y incarnent des Agents.
+description: Ce que le jeu explore, et pourquoi les joueurs y incarnent des Agents.
 ---
 
 # Le propos du jeu
 
-**Metaxy** explore **notre rapport à ce qui est autre que nous et nous dépasse**.
+Le jeu explore **notre rapport à ce qui est autre que nous et nous dépasse**.
 
 Les êtres humains rencontrent des réalités qu'ils ne peuvent pas simplement ramener à leur propre échelle : la mort, le temps, le divin, l'immortalité, le cosmos, d'autres formes d'intelligence, ce qui précède ou survivra à l'Humanité, et plus généralement ce qui résiste à leurs catégories ordinaires.
 
@@ -34,7 +34,7 @@ Cette présence ne peut cependant pas être une copie intacte de la Puissance. E
 
 Il devient autre.
 
-C'est ce que Diotime appelle le *metaxy* : l'entre-deux où se tient le daimôn, ni dieu ni mortel, qui fait passer de l'un à l'autre. Le tiraillement de l'Agent entre sa Puissance et le monde est aussi sa raison d'être.
+C'est la place que Diotime donne au daimôn : l'entre-deux, ni dieu ni mortel, qui fait passer de l'un à l'autre. Le tiraillement de l'Agent entre sa Puissance et le monde est aussi sa raison d'être.
 
 ## La médiation transforme dans les deux sens
 
@@ -72,4 +72,8 @@ L'humain de ce propos n'est pas d'abord un personnage de la fiction : **c'est le
 
 Comme les mythes, le jeu de rôle est une manière d'occuper temporairement une position impossible. Le joueur prend l'Agent comme figure d'entre-deux pour approcher ce qu'il ne peut pas occuper directement — et découvrir ce que cette rencontre transforme des deux côtés.
 
-**C'est pour cela que les joueurs incarnent des Agents.** Le jeu de rôle est lui-même un metaxy.
+**C'est pour cela que les joueurs incarnent des Agents.** Le jeu de rôle est lui-même un entre-deux.
+
+## Une idée ancienne
+
+Cet entre-deux n'est pas une invention du jeu. Les Grecs l'appelaient *metaxu* (μεταξύ), la **métaxie** : chez Platon, c'est la place d'Éros et des daimones. Simone Weil en a fait les *metaxu* de *La Pesanteur et la grâce* : ce qui sépare et relie à la fois, comme le mur par lequel deux prisonniers communiquent en frappant. Augusto Boal appelait *metaxis* l'état de qui appartient en même temps à deux mondes, la réalité et l'image qu'il en joue — ce que connaît tout joueur de jeu de rôle.
