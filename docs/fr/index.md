@@ -5,7 +5,7 @@ slug: /
 description: Un jeu de rôle sur ce qui nous dépasse, et sur ceux qui se tiennent entre.
 ---
 
-![](/img/site/logo_light_theme_400.png)
+![](/img/site/logo_light_theme.svg)
 
 # Between & Beyond
 

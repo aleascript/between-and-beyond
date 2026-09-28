@@ -5,7 +5,7 @@ slug: /
 description: A tabletop role-playing game about what exceeds us, and those who stand between.
 ---
 
-![](/img/site/logo_light_theme_400.png)
+![](/img/site/logo_light_theme.svg)
 
 # Between & Beyond
 
