@@ -66,11 +66,15 @@ Ce qui dure : les pierres, les étoiles, ce qui était là avant et sera là apr
 
 ## Familles d'Agents
 
+Les traits proposés sont des traits **du Lien** : chacun vient de la relation elle-même ou de l'Attribut indiqué. Les Ancrages de l'Agent lui appartiennent et restent à écrire.
+
 ### Oracles — le Destin
 
 Sibylles, voyants, devins. Le Lien est une vision.
 
-*Voit ce qui sera* · *Ne peut pas ne pas voir* · *On ne le croit jamais tout à fait*
+- *Voit ce qui sera*, de *Tout est déjà filé* ;
+- *Ne peut pas ne pas voir*, de la vision elle-même ;
+- *On ne le croit jamais tout à fait*, de *Se révèle par fragments*.
 
 **Ce que la figure permet de penser :** savoir sans pouvoir changer ; ce qu'il reste de liberté quand tout est écrit.
 
@@ -78,7 +82,9 @@ Sibylles, voyants, devins. Le Lien est une vision.
 
 Aventuriers, joueurs, ceux que la chance favorise tant qu'ils osent. Le Lien est un pari tenu.
 
-*Sent l'occasion* · *La chance lui sourit* · *Ne peut refuser un pari*
+- *Sent l'occasion*, de *Ne prévient pas* ;
+- *La chance lui sourit*, de *Favorise l'audace* ;
+- *Ne peut refuser un pari*, du pari lui-même.
 
 **Ce que la figure permet de penser :** le moment qui ne revient pas ; ce qu'on fait de sa chance.
 
@@ -86,7 +92,9 @@ Aventuriers, joueurs, ceux que la chance favorise tant qu'ils osent. Le Lien est
 
 Ceux qui reviennent, vie après vie, et se souviennent. Le Lien est la roue elle-même.
 
-*Se souvient de ses vies passées* · *Revient toujours* · *Reconnaît ceux qu'il a connus*
+- *Se souvient de ses vies passées*, de *Rien ne se perd* ;
+- *Revient toujours*, de *Tout revient* ;
+- *Reconnaît ceux qu'il a connus*, de la roue elle-même.
 
 **Ce que la figure permet de penser :** être plusieurs vies ; ce qui persiste de soi quand tout change.
 
@@ -94,7 +102,9 @@ Ceux qui reviennent, vie après vie, et se souviennent. Le Lien est la roue elle
 
 Ceux qui ne meurent pas de vieillesse et voient passer les siècles. Le Lien est une durée reçue.
 
-*Ne vieillit pas* · *A tout vu* · *Survit à tous ceux qu'il aime*
+- *Ne vieillit pas*, de la durée reçue elle-même ;
+- *A tout vu*, d'*Était là avant, sera là après* ;
+- *Survit à tous ceux qu'il aime*, d'*Use tout*.
 
 **Ce que la figure permet de penser :** voir mourir tout ce qu'on aime ; la mémoire sans fin ; ce que vaut une vie qui ne finit pas.
 
@@ -112,10 +122,11 @@ Ceux qui ne meurent pas de vieillesse et voient passer les siècles. Le Lien est
 
 :::note[Exemple — Cassandre, oracle du Destin]
 
-- **Mots-clés du Lien :** *Voit ce qui sera*, *Ne peut pas ne pas voir*.
-- **Mots-clés acquis :** *Actuaire dans une compagnie d'assurance*, *Élève seule son fils*.
+- **Lien :** une vision. Traits : *Voit ce qui sera*, *Ne peut pas ne pas voir*.
+- **Ancrage** *Actuaire dans une compagnie d'assurance* : *Parle en probabilités*, *Sait chiffrer un risque*.
+- **Ancrage** *Élève seule son fils* : aucun trait écrit pour l'instant.
 
-Le Destin *se révèle par fragments*, et Cassandre n'a jamais su dire *quand*. Au travail, elle a appris à parler en probabilités. Si elle fait reconnaître la probabilité comme appartenant au Destin, les oracles pourront dire *combien de chances* — et le Destin cessera d'être tout à fait certain.
+Le Destin *se révèle par fragments*, et Cassandre n'a jamais su dire *quand*. Au travail, elle a appris à parler en probabilités. Si elle fait reconnaître la probabilité comme appartenant au Destin, *Parle en probabilités* passera au Lien : les oracles pourront dire *combien de chances* — et le Destin cessera d'être tout à fait certain.
 
 :::
 

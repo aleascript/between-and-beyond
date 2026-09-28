@@ -60,11 +60,15 @@ L'immensité indifférente, que l'on ne regarde pas en face impunément.
 
 ## Familles d'Agents
 
+Les traits proposés sont des traits **du Lien** : chacun vient de la relation elle-même ou de l'Attribut indiqué. Les Ancrages de l'Agent lui appartiennent et restent à écrire.
+
 ### Contactés — le Signal
 
 Des humains qui ont reçu quelque chose, et ne sont plus tout à fait les mêmes. Le Lien est un contact.
 
-*Entend le signal dans le bruit* · *Rêve dans une langue inconnue* · *Sait des choses qu'il n'a pas apprises*
+- *Entend le signal dans le bruit*, d'*Émet sans cesse* ;
+- *Rêve dans une langue inconnue*, de *Transforme ceux qui l'écoutent* ;
+- *Sait des choses qu'il n'a pas apprises*, du contact lui-même.
 
 **Ce que la figure permet de penser :** être choisi sans savoir par quoi ni pourquoi ; une foi sans dogme.
 
@@ -72,7 +76,9 @@ Des humains qui ont reçu quelque chose, et ne sont plus tout à fait les mêmes
 
 Des corps construits pour rencontrer : organismes, machines, fragments détachés. Le Lien est une origine.
 
-*Corps modulable* · *Relié aux autres* · *Apprend en imitant*
+- *Corps modulable*, de l'origine elle-même ;
+- *Relié aux autres*, de *Pense à plusieurs* ;
+- *Apprend en imitant*, d'*Apprend de tout contact*.
 
 **Ce que la figure permet de penser :** une conscience construite pour comprendre, qui découvre qu'elle ressent ; être un et plusieurs.
 
@@ -80,7 +86,9 @@ Des corps construits pour rencontrer : organismes, machines, fragments détaché
 
 Nés d'un contact, ou modifiés par lui. Le Lien est une modification.
 
-*Perçoit ce que les humains ne perçoivent pas* · *Sang étranger* · *Les Visiteurs le retrouvent toujours*
+- *Perçoit ce que les humains ne perçoivent pas*, d'*Observent* ;
+- *Sang étranger*, de la modification elle-même ;
+- *Les Visiteurs le retrouvent toujours*, d'*Obéissent à un but qu'ils ne disent pas*.
 
 **Ce que la figure permet de penser :** porter la rencontre dans son corps ; appartenir à deux espèces et à aucune.
 
@@ -88,7 +96,9 @@ Nés d'un contact, ou modifiés par lui. Le Lien est une modification.
 
 Ceux qui ont vu, et ne peuvent plus oublier. Le Lien est une vision.
 
-*A vu l'immensité* · *Sent les failles du réel* · *Ne craint plus rien d'humain*
+- *A vu l'immensité*, de la vision elle-même ;
+- *Sent les failles du réel*, de *Ne peut être regardé en face* ;
+- *Ne craint plus rien d'humain*, d'*Indifférent*.
 
 **Ce que la figure permet de penser :** ce que devient un esprit face à ce qui ne se soucie pas de lui ; l'insignifiance, et ce qu'on en fait.
 
@@ -105,10 +115,10 @@ Ceux qui ont vu, et ne peuvent plus oublier. Le Lien est une vision.
 
 :::note[Exemple — Noor, contactée du Signal]
 
-- **Mots-clés du Lien :** *Entend le signal dans le bruit*, *Rêve dans une langue inconnue*.
-- **Mots-clés acquis :** *Traductrice pour les réfugiés*, *Parle cinq langues*.
+- **Lien :** un contact. Traits : *Entend le signal dans le bruit*, *Rêve dans une langue inconnue*.
+- **Ancrage** *Traductrice pour les réfugiés* : *Parle cinq langues*, *Fait se comprendre ceux qui ne se comprennent pas*.
 
-Le Signal *ne répond jamais directement*. Noor a passé des années à traduire des gens qui ne se comprenaient pas, et sait qu'une traduction est toujours une réponse. Si elle fait reconnaître la traduction comme appartenant au Signal, il pourra enfin répondre — et d'autres contactés commenceront à comprendre ce qu'ils entendent.
+Le Signal *ne répond jamais directement*. Noor a passé des années à traduire des gens qui ne se comprenaient pas, et sait qu'une traduction est toujours une réponse. Si elle fait reconnaître la traduction comme appartenant au Signal, *Fait se comprendre ceux qui ne se comprennent pas* passera au Lien : le Signal pourra enfin répondre — et d'autres contactés commenceront à comprendre ce qu'ils entendent.
 
 :::
 

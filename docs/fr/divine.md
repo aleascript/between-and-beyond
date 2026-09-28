@@ -78,7 +78,7 @@ Déchus, révoltés ou nés de l'ombre. Le Lien est une allégeance.
 
 - *Sent le mensonge*, de *Connaît le désir de chacun* ;
 - *Lit le désir*, de *Connaît le désir de chacun* ;
-- *Propose un pacte*, de *Offre toujours un choix*.
+- *Propose un pacte*, d'*Offre toujours un choix*.
 
 **Ce que la figure permet de penser :** la tentation ; le prix de ce qu'on désire ; la liberté de dire non, même à ce qui nous dépasse.
 

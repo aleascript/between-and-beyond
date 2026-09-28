@@ -68,11 +68,15 @@ Ce qui était avant l'ordre et revient dès qu'il faiblit : Tiamat, Typhon, le L
 
 ## Familles d'Agents
 
+Les traits proposés sont des traits **du Lien** : chacun vient de la relation elle-même ou de l'Attribut indiqué. Les Ancrages de l'Agent lui appartiennent et restent à écrire.
+
 ### Furieux — la Guerre
 
 Berserkers, guerriers-fauves, Cúchulainn que la fureur de la bataille déforme. Le Lien est une fureur.
 
-*Ne sent ni peur ni douleur* · *La bataille le trouve* · *Dans la fureur, ne reconnaît personne*
+- *Ne sent ni peur ni douleur*, de la fureur elle-même ;
+- *La bataille le trouve*, de *Se nourrit d'elle-même* ;
+- *Dans la fureur, ne reconnaît personne*, de *Ne distingue pas les innocents*.
 
 **Ce que la figure permet de penser :** la violence qui nous possède ; ce qu'on devient après la guerre ; le retour du soldat.
 
@@ -80,7 +84,9 @@ Berserkers, guerriers-fauves, Cúchulainn que la fureur de la bataille déforme.
 
 Tricksters, intrigants, ceux qui jettent la pomme au milieu du banquet. Le Lien est un rire.
 
-*Trouve la faille de chaque alliance* · *Un mot suffit à diviser* · *Personne ne le soupçonne*
+- *Trouve la faille de chaque alliance*, de *Défait ce qui semblait solide* ;
+- *Un mot suffit à diviser*, d'*Un mot lui suffit* ;
+- *Personne ne le soupçonne*, de *Ne prend jamais parti*.
 
 **Ce que la figure permet de penser :** ce qui tient les liens ensemble, et combien c'est fragile ; le rire qui défait les ordres trop sûrs d'eux.
 
@@ -88,7 +94,9 @@ Tricksters, intrigants, ceux qui jettent la pomme au milieu du banquet. Le Lien 
 
 Cavaliers de l'Apocalypse, hérauts du Ragnarök, prophètes du déluge. Le Lien est une annonce.
 
-*Voit ce qui va tomber* · *Sa venue précède la catastrophe* · *Épargné par ce qu'il annonce*
+- *Voit ce qui va tomber*, de *Tout finira* ;
+- *Sa venue précède la catastrophe*, d'*Annoncée depuis toujours* ;
+- *Épargné par ce qu'il annonce*, de l'annonce elle-même.
 
 **Ce que la figure permet de penser :** vivre en sachant que tout finit ; ce qu'on sauve quand on ne peut pas tout sauver.
 
@@ -96,7 +104,9 @@ Cavaliers de l'Apocalypse, hérauts du Ragnarök, prophètes du déluge. Le Lien
 
 Enfants de Typhon, rejetons du Léviathan, monstres qui dorment sous une forme humaine. Le Lien est un sang.
 
-*Porte en lui une bête démesurée* · *Le sol tremble quand il s'éveille* · *Les bêtes le fuient*
+- *Porte en lui une bête démesurée*, du sang lui-même ;
+- *Le sol tremble quand il s'éveille*, de *Défait toute forme* ;
+- *Les bêtes le fuient*, d'*Était là avant l'ordre*.
 
 **Ce que la figure permet de penser :** être une catastrophe pour les autres ; une force sans intention, et ce qu'on peut en choisir.
 
@@ -114,10 +124,11 @@ Enfants de Typhon, rejetons du Léviathan, monstres qui dorment sous une forme h
 
 :::note[Exemple — Karim, furieux de la Guerre]
 
-- **Mots-clés du Lien :** *Ne sent ni peur ni douleur*, *La bataille le trouve*.
-- **Mots-clés acquis :** *Démineur*, *Père d'une fille de six ans*.
+- **Lien :** une fureur. Traits : *Ne sent ni peur ni douleur*, *La bataille le trouve*.
+- **Ancrage** *Démineur* : *Défait ce que la guerre a laissé*, *Garde son calme au-dessus d'une mine*.
+- **Ancrage** *Père d'une fille de six ans* : aucun trait écrit pour l'instant.
 
-La Guerre *se nourrit d'elle-même* : elle laisse dans les champs de quoi tuer longtemps après la paix. Karim passe ses jours à défaire ce qu'elle a laissé. S'il fait reconnaître le déminage comme appartenant à la Guerre, *Démineur* peut devenir un mot-clé du Lien. La Guerre saura défaire ce qu'elle a posé — et d'autres furieux apprendront à rentrer chez eux.
+La Guerre *se nourrit d'elle-même* : elle laisse dans les champs de quoi tuer longtemps après la paix. Karim passe ses jours à défaire ce qu'elle a laissé. S'il fait reconnaître le déminage comme appartenant à la Guerre, *Défait ce que la guerre a laissé* peut passer au Lien. La Guerre saura défaire ce qu'elle a posé — et d'autres furieux apprendront à rentrer chez eux.
 
 :::
 

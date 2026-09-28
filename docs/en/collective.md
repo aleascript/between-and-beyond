@@ -60,11 +60,15 @@ Strangers living together.
 
 ## Families of Agents
 
+The suggested traits are **Bond** traits: each comes from the relationship itself or from the Attribute shown. The Agent's Anchors belong to them and remain to be written.
+
 ### Changers — Money
 
 Lenders, merchants, bankers, those who set prices. The Bond is a contract.
 
-*Knows the price of everything* · *Their signature binds* · *Money comes to them*
+- *Knows the price of everything*, from *Measures everything*;
+- *Their signature binds*, from *Exists only if people believe in it*;
+- *Money comes to them*, from *Circulates endlessly*.
 
 **What the figure lets us think:** what has a price and what does not.
 
@@ -72,7 +76,9 @@ Lenders, merchants, bankers, those who set prices. The Bond is a contract.
 
 Soldiers, national poets, founders, those who carry the flag. The Bond is belonging.
 
-*Speaks in the name of all* · *Their presence rallies* · *Does not back down*
+- *Speaks in the name of all*, from the belonging itself;
+- *Their presence rallies*, from *Us and the others*;
+- *Does not back down*, from *Demands the dead*.
 
 **What the figure lets us think:** belonging; dying for something one has never seen whole.
 
@@ -80,7 +86,9 @@ Soldiers, national poets, founders, those who carry the flag. The Bond is belong
 
 Town criers, journalists, influencers, whistleblowers. The Bond is an audience.
 
-*Heard by all* · *Knows what is circulating* · *Their words spread*
+- *Heard by all*, from the audience itself;
+- *Knows what is circulating*, from *Connects everything it touches*;
+- *Their words spread*, from *Amplifies*.
 
 **What the figure lets us think:** being heard by everyone and being no one; speech without a body.
 
@@ -88,7 +96,9 @@ Town criers, journalists, influencers, whistleblowers. The Bond is an audience.
 
 The spirit of a neighborhood, a street, a station. The Bond is a place.
 
-*Knows every street* · *Cannot leave the city* · *The city helps them*
+- *Knows every street*, from the place itself;
+- *Cannot leave the city*, from the place itself;
+- *The city helps them*, from *Gathers strangers*.
 
 **What the figure lets us think:** dwelling; a place that remembers those who lived there.
 
@@ -105,10 +115,11 @@ The spirit of a neighborhood, a street, a station. The Bond is a place.
 
 :::note[Example — Samir, changer of Money]
 
-- **Bond keywords:** *Knows the price of everything*, *Their signature binds*.
-- **Acquired keywords:** *Grew up in a family that gave everything away*, *Volunteers at a community pantry*.
+- **Bond:** a contract. Traits: *Knows the price of everything*, *Their signature binds*.
+- **Anchor** *Grew up in a family that gave everything away*: *Knows some things are not given back*.
+- **Anchor** *Volunteers at a community pantry*: *Gives without counting*.
 
-Money believes that *everything can be exchanged*. Samir knows that some things are not given back. If he gets the gift recognized as belonging to Money, his Power will finally know what has no price — and other changers will learn to give.
+Money believes that *everything can be exchanged*. Samir knows that some things are not given back. If he gets the gift recognized as belonging to Money, *Gives without counting* will pass into the Bond: his Power will finally know what has no price — and other changers will learn to give.
 
 :::
 

@@ -70,11 +70,15 @@ The desire to lose oneself: Dionysus, trance, wine, dancing until dawn.
 
 ## Families of Agents
 
+The suggested traits are **Bond** traits: each comes from the relationship itself or from the Attribute shown. The Agent's Anchors belong to them and remain to be written.
+
 ### Cupids — Eros
 
 Winged children, archers, matchmakers. The Bond is a wound: the arrow they received first.
 
-*Sees who desires whom* · *Their arrow never misses* · *Cannot aim for themselves*
+- *Sees who desires whom*, from *Attracts*;
+- *Their arrow never misses*, from *Unites what was apart*;
+- *Cannot aim for themselves*, from the wound itself.
 
 **What the figure lets us think:** what we do not choose to love; the responsibility of those who unite.
 
@@ -82,7 +86,9 @@ Winged children, archers, matchmakers. The Bond is a wound: the arrow they recei
 
 Ogres of fairy tales, ghouls, misers, those who are never sated. The Bond is a hunger.
 
-*Senses what everyone covets* · *Never sated* · *Takes without asking*
+- *Senses what everyone covets*, from *Wants to possess*;
+- *Never sated*, from *Knows no "enough"*;
+- *Takes without asking*, from the hunger itself.
 
 **What the figure lets us think:** the lack that cannot be filled; what possessing does not give.
 
@@ -90,7 +96,9 @@ Ogres of fairy tales, ghouls, misers, those who are never sated. The Bond is a h
 
 Inspirers, familiar spirits, fairy lovers like the Irish *leannán sídhe*. The Bond is an election.
 
-*Inspires whoever they touch* · *Sees the work before it exists* · *Exhausts those they inspire*
+- *Inspires whoever they touch*, from *Inspires*;
+- *Sees the work before it exists*, from *Prefers the work to the artist*;
+- *Exhausts those they inspire*, from *Demands to be served*.
 
 **What the figure lets us think:** creating, and what it costs; what we owe to what inspires us.
 
@@ -98,7 +106,9 @@ Inspirers, familiar spirits, fairy lovers like the Irish *leannán sídhe*. The 
 
 Maenads, sacred revelers, leaders of trance. The Bond is a trance.
 
-*Sweeps crowds along* · *Feels no pain in trance* · *Loosens tongues and bodies*
+- *Sweeps crowds along*, from *Gathers in trance*;
+- *Feels no pain in trance*, from the trance itself;
+- *Loosens tongues and bodies*, from *Dissolves limits*.
 
 **What the figure lets us think:** losing oneself to find oneself; the freedom and the violence of a crowd in ecstasy.
 
@@ -116,10 +126,11 @@ Maenads, sacred revelers, leaders of trance. The Bond is a trance.
 
 :::note[Example — Inès, muse]
 
-- **Bond keywords:** *Inspires whoever they touch*, *Sees the work before it exists*.
-- **Acquired keywords:** *Middle-school music teacher*, *Never finished her own songs*.
+- **Bond:** an election. Traits: *Inspires whoever they touch*, *Sees the work before it exists*.
+- **Anchor** *Middle-school music teacher*: *Passes on an impulse without taking it*.
+- **Anchor** *Never finished her own songs*: no trait written yet.
 
-The Muse *prefers the work to the artist*: it inspires, then leaves the artist exhausted. In the classroom, Inès has learned that one can pass on an impulse without taking it from anyone. If she gets teaching recognized as belonging to the Muse, *Middle-school music teacher* can become a Bond keyword — and other muses will learn to inspire without consuming.
+The Muse *prefers the work to the artist*: it inspires, then leaves the artist exhausted. In the classroom, Inès has learned that one can pass on an impulse without taking it from anyone. If she gets teaching recognized as belonging to the Muse, *Passes on an impulse without taking it* can pass into the Bond — and other muses will learn to inspire without consuming.
 
 :::
 

@@ -68,11 +68,15 @@ What was there before order and returns as soon as it weakens: Tiamat, Typhon, L
 
 ## Families of Agents
 
+The suggested traits are **Bond** traits: each comes from the relationship itself or from the Attribute shown. The Agent's Anchors belong to them and remain to be written.
+
 ### Berserkers — War
 
 Berserkers, beast-warriors, Cú Chulainn twisted by battle frenzy. The Bond is a fury.
 
-*Feels neither fear nor pain* · *Battle finds them* · *In the fury, recognizes no one*
+- *Feels neither fear nor pain*, from the fury itself;
+- *Battle finds them*, from *Feeds on itself*;
+- *In the fury, recognizes no one*, from *Does not tell the innocent apart*.
 
 **What the figure lets us think:** the violence that possesses us; what one becomes after war; the soldier's return.
 
@@ -80,7 +84,9 @@ Berserkers, beast-warriors, Cú Chulainn twisted by battle frenzy. The Bond is a
 
 Tricksters, schemers, those who throw the apple into the middle of the feast. The Bond is laughter.
 
-*Finds the flaw in every alliance* · *One word is enough to divide* · *No one suspects them*
+- *Finds the flaw in every alliance*, from *Undoes what seemed solid*;
+- *One word is enough to divide*, from *One word is enough*;
+- *No one suspects them*, from *Never takes sides*.
 
 **What the figure lets us think:** what holds bonds together, and how fragile it is; the laughter that undoes orders too sure of themselves.
 
@@ -88,7 +94,9 @@ Tricksters, schemers, those who throw the apple into the middle of the feast. Th
 
 Horsemen of the Apocalypse, heralds of Ragnarök, prophets of the flood. The Bond is an announcement.
 
-*Sees what is about to fall* · *Their coming precedes the catastrophe* · *Spared by what they announce*
+- *Sees what is about to fall*, from *Everything will end*;
+- *Their coming precedes the catastrophe*, from *Foretold since always*;
+- *Spared by what they announce*, from the announcement itself.
 
 **What the figure lets us think:** living in the knowledge that everything ends; what one saves when one cannot save everything.
 
@@ -96,7 +104,9 @@ Horsemen of the Apocalypse, heralds of Ragnarök, prophets of the flood. The Bon
 
 Children of Typhon, offspring of Leviathan, monsters sleeping in human form. The Bond is a bloodline.
 
-*Carries a colossal beast within* · *The ground shakes when it wakes* · *Animals flee them*
+- *Carries a colossal beast within*, from the bloodline itself;
+- *The ground shakes when it wakes*, from *Undoes every form*;
+- *Animals flee them*, from *Was there before order*.
 
 **What the figure lets us think:** being a catastrophe for others; a force without intention, and what one can choose to do with it.
 
@@ -114,10 +124,11 @@ Children of Typhon, offspring of Leviathan, monsters sleeping in human form. The
 
 :::note[Example — Karim, berserker of War]
 
-- **Bond keywords:** *Feels neither fear nor pain*, *Battle finds them*.
-- **Acquired keywords:** *Bomb disposal expert*, *Father of a six-year-old girl*.
+- **Bond:** a fury. Traits: *Feels neither fear nor pain*, *Battle finds them*.
+- **Anchor** *Bomb disposal expert*: *Undoes what war left behind*, *Keeps calm over a mine*.
+- **Anchor** *Father of a six-year-old girl*: no trait written yet.
 
-War *feeds on itself*: it leaves in the fields enough to kill long after peace. Karim spends his days undoing what it left behind. If he gets mine clearance recognized as belonging to War, *Bomb disposal expert* can become a Bond keyword. War will know how to undo what it laid down — and other berserkers will learn to come home.
+War *feeds on itself*: it leaves in the fields enough to kill long after peace. Karim spends his days undoing what it left behind. If he gets mine clearance recognized as belonging to War, *Undoes what war left behind* can pass into the Bond. War will know how to undo what it laid down — and other berserkers will learn to come home.
 
 :::
 
