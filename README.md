@@ -162,6 +162,20 @@ Game-specific files — `site.config.ts`, `src/css/custom.css`, `docs/`,
 - Publications download page: `src/pages/publications.tsx`
 - Publication builder and manifest: `tools/build-publications.mjs`
 - Release policy: `.releaserc.json`
+- Logo: `static/img/site/logo_{light,dark}_theme.svg`, a copy of one style kept in
+  `static/img/site/logos/` (see below)
+
+## Logo
+
+The configured logo is `static/img/site/logo_{light,dark}_theme.svg`. It is a
+copy of one of the styles kept in `static/img/site/logos/`, where every style
+ships as a light and dark pair named `logo_{light,dark}_theme_<style>.svg`.
+`logo_*_original.png` is the raster drawing they all come from.
+
+```bash
+npm run logo            # list the styles
+npm run logo -- encre   # use the ink style
+```
 
 ---
 
@@ -203,6 +217,13 @@ langues) et aux pages d'index concernées. Le dossier `i18n/` ne contient que
 les libellés de l'interface.
 
 Les notes de design utilisent `:::design[Note de design]`.
+
+### Logo
+
+Le logo configuré, `static/img/site/logo_{light,dark}_theme.svg`, est une copie
+de l'un des styles rangés dans `static/img/site/logos/` (une paire clair et
+sombre par style, plus le dessin d'origine en PNG). Pour changer de style :
+`npm run logo -- <style>` ; `npm run logo` seul donne la liste.
 
 ### Versions et publications
 
