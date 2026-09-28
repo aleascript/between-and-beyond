@@ -137,7 +137,7 @@ The [directions](situations.md#what-sets-the-agents-in-motion) a Situation can t
 
 **Contending for a novelty.** A company makes the dead speak: from their messages, a machine rebuilds their voices. The Memory of the Dead wants these voices. The Passage sees dead who no longer pass over. The Weighing wonders whether a life that keeps on speaking can be weighed. None of these Powers can act directly: their Agents will do it for them.
 
-**Transforming one's own Power.** A vampire has grown old alongside a human he loved, without ageing himself. He now wants his lineage to be able to die. To do so, during a [moment of Presence](core-rules.md#transforming-an-attribute), he must lead the Eldest Blood to transform one of its Attributes without denying itself: *Neither dies nor lives*.
+**Transforming one's own Power.** A vampire has grown old alongside a human he loved, without ageing himself. She has died and passed over; he cannot follow her. He wants to be able to truly die, and join her. To do so, during a [moment of Presence](core-rules.md#transforming-an-attribute), he must lead the Eldest Blood to transform one of its Attributes without denying itself: *Neither dies nor lives*.
 
 Other situations:
 

@@ -115,7 +115,7 @@ La manière dont ces dés deviennent des Réussites dépend de la **nature de ce
 | Prisme | Résolution |
 | --- | --- |
 | **Neutre** | Chaque résultat pair produit 1 Réussite. |
-| **Devenir** | Chaque pair produit 1 Réussite. Chaque 6 relance un impair ou, s'il n'en reste aucun, ajoute un nouveau dé. |
+| **Devenir** | Chaque pair produit 1 Réussite. Chaque 6 ajoute un nouveau dé. |
 | **Puissance** | Aucun jet : chaque Mise produit directement 1 Réussite. |
 
 Les Agents n'ont pas de prisme propre. Ils se tiennent entre le Devenir et leur Puissance, et chacune de leurs Mises relève de l'un ou de l'autre selon sa provenance.
@@ -140,11 +140,13 @@ Le **Devenir** reste proche de la résolution Neutre, mais le **6** porte ce que
 
 Lancez un D6 par Mise.
 
-Chaque résultat **pair** produit une Réussite. Chaque **6** permet en outre de relancer un résultat impair. S'il ne reste aucun impair à relancer, le 6 ajoute **un nouveau dé**.
+Chaque résultat **pair** produit une Réussite. Chaque **6** ajoute en outre **un nouveau dé**.
 
-Les dés relancés ou ajoutés sont résolus de la même manière : un nouveau 6 peut à son tour relancer un impair ou ajouter un dé. Les 2 et les 4 ne produisent qu'une Réussite.
+Les dés ajoutés sont résolus de la même manière : un nouveau 6 ajoute à son tour un dé. Les 2 et les 4 ne produisent qu'une Réussite.
 
-> **2, 3, 5, 6** donne d'abord 2 Réussites. Le 6 relance le 3, qui donne un 6 : 3 Réussites. Ce nouveau 6 relance le 5, qui donne lui aussi un 6 : 4 Réussites. Il ne reste plus d'impair : ce dernier 6 ajoute un nouveau dé, qui donne 4. Résultat : **5 Réussites** pour 4 Mises.
+> **2, 3, 5, 6** donne d'abord 2 Réussites. Le 6 ajoute un dé, qui donne un 6 : 3 Réussites. Ce nouveau 6 ajoute un dé, qui donne lui aussi un 6 : 4 Réussites. Ce dernier 6 ajoute encore un dé, qui donne 4. Résultat : **5 Réussites** pour 4 Mises.
+
+**Reprendre, puis surprendre.** Une table peut aussi lancer le 6 autrement : il relance d'abord un impair, et n'ajoute un dé que lorsqu'il ne reste plus d'impair à relancer. Les Réussites obtenues sont exactement les mêmes, puisqu'un impair n'en rapportait aucune. Mais ce n'est pas la même expérience. Relancer un impair, c'est **reprendre** : revenir sur ce qui avait échoué et lui donner une autre chance. Ajouter un dé, c'est **surprendre** : aller au-delà de ce qui était donné, quand il ne reste plus rien à reprendre. Le Devenir fait d'abord l'un, puis l'autre.
 
 Un jet de Devenir peut donc, rarement, produire davantage de Réussites que de Mises. Le Devenir n'est pas plus fort : il est la possibilité que quelque chose advienne au-delà de ce qui était déjà donné.
 
@@ -376,11 +378,11 @@ Sinon, la demande se solde le plus souvent par la perte d'un mot-clé du Lien.
 
 :::note[Exemple — la Mort]
 
-Un vampire a vieilli aux côtés d'une humaine qu'il aimait, sans vieillir lui-même. Son acquis, *A aimé une mortelle jusqu'à sa mort*, contredit l'un des Attributs du Premier-Sang : *Ne meurt pas, ne vit pas*. Il veut désormais que sa lignée puisse mourir.
+Un vampire a vieilli aux côtés d'une humaine qu'il aimait, sans vieillir lui-même. Elle est morte, et elle est passée. Lui ne peut pas la suivre : le soleil peut le détruire, mais un vampire détruit ne passe pas chez les morts. D'autres ont déjà choisi le soleil, et aucun n'a retrouvé ceux qu'il aimait. Son acquis, *A aimé une mortelle jusqu'à sa mort*, contredit l'un des Attributs du Premier-Sang : *Ne meurt pas, ne vit pas*. Il veut pouvoir mourir vraiment, et la rejoindre.
 
-Refuser la mort, c'est tout le Premier-Sang. Mais son joueur, aidé par la table, trouve un chemin : ce qui ne meurt pas, c'est le Premier-Sang lui-même, à travers ceux qu'il engendre. Une lignée qui se transmet ne meurt pas, même si ses enfants meurent.
+Refuser la mort, c'est tout le Premier-Sang : chaque enfant qui s'en va affaiblit la lignée, et il la défend à tout prix. La table cherche longtemps. Le compromis vient d'une humaine qui sait ce qu'il est : elle choisit librement de devenir vampire à sa place. Le Premier-Sang ne perd rien, puisque la lignée garde un enfant, et cette fois un enfant qui l'a voulu. Le vampire, lui, peut enfin mourir et passer.
 
-L'Attribut devient *La lignée ne meurt pas*. Les trois autres restent vrais, et ce que l'ancien protégeait demeure. Le Premier-Sang a changé sans se renier — et tous ses vampires peuvent désormais mourir.
+L'Attribut devient *La lignée ne meurt pas, elle se transmet*. Les trois autres restent vrais, et ce que l'ancien protégeait demeure : la lignée ne s'éteint pas, et ses vampires ne vivent toujours pas, puisqu'ils se nourrissent des vivants. Le Premier-Sang a changé sans se renier. Désormais, chacun de ses vampires peut mourir vraiment, si quelqu'un accepte de prendre sa place.
 
 :::
 

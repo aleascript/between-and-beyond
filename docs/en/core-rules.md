@@ -115,7 +115,7 @@ How those dice become Successes depends on the **nature of what is acting**. The
 | Prism | Resolution |
 | --- | --- |
 | **Neutral** | Each even result produces 1 Success. |
-| **Becoming** | Each even result produces 1 Success. Each 6 rerolls one odd result or, if none remains, adds a new die. |
+| **Becoming** | Each even result produces 1 Success. Each 6 adds a new die. |
 | **Power** | No roll: each Bet directly produces 1 Success. |
 
 Agents have no prism of their own. They stand between Becoming and their Power, and each of their Bets belongs to one or the other depending on where it comes from.
@@ -140,11 +140,13 @@ The **Becoming** prism applies to any actor capable of acquiring something it wa
 
 Roll one D6 per Bet.
 
-Each **even** result produces one Success. Each **6** also lets the player reroll one odd result. If no odd result is left to reroll, the 6 adds **one new die**.
+Each **even** result produces one Success. Each **6** also adds **one new die**.
 
-Rerolled or added dice are resolved in the same way: a new 6 may in turn reroll an odd result or add a die. A 2 or a 4 produces only a Success.
+Added dice are resolved in the same way: a new 6 adds another die in turn. A 2 or a 4 produces only a Success.
 
-> **2, 3, 5, 6** first gives 2 Successes. The 6 rerolls the 3, which shows a 6: 3 Successes. That new 6 rerolls the 5, which also shows a 6: 4 Successes. No odd result is left, so this last 6 adds a new die, which shows a 4. Result: **5 Successes** from 4 Bets.
+> **2, 3, 5, 6** first gives 2 Successes. The 6 adds a die, which shows a 6: 3 Successes. That new 6 adds a die, which also shows a 6: 4 Successes. This last 6 adds yet another die, which shows a 4. Result: **5 Successes** from 4 Bets.
+
+**Recovering, then surprising.** A table may also roll the 6 another way: it first rerolls an odd result, and adds a die only when no odd result is left to reroll. The Successes obtained are exactly the same, since an odd result produced none. But it is not the same experience. Rerolling an odd result is **recovering**: going back to what had failed and giving it another chance. Adding a die is **surprising**: going beyond what was given, once there is nothing left to recover. Becoming does the one first, then the other.
 
 A Becoming roll can therefore, rarely, produce more Successes than Bets. Becoming is not stronger: it is the possibility that something may arise beyond what was already given.
 
@@ -376,11 +378,11 @@ Otherwise, the request most often ends with the loss of a Bond keyword.
 
 :::note[Example — Death]
 
-A vampire has grown old alongside a human he loved, without ageing himself. His acquired keyword, *Loved a mortal until her death*, contradicts one of the Eldest Blood's Attributes: *Neither dies nor lives*. He now wants his lineage to be able to die.
+A vampire has grown old alongside a human he loved, without ageing himself. She has died, and she has passed over. He cannot follow her: the sun can destroy him, but a destroyed vampire does not pass over to the dead. Others have already chosen the sun, and none of them found those they loved. His acquired keyword, *Loved a mortal until her death*, contradicts one of the Eldest Blood's Attributes: *Neither dies nor lives*. He wants to be able to truly die, and join her.
 
-Refusing death is everything the Eldest Blood is. But his player, helped by the table, finds a path: what does not die is the Eldest Blood itself, through those it begets. A lineage that is passed on does not die, even when its children do.
+Refusing death is everything the Eldest Blood is: every child who leaves weakens the lineage, and it defends the lineage at all costs. The table searches for a long time. The compromise comes from a human who knows what he is: she freely chooses to become a vampire in his place. The Eldest Blood loses nothing, since the lineage keeps a child, and this time a child who wanted it. The vampire, for his part, can at last die and pass over.
 
-The Attribute becomes *The lineage does not die*. The other three remain true, and what the old one protected endures. The Eldest Blood has changed without denying itself — and all its vampires can now die.
+The Attribute becomes *The lineage does not die, it is passed on*. The other three remain true, and what the old one protected endures: the lineage does not die out, and its vampires still do not live, since they feed on the living. The Eldest Blood has changed without denying itself. From now on, each of its vampires can truly die, if someone agrees to take their place.
 
 :::
 

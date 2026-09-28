@@ -63,7 +63,7 @@ Do not make a Power speak like an NPC. It becomes present through its Agents, av
 - Before any roll, state the Intention, the Focus, and the Zoom, then the Bets on each side. For each of an Agent's Bets, state its origin (**Bond** or **acquired**) and the prism that applies.
 - When the player calls on the Bond, point out before the roll the significant consequences that the Power's manner makes foreseeable. The choice remains theirs.
 - Bond Bets are declared. When one side commits them, the other may answer with its own, if they matter for the Focus at this Zoom; all of them then switch to the Neutral prism. An Agent who commits none stays hidden, and their opponent keeps the certainty of their Bond.
-- Apply the Becoming prism completely (6s that reroll or add dice) before any comparison. Never declare an outcome from intermediate dice.
+- Apply the Becoming prism completely (each 6 adds a die) before any comparison. Never declare an outcome from intermediate dice.
 - **What succeeds through the Bond is achieved by the Power.** Describe the Success in the Power's manner, even when it is not what the player hoped for.
 - Bets return to the fiction after the roll: use them to interpret the result.
 

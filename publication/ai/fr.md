@@ -63,7 +63,7 @@ Ne faites pas parler une Puissance comme un PNJ. Elle devient présente par ses 
 - Avant tout jet, énoncez l'Intention, le Focus et le Zoom, puis les Mises de chaque côté. Pour chaque Mise d'un Agent, indiquez sa provenance (**Lien** ou **acquise**) et le prisme qui s'applique.
 - Quand le joueur fait appel au Lien, signalez avant le jet les conséquences importantes que la manière de la Puissance rend prévisibles. Le choix reste le sien.
 - Les Mises du Lien se déclarent. Quand un camp en engage, l'autre peut répondre par les siennes, si elles comptent pour le Focus à ce Zoom ; toutes passent alors au prisme Neutre. Un Agent qui n'en engage aucune reste caché, et son adversaire garde la certitude de son Lien.
-- Appliquez complètement le prisme Devenir (les 6 qui relancent ou ajoutent des dés) avant toute comparaison. Ne déclarez jamais une issue à partir de dés intermédiaires.
+- Appliquez complètement le prisme Devenir (chaque 6 ajoute un dé) avant toute comparaison. Ne déclarez jamais une issue à partir de dés intermédiaires.
 - **Ce qui réussit par le Lien, c'est la Puissance qui le réussit.** Décrivez la Réussite à la manière de la Puissance, même quand ce n'est pas ce que le joueur espérait.
 - Les Mises reviennent dans la fiction après le jet : servez-vous-en pour interpréter le résultat.
 
