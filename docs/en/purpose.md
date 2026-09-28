@@ -76,4 +76,6 @@ Like myths, role-playing is a way of temporarily occupying an impossible positio
 
 ## An old idea
 
-This in-between is not the game's invention. The Greeks called it *metaxy* (μεταξύ): in Plato, it is the place of Eros and the daimones. Simone Weil made it the *metaxu* of *Gravity and Grace*: what separates and connects at once, like the wall through which two prisoners communicate by knocking. Augusto Boal called *metaxis* the state of belonging to two worlds at once, reality and the image of it one plays — something every role-player knows.
+This in-between is not the game's invention. The Greeks called it *metaxy* (μεταξύ): in Plato, it is the place of Eros and the daimones. Eric Voegelin saw in it the human condition itself: a tension between us and what exceeds us, whose poles must not be frozen into separate objects. In the theater, Augusto Boal called *metaxis* the state of belonging fully, and at the same time, to two worlds: reality, and the image of it one plays.
+
+This is the player's state at the table.

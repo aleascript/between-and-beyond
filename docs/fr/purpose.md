@@ -76,4 +76,6 @@ Comme les mythes, le jeu de rôle est une manière d'occuper temporairement une 
 
 ## Une idée ancienne
 
-Cet entre-deux n'est pas une invention du jeu. Les Grecs l'appelaient *metaxu* (μεταξύ), la **métaxie** : chez Platon, c'est la place d'Éros et des daimones. Simone Weil en a fait les *metaxu* de *La Pesanteur et la grâce* : ce qui sépare et relie à la fois, comme le mur par lequel deux prisonniers communiquent en frappant. Augusto Boal appelait *metaxis* l'état de qui appartient en même temps à deux mondes, la réalité et l'image qu'il en joue — ce que connaît tout joueur de jeu de rôle.
+Cet entre-deux n'est pas une invention du jeu. Les Grecs l'appelaient *metaxu* (μεταξύ), la **métaxie** : chez Platon, c'est la place d'Éros et des daimones. Eric Voegelin y voyait la condition humaine elle-même : une tension entre nous et ce qui nous dépasse, dont il ne faut pas figer les pôles en objets séparés. Au théâtre, Augusto Boal appelait *metaxis* l'état de qui appartient pleinement, et en même temps, à deux mondes : la réalité, et l'image qu'il en joue.
+
+C'est l'état du joueur à la table.
