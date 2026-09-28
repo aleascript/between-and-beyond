@@ -60,11 +60,15 @@ An impersonal order of the world, which does not speak but grants and withdraws 
 
 ## Families of Agents
 
+The suggested traits are **Bond** traits: each comes from the relationship itself or from the Attribute shown. The Agent's Anchors belong to them and remain to be written.
+
 ### Angels — the Sword
 
 Created to serve. The Bond is creation.
 
-*Wings of light* · *Voice of the Archangel* · *Senses the presence of evil*
+- *Wings of light*, from the creation itself;
+- *Voice of the Archangel*, from *Judges without appeal*;
+- *Senses the presence of evil*, from *Protects what is entrusted to it*.
 
 **What the figure lets us think:** can one carry a message without being changed by it? Obedience, and the freedom it presupposes.
 
@@ -72,7 +76,9 @@ Created to serve. The Bond is creation.
 
 Fallen, rebellious, or born of shadow. The Bond is allegiance.
 
-*Senses lies* · *Reads desire* · *Offers a pact*
+- *Senses lies*, from *Knows everyone's desire*;
+- *Reads desire*, from *Knows everyone's desire*;
+- *Offers a pact*, from *Always offers a choice*.
 
 **What the figure lets us think:** temptation; the price of what we desire; the freedom to say no, even to what exceeds us.
 
@@ -80,7 +86,9 @@ Fallen, rebellious, or born of shadow. The Bond is allegiance.
 
 Demigods, heroes, descendants of a union between a god and a mortal. The Bond is kinship.
 
-*Superhuman strength* · *The god's blood speaks in them* · *Cannot refuse a challenge*
+- *Superhuman strength*, from *Strikes*;
+- *The god's blood speaks in them*, from the kinship itself;
+- *Cannot refuse a challenge*, from *Quarrelsome among equals*.
 
 **What the figure lets us think:** being half; inheriting what exceeds us; what we owe to parents greater than ourselves.
 
@@ -88,7 +96,7 @@ Demigods, heroes, descendants of a union between a god and a mortal. The Bond is
 
 Humans who have been called. The Bond is a call they did not choose.
 
-*Hears the voice* · *Sees what is coming* · *Their words unsettle those who hear them*
+*Hears the voice* · *Sees what is coming* · *Their words unsettle those who hear them*, which come from the call itself. Other traits depend on the Power that calls.
 
 **What the figure lets us think:** being the human voice of what is not human; the border between revelation and madness.
 
@@ -105,10 +113,11 @@ Humans who have been called. The Bond is a call they did not choose.
 
 :::note[Example — Azriel, angel of the Sword]
 
-- **Bond keywords:** *Wings of light*, *Voice of the Archangel*.
-- **Acquired keywords:** *Court-appointed defense lawyer*, *Loves a woman who believes in nothing*.
+- **Bond:** creation. Traits: *Wings of light*, *Voice of the Archangel*.
+- **Anchor** *Court-appointed defense lawyer*: *Pleads for those in the wrong*, *Knows the courthouse corridors*.
+- **Anchor** *Loves a woman who believes in nothing*: no trait written yet.
 
-The Sword *judges without appeal*. Azriel has spent years defending the guilty. If he gets the defense — pleading for the one who is wrong — recognized as belonging to the Sword, the Archangel will have learned that judging first requires listening. And other angels will begin to plead.
+The Sword *judges without appeal*. Azriel has spent years defending the guilty. If he gets the defense — pleading for the one who is wrong — recognized as belonging to the Sword, *Pleads for those in the wrong* will pass into the Bond, and the Archangel will have learned that judging first requires listening. And other angels will begin to plead.
 
 :::
 

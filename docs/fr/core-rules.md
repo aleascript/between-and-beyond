@@ -40,6 +40,32 @@ La plupart du temps, une Puissance n'entre pas directement dans une résolution 
 
 Seul un être déjà lié à une Puissance peut se retrouver face à cette totalité, lors d'un [moment de Présence](#la-présence).
 
+## Le portrait d'un Agent
+
+Le portrait d'un Agent a deux côtés, comme sa condition : ce qui le lie à sa Puissance, et ce qui le retient dans le monde.
+
+### Le Lien
+
+Le **Lien** est la relation elle-même : une filiation par le sang, un office, un serment, un arbre. Un Agent a un Lien avec sa Puissance, et ce Lien peut s'élargir en cours de jeu, d'un arbre à la forêt entière.
+
+Le Lien porte des **traits** : ce que la Puissance donne à l'Agent, ou ce qu'il est par elle. Un trait du Lien vient soit de la relation elle-même, soit d'un Attribut qui passe par elle. L'Attribut dit ce qu'est la Puissance ; le trait dit comment cela se manifeste dans cet Agent-là. *Se nourrit des vivants* est ce qu'est le Premier-Sang ; *Se nourrit de sang* est ce que vit chacun de ses vampires.
+
+Ces traits ne sont pas figés. Le MJ peut en donner de nouveaux, pour récompenser un Agent ou pour le retenir, et un Agent peut en apporter à sa Puissance (voir [Étendre une Puissance](#étendre-une-puissance)).
+
+### Les Ancrages
+
+Les **Ancrages** sont ce qui retient l'Agent dans le monde : un métier, une relation, un lieu, une blessure, un savoir ; ce qu'il est devenu au contact des Humains, d'autres Agents, d'autres formes de vie, d'un environnement ou d'un événement. Les Humains ont aussi des Ancrages : leur portrait n'a que ce côté-là.
+
+Chaque Ancrage est fait de traits. Il n'est pas nécessaire de les écrire tous : quelques exemples suffisent, et un trait implicite peut quand même devenir une Mise. On l'écrit lorsqu'il prend de l'importance, en particulier lorsqu'il contredit la Puissance ou qu'il l'intéresse.
+
+:::note[Exemple — la Nature]
+
+Un Sylvain est lié au vieux chêne du gué. Son Lien porte *Meurt si le chêne meurt* et *Se souvient de ce qu'a vu le chêne*, qui viennent de la relation elle-même, et *La forêt le cache*, qui vient de l'Attribut du Sauvage *N'a pas de chemins*.
+
+Son Ancrage *A grandi près du village* porte *Connaît les bûcherons par leur nom* et *Garde un sentier pour les enfants*. Ce dernier trait contredit *N'a pas de chemins* : le Sauvage finira par le remarquer.
+
+:::
+
 ## Jouer
 
 Le jeu utilise une organisation classique de jeu de rôle.
@@ -74,9 +100,9 @@ Un Humain ordinaire ne peut pas simplement décider de voler. Un Ange qui possè
 
 De la même manière, une Puissance peut donner à ses Agents des possibilités que les Humains — ou les Agents d'autres Puissances — ne possèdent pas.
 
-Ces possibilités sont inscrites dans le **portrait de l'Agent** sous forme de mots-clés : nature, capacités, dons, liens, états ou autres éléments qui le définissent.
+Ces possibilités sont inscrites dans le **portrait de l'Agent** sous forme de traits : nature, capacités, dons, relations, états ou autres éléments qui le définissent.
 
-Un mot-clé n'apporte pas automatiquement un dé. Il indique d'abord ce qui est vrai et ce qui est possible dans la fiction.
+Un trait n'apporte pas automatiquement un dé. Il indique d'abord ce qui est vrai et ce qui est possible dans la fiction.
 
 ### Les Mises : ce qui compte ici
 
@@ -86,7 +112,7 @@ Un élément pertinent devient une **Mise**.
 
 Cela peut venir du portrait du personnage, de sa Puissance, de ses relations, de son passé, de la situation, de l'environnement, d'une blessure, d'un objet, d'une préparation ou de tout autre élément pertinent.
 
-Un même mot-clé peut donc simplement rendre une action possible dans une scène, puis devenir une Mise dans une autre si le Focus lui donne réellement du poids.
+Un même trait peut donc simplement rendre une action possible dans une scène, puis devenir une Mise dans une autre si le Focus lui donne réellement du poids.
 
 Chaque Mise joue en faveur de l'une des deux issues.
 
@@ -164,16 +190,16 @@ Une Puissance est parfaitement fiable, mais elle ne dépasse jamais son nombre d
 
 Un Agent est ce par quoi sa Puissance devient présente. Mais il n'est pas entièrement déterminé par elle : au contact du monde, il devient autre. Ses Mises portent la trace de cette tension.
 
-Chaque mot-clé du portrait d'un Agent a une **provenance** :
+Chaque trait du [portrait d'un Agent](#le-portrait-dun-agent) a une **provenance**, qui est le côté du portrait où il se trouve :
 
-- un mot-clé **du Lien** vient de la Puissance : ce qu'elle lui donne ou ce qu'il est par elle (nature, dons, marque, autorité…) ;
-- un mot-clé **acquis** vient de l'Agent lui-même, quelle qu'en soit la source : sa rencontre avec des Humains, d'autres Agents, d'autres formes de vie, un environnement ou un événement ; ses relations, expériences, savoirs, attachements, blessures ; ce qu'il est devenu.
+- un trait **du Lien** vient de la Puissance : ce qu'elle lui donne ou ce qu'il est par elle (nature, dons, marque, autorité…) ;
+- un trait **d'Ancrage** vient de l'Agent lui-même, quelle qu'en soit la source : ses relations, expériences, savoirs, attachements, blessures ; ce qu'il est devenu.
 
-Si c'est la Puissance qui rend la chose possible, le mot-clé relève du Lien ; sinon, il est acquis. La provenance est fixée avec le mot-clé et peut changer si la fiction le transforme.
+Si c'est la Puissance qui rend la chose possible, le trait relève du Lien ; sinon, il appartient à un Ancrage. La provenance est fixée avec le trait et peut changer si la fiction le transforme.
 
-Les Mises tirées de ces mots-clés sont des **Mises du Lien** ou des **Mises acquises**. Des dés de deux couleurs aident à les distinguer.
+Les Mises tirées de ces traits sont des **Mises du Lien** ou des **Mises d'Ancrage**. Des dés de deux couleurs aident à les distinguer.
 
-- Les **Mises acquises** utilisent le prisme **Devenir**. Elles appartiennent à l'Agent, mais n'ont pas la certitude du Lien.
+- Les **Mises d'Ancrage** utilisent le prisme **Devenir**. Elles appartiennent à l'Agent, mais n'ont pas la certitude du Lien.
 - À travers les **Mises du Lien**, c'est la Puissance qui agit. Tant que le camp adverse n'engage pas lui-même de Mises du Lien, elles utilisent le prisme **Puissance** : chacune produit directement 1 Réussite.
 
 Le Lien est donc le choix sûr tant qu'aucune autre Puissance ne devient présente en face. Il ne garantit pas la victoire : le Devenir peut exceptionnellement produire davantage de Réussites que de Mises.
@@ -184,17 +210,17 @@ Le Lien est donc le choix sûr tant qu'aucune autre Puissance ne devient présen
 
 Les Réussites des Mises du Lien s'interprètent selon la nature de la Puissance, pas selon celle de l'Agent : ce qui est obtenu l'est comme la Puissance l'obtiendrait. L'Agent d'un Séraphin du Feu qui s'impose par le Lien brûle quelque chose, qu'il le veuille ou non. Le MJ décrit cette manière, ou la table si elle joue de façon plus collaborative ; c'est l'une des façons de faire entendre la Puissance dans la scène.
 
-Faire appel au Lien reste un choix du joueur, mais il se fait dans la fiction : le joueur décide comment son Agent agit, et la table en tire les Mises. Un Agent peut donc agir sans laisser passer sa Puissance, même lorsqu'un mot-clé du Lien serait pertinent.
+Faire appel au Lien reste un choix du joueur, mais il se fait dans la fiction : le joueur décide comment son Agent agit, et la table en tire les Mises. Un Agent peut donc agir sans laisser passer sa Puissance, même lorsqu'un trait du Lien serait pertinent.
 
 Ce choix se fait en connaissance de cause. Avant le jet, le MJ signale les conséquences importantes que la manière de la Puissance rend prévisibles, ou rappelle au moins que, si l'Agent l'emporte, la Puissance portera une part du résultat.
 
-Le tiraillement de l'Agent naît de ce choix, sans jauge ni morale. Le Lien est fiable, mais il n'est pas à lui. Ce qui est acquis est incertain, mais lui appartient.
+Le tiraillement de l'Agent naît de ce choix, sans jauge ni morale. Le Lien est fiable, mais il n'est pas à lui. Ce qui l'ancre dans le monde est incertain, mais lui appartient.
 
 #### Face à un autre Agent
 
 Deux Puissances ne s'affrontent jamais directement. Lorsque les Mises du Lien d'un Agent rencontrent celles d'un autre Agent, elles perdent leur certitude.
 
-**Si le camp adverse engage des Mises du Lien, toutes les Mises du Lien des deux camps sont lancées au prisme Neutre.** Les Mises acquises gardent le prisme Devenir.
+**Si le camp adverse engage des Mises du Lien, toutes les Mises du Lien des deux camps sont lancées au prisme Neutre.** Les Mises d'Ancrage gardent le prisme Devenir.
 
 Les Mises du Lien se déclarent. Lorsqu'un camp en engage, l'autre peut répondre par les siennes, puis on résout. Une Mise du Lien engagée en réponse obéit aux mêmes exigences que toute autre : elle doit compter réellement pour le Focus, à ce Zoom. Être un Agent ne suffit pas à ôter sa certitude à l'autre.
 
@@ -206,9 +232,9 @@ Un affrontement entre Agents se décide donc au moins autant par ce qu'ils sont 
 
 :::note[Exemple — le Divin]
 
-Un Ange protège un témoin face à une foule manipulée. Il engage *Ailes de lumière* et *Voix de l'Archange* (Lien), ainsi que *Ancien infirmier de guerre* (acquis). Face à la foule, ses deux Mises du Lien produisent directement 2 Réussites ; il lance un dé de Devenir pour la troisième. Si la foule recule, c'est la lumière de l'Archange qui l'a repoussée : les témoins en parleront, et certains garderont les yeux brûlés.
+Un Ange protège un témoin face à une foule manipulée. Il engage *Ailes de lumière* et *Voix de l'Archange* (Lien), ainsi que *Tient bon sous le feu*, un trait de son Ancrage *Ancien infirmier de guerre*. Face à la foule, ses deux Mises du Lien produisent directement 2 Réussites ; il lance un dé de Devenir pour la troisième. Si la foule recule, c'est la lumière de l'Archange qui l'a repoussée : les témoins en parleront, et certains garderont les yeux brûlés.
 
-Plus tard, un Démon s'interpose et engage lui aussi des Mises du Lien. Cette fois, les Mises du Lien des deux Agents sont lancées au prisme Neutre ; seules leurs Mises acquises gardent l'élan du 6.
+Plus tard, un Démon s'interpose et engage lui aussi des Mises du Lien. Cette fois, les Mises du Lien des deux Agents sont lancées au prisme Neutre ; seules leurs Mises d'Ancrage gardent l'élan du 6.
 
 :::
 
@@ -256,7 +282,7 @@ Le résultat ne remplace pas la fiction : il permet à la table de décider dans
 
 Le portrait d'un Agent évolue avec ce qui lui arrive.
 
-Une conséquence durable peut **ajouter, modifier ou supprimer un mot-clé**. L'Agent peut acquérir un nouveau don, perdre une capacité, transformer un lien, porter une blessure, changer de statut ou devenir autre chose.
+Une conséquence durable peut **ajouter, modifier ou supprimer un trait**, voire un Ancrage. L'Agent peut acquérir un nouveau don, perdre une capacité, transformer une relation, porter une blessure, changer de statut ou devenir autre chose.
 
 Ces changements modifient directement ce qui sera possible pour lui et ce qui pourra devenir une Mise dans les situations futures.
 
@@ -286,23 +312,23 @@ Cette transformation de l'Agent constitue sa récompense. Selon l'Horizon et la 
 
 Cette récompense n'est pas automatiquement exclusive ni définitive. Ce qui compte est que l'acte de l'Agent ait changé à la fois ce que la Puissance peut devenir et ce qui peut désormais passer par leur Lien.
 
-### D'acquis à Lien
+### De l'Ancrage au Lien
 
-L'une des formes les plus fortes de cette récompense touche la provenance même des mots-clés.
+L'une des formes les plus fortes de cette récompense touche la provenance même des traits.
 
-Lorsque ce qu'un Agent apporte à sa Puissance correspondait à l'un de ses mots-clés acquis, ce mot-clé peut **devenir un mot-clé du Lien**. Ce qui lui appartenait en propre, avec l'incertitude de ce qui est acquis, est désormais reconnu par la Puissance et passe par elle avec sa certitude.
+Lorsque ce qu'un Agent apporte à sa Puissance correspondait à l'un des traits de ses Ancrages, ce trait peut **passer au Lien**. Il se range sous l'Attribut qu'il prolonge, ou sous l'Attribut nouveau que l'extension fait apparaître. Ce qui lui appartenait en propre, avec l'incertitude du Devenir, est désormais reconnu par la Puissance et passe par elle avec sa certitude. L'Ancrage, lui, reste dans le monde : c'est le trait qui passe.
 
-Cette reconnaissance ne concerne pas nécessairement lui seul. Ce qui appartient désormais au domaine de la Puissance peut souvent passer par l'ensemble de ses Agents : selon l'Horizon et la Puissance, d'autres Agents peuvent recevoir ce mot-clé du Lien. Un seul Agent peut ainsi changer ce que sont tous les autres.
+Cette reconnaissance ne concerne pas nécessairement lui seul. Ce qui appartient désormais au domaine de la Puissance peut souvent passer par l'ensemble de ses Agents : selon l'Horizon et la Puissance, d'autres Agents peuvent recevoir ce trait du Lien. Un seul Agent peut ainsi changer ce que sont tous les autres.
 
-La contrepartie reste celle du Lien : ce qui réussit désormais par ce mot-clé, c'est la Puissance qui le réussit.
+La contrepartie reste celle du Lien : ce qui réussit désormais par ce trait, c'est la Puissance qui le réussit.
 
-C'est souvent lors d'un [moment de Présence](#la-présence) que la Puissance demande à l'Agent de lui céder ce qu'il a acquis.
+C'est souvent lors d'un [moment de Présence](#la-présence) que la Puissance demande à l'Agent de lui céder un trait.
 
 :::note[Exemple — le Divin]
 
-L'Ange de l'exemple précédent a appris à soigner les blessés sur les champs de bataille : *Ancien infirmier de guerre* est un mot-clé acquis. Il parvient à faire reconnaître le soin des corps comme appartenant au domaine de son Archange, qui ne connaissait jusque-là que la protection et le jugement.
+L'Ange de l'exemple précédent a appris à soigner les blessés sur les champs de bataille : son Ancrage *Ancien infirmier de guerre* porte le trait *Soigne les blessés*. Il parvient à faire reconnaître le soin des corps comme appartenant au domaine de son Archange, qui ne connaissait jusque-là que la protection et le jugement.
 
-Son mot-clé devient un mot-clé du Lien, *Mains de l'Archange*. Désormais, ses soins réussissent avec la certitude de la Puissance — mais c'est la lumière de l'Archange qui referme les plaies. Et d'autres Anges de cet Archange commencent à guérir, eux aussi.
+Le trait passe au Lien et devient *Mains de l'Archange*. Désormais, ses soins réussissent avec la certitude de la Puissance — mais c'est la lumière de l'Archange qui referme les plaies. Et d'autres Anges de cet Archange commencent à guérir, eux aussi. L'Ancrage demeure : il reste un ancien infirmier de guerre, et ce qu'il a appris d'autre au front lui appartient toujours.
 
 :::
 
@@ -324,7 +350,7 @@ Un moment de Présence peut se jouer régulièrement : en fin de partie, pendant
 
 ### Face à face
 
-D'un côté, la Puissance et **tous ses Attributs**. De l'autre, l'Agent, avec **ses mots-clés du Lien et ses mots-clés acquis**.
+D'un côté, la Puissance et **tous ses Attributs**. De l'autre, l'Agent, avec **son Lien et ses Ancrages**, et tous leurs traits.
 
 Il n'y a ni dés ni Mises. Le MJ fait entendre la Puissance, le joueur répond pour son Agent. Ce qui se joue, c'est ce que la Puissance voit en lui, et ce que chacun accepte de donner.
 
@@ -334,27 +360,27 @@ Trois cas peuvent se présenter.
 
 Rien de ce que l'Agent est devenu ne concerne sa Puissance. Elle réagit selon sa nature : « Pourquoi me déranges-tu ? », ou au contraire un réconfort.
 
-La scène ne reste pas creuse pour autant : la Puissance confie à l'Agent **une mission, un nouveau mot-clé du Lien ou une contrainte**, quelque chose qui le fait avancer. Ce qu'elle lui confie peut devenir le point de départ de la [Situation](situations.md) suivante.
+La scène ne reste pas creuse pour autant : la Puissance confie à l'Agent **une mission, un nouveau trait du Lien ou une contrainte**, quelque chose qui le fait avancer. Ce qu'elle lui confie peut devenir le point de départ de la [Situation](situations.md) suivante.
 
-### Un acquis qui intéresse la Puissance
+### Un trait qui intéresse la Puissance
 
-L'un des mots-clés acquis de l'Agent apporte quelque chose que sa Puissance ne contient pas encore. La Puissance **lui demande de le lui céder**.
+L'un des traits d'Ancrage de l'Agent apporte quelque chose que sa Puissance ne contient pas encore. La Puissance **lui demande de le lui céder**.
 
 Le joueur choisit.
 
-- S'il cède, le mot-clé devient un mot-clé du Lien et la Puissance s'[étend](#étendre-une-puissance). L'Agent gagne la certitude du Lien, mais perd le contrôle de ce qui lui appartenait : désormais, c'est la Puissance qui le réussit.
-- S'il refuse, il garde son acquis. Mais la relation en porte la trace : une conséquence, immédiate ou différée, que le MJ note ou révèle.
+- S'il cède, le trait passe au Lien et la Puissance s'[étend](#étendre-une-puissance). L'Agent gagne la certitude du Lien, mais perd le contrôle de ce qui lui appartenait : désormais, c'est la Puissance qui le réussit.
+- S'il refuse, il garde son trait. Mais la relation en porte la trace : une conséquence, immédiate ou différée, que le MJ note ou révèle.
 
-### Un acquis en contradiction
+### Un trait en contradiction
 
-L'un des mots-clés acquis de l'Agent contredit un Attribut de sa Puissance. Si plusieurs sont dans ce cas, le MJ en choisit un.
+L'un des traits d'Ancrage de l'Agent contredit un Attribut de sa Puissance. Si plusieurs sont dans ce cas, le MJ en choisit un.
 
-La Puissance questionne l'Agent. Le joueur peut mentir pour cacher cet acquis. Le mensonge peut tenir, mais il peut aussi revenir plus tard, plus lourd.
+La Puissance questionne l'Agent. Le joueur peut mentir pour cacher ce trait. Le mensonge peut tenir, mais il peut aussi revenir plus tard, plus lourd.
 
 Si la contradiction est révélée, l'Agent a trois voies :
 
-- **abandonner** son acquis, de son plein gré ;
-- **le garder** : la Puissance peut l'y autoriser, mais lui retire un mot-clé du Lien ;
+- **abandonner** ce trait, de son plein gré ;
+- **le garder** : la Puissance peut l'y autoriser, mais lui retire un trait du Lien ;
 - **demander à la Puissance de changer**.
 
 ### Transformer un Attribut
@@ -363,7 +389,7 @@ L'Agent plaide sa cause face à sa Puissance.
 
 La Puissance a toute légitimité pour refuser d'évoluer : elle est déjà ce qu'elle est. Mais si **le monde porte déjà** ce que l'Agent a acquis, c'est un argument de poids. La Puissance peut refuser de changer ; le monde, lui, a déjà changé.
 
-Le monde porte une nouveauté lorsque le [Vecteur](situations.md#vecteur) de sa Situation s'est réalisé, ou lorsqu'une Force humaine l'a instituée : ce n'est plus seulement l'expérience d'un Agent, c'est un fait du monde. Le même repère vaut pour [perdre tous ses Liens](#perdre-tous-ses-liens).
+Le monde porte une nouveauté lorsque le [Vecteur](situations.md#vecteur) de sa Situation s'est réalisé, ou lorsqu'une Force humaine l'a instituée : ce n'est plus seulement l'expérience d'un Agent, c'est un fait du monde. Le même repère vaut pour [perdre son Lien](#perdre-son-lien).
 
 La transformation réussit si le joueur trouve **comment la Puissance peut changer sans se renier** :
 
@@ -372,13 +398,13 @@ La transformation réussit si le joueur trouve **comment la Puissance peut chang
 
 Ce n'est pas un concours d'éloquence mais une énigme, et toute la table peut aider à la résoudre. Ce sont souvent les moments les plus forts d'une campagne.
 
-Si la transformation réussit, l'Attribut est réécrit, et ce changement touche tous les Agents de la Puissance. L'acquis de l'Agent peut alors devenir un mot-clé du Lien, comme lors d'une extension.
+Si la transformation réussit, l'Attribut est réécrit, et ce changement touche tous les Agents de la Puissance. Le trait de l'Agent peut alors passer au Lien, comme lors d'une extension.
 
-Sinon, la demande se solde le plus souvent par la perte d'un mot-clé du Lien.
+Sinon, la demande se solde le plus souvent par la perte d'un trait du Lien.
 
 :::note[Exemple — la Mort]
 
-Un vampire a vieilli aux côtés d'une humaine qu'il aimait, sans vieillir lui-même. Elle est morte, et elle est passée. Lui ne peut pas la suivre : le soleil peut le détruire, mais un vampire détruit ne passe pas chez les morts. D'autres ont déjà choisi le soleil, et aucun n'a retrouvé ceux qu'il aimait. Son acquis, *A aimé une mortelle jusqu'à sa mort*, contredit l'un des Attributs du Premier-Sang : *Ne meurt pas, ne vit pas*. Il veut pouvoir mourir vraiment, et la rejoindre.
+Un vampire a vieilli aux côtés d'une humaine qu'il aimait, sans vieillir lui-même. Elle est morte, et elle est passée. Lui ne peut pas la suivre : le soleil peut le détruire, mais un vampire détruit ne passe pas chez les morts. D'autres ont déjà choisi le soleil, et aucun n'a retrouvé ceux qu'il aimait. Un trait de ses Ancrages, *A aimé une mortelle jusqu'à sa mort*, contredit l'un des Attributs du Premier-Sang : *Ne meurt pas, ne vit pas*. Il veut pouvoir mourir vraiment, et la rejoindre.
 
 Refuser la mort, c'est tout le Premier-Sang : chaque enfant qui s'en va affaiblit la lignée, et il la défend à tout prix. La table cherche longtemps. Le compromis vient d'une humaine qui sait ce qu'il est : elle choisit librement de devenir vampire à sa place. Le Premier-Sang ne perd rien, puisque la lignée garde un enfant, et cette fois un enfant qui l'a voulu. Le vampire, lui, peut enfin mourir et passer.
 
@@ -386,13 +412,17 @@ L'Attribut devient *La lignée ne meurt pas, elle se transmet*. Les trois autres
 
 :::
 
-### Perdre tous ses Liens
+### Perdre son Lien
 
-Un Lien ne se coupe pas d'un coup. Les mots-clés du Lien ne se perdent que lors de moments de Présence, un à un. Un Agent peut subir cette perte, ou la choisir : rompre, Présence après Présence.
+Un Lien se perd de deux façons.
 
-Lorsqu'il perd son dernier mot-clé du Lien, il cesse d'être un Agent. Chez Diotime, le daimôn se tient entre le dieu et le mortel ; l'Agent peut quitter cet entre-deux par l'un ou l'autre bout.
+**Peu à peu.** Les traits du Lien se perdent lors de moments de Présence, un à un. Un Agent peut subir cette perte, ou la choisir : rompre, Présence après Présence.
 
-**Redevenir humain.** Si le monde ne porte pas encore ce qu'il est devenu, l'Agent redevient humain. Il retrouve la condition humaine, avec ce qu'elle signifie pour lui : un vampire, déjà mort, meurt enfin. S'il y survit, il garde ses mots-clés acquis : ce qu'il sait, ceux qu'il connaît, ce qu'il a vécu. Le joueur peut continuer à le jouer : un humain à part, qui en sait beaucoup, qui a sans doute des alliés parmi les Agents, et qui peut organiser des humains contre les forces des Puissances. Seul face à un Agent, il subit la certitude du Lien ; mais si un Agent allié engage à ses côtés des Mises du Lien, celles de l'adversaire perdent leur certitude (voir [Face à un autre Agent](#face-à-un-autre-agent)).
+**D'un coup.** Le Lien lui-même peut devenir l'enjeu d'une Situation : on abat l'arbre, on brise le serment, on efface le nom. S'il est perdu, tous ses traits tombent avec lui. Ces traits disent souvent ce que coûte cette perte : un Sylvain qui *meurt si le chêne meurt* ne survit pas à son arbre.
+
+Lorsqu'il perd son dernier trait du Lien, ou le Lien lui-même, il cesse d'être un Agent. Chez Diotime, le daimôn se tient entre le dieu et le mortel ; l'Agent peut quitter cet entre-deux par l'un ou l'autre bout.
+
+**Redevenir humain.** Si le monde ne porte pas encore ce qu'il est devenu, l'Agent redevient humain. Il retrouve la condition humaine, avec ce qu'elle signifie pour lui : un vampire, déjà mort, meurt enfin. S'il y survit, il garde ses Ancrages : ce qu'il sait, ceux qu'il connaît, ce qu'il a vécu. Le joueur peut continuer à le jouer : un humain à part, qui en sait beaucoup, qui a sans doute des alliés parmi les Agents, et qui peut organiser des humains contre les forces des Puissances. Seul face à un Agent, il subit la certitude du Lien ; mais si un Agent allié engage à ses côtés des Mises du Lien, celles de l'adversaire perdent leur certitude (voir [Face à un autre Agent](#face-à-un-autre-agent)).
 
 **Devenir une Puissance.** Si le monde porte déjà ce qu'il est devenu, et si le joueur en accepte le fardeau, l'Agent devient lui-même une Puissance. Une nouvelle Puissance apparaît sur l'Horizon, née de la campagne ; la table écrit ses Attributs à partir de ce que l'Agent était devenu. C'est un fardeau, car une Puissance ne devient plus : elle est déjà ce qu'elle est. Le joueur peut ensuite jouer un Agent de cette nouvelle Puissance, et porter sa voix lors des moments de Présence.
 
@@ -400,6 +430,6 @@ Lorsqu'il perd son dernier mot-clé du Lien, il cesse d'être un Agent. Chez Dio
 
 Le **6** appartient au **Devenir**.
 
-Il n'a d'effet propre que sur les dés lancés au prisme Devenir : ceux des êtres qui relèvent de ce prisme et les Mises acquises des Agents. Pour la matière et pour les Mises du Lien lancées au prisme Neutre, un 6 n'est qu'une Réussite ordinaire.
+Il n'a d'effet propre que sur les dés lancés au prisme Devenir : ceux des êtres qui relèvent de ce prisme et les Mises d'Ancrage des Agents. Pour la matière et pour les Mises du Lien lancées au prisme Neutre, un 6 n'est qu'une Réussite ordinaire.
 
 Le 6 n'est pas l'endroit où la Puissance se manifeste : ce qui passe de la Puissance dans le monde passe par ses Agents, et en particulier par leurs Mises du Lien.

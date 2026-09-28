@@ -68,13 +68,15 @@ Ce qui reste des morts chez les vivants : les ancêtres, les lares du foyer, les
 
 ## Familles d'Agents
 
-Chaque famille est une manière d'occuper le seuil. Les mots-clés proposés sont des mots-clés **du Lien** : ce qui vient de la Puissance. Ce que l'Agent a acquis au contact du monde lui appartient et reste à écrire.
+Chaque famille est une manière d'occuper le seuil. Les traits proposés sont des traits **du Lien** : chacun vient de la relation elle-même ou de l'Attribut indiqué. Les Ancrages de l'Agent lui appartiennent et restent à écrire.
 
 ### Passeurs — le Passage
 
 Psychopompes, veilleurs, ceux qui accompagnent. Le Lien est un office.
 
-*Voit l'heure de chacun* · *Franchit le seuil* · *Les mourants l'entendent*
+- *Voit l'heure de chacun*, de *Chacun passe une fois* ;
+- *Franchit le seuil*, de l'office lui-même ;
+- *Les mourants l'entendent*, de *Nul ne passe seul*.
 
 **Ce que la figure permet de penser :** le moment même de mourir, et ce qu'accompagner veut dire.
 
@@ -82,7 +84,9 @@ Psychopompes, veilleurs, ceux qui accompagnent. Le Lien est un office.
 
 Descendants d'une lignée. Le Lien est une filiation par le sang.
 
-*Ne vieillit pas* · *Se nourrit de sang* · *Brûle au soleil*
+- *Ne vieillit pas*, de *Ne meurt pas, ne vit pas* ;
+- *Se nourrit de sang*, de *Se nourrit des vivants* ;
+- *Brûle au soleil*, de *Craint ce qui recommence*.
 
 **Ce que la figure permet de penser :** une existence qui ne finit pas ; le désir qui dure ; ce que l'on doit à ceux dont on vit.
 
@@ -90,7 +94,9 @@ Descendants d'une lignée. Le Lien est une filiation par le sang.
 
 Des morts qui ne sont pas partis. Le Lien est une attache : une dette, une promesse, un nom qu'on n'a pas oublié.
 
-*Ne peut quitter le lieu de sa mort* · *Apparaît à ceux qui pensent à lui* · *Se souvient de tout*
+- *Ne peut quitter le lieu de sa mort*, de l'attache elle-même ;
+- *Apparaît à ceux qui pensent à lui*, de *Vit de ce que les vivants gardent* ;
+- *Se souvient de tout*, de *Rien de ce qui est nommé ne disparaît tout à fait*.
 
 **Ce que la figure permet de penser :** ce que les vivants et les morts se doivent ; le deuil qui ne se fait pas.
 
@@ -98,7 +104,9 @@ Des morts qui ne sont pas partis. Le Lien est une attache : une dette, une prome
 
 Témoins, greffiers et juges des morts. Le Lien est un serment.
 
-*Voit le poids d'une vie* · *Ne peut mentir* · *Entend les aveux des morts*
+- *Voit le poids d'une vie*, de *Toute vie a un poids* ;
+- *Ne peut mentir*, du serment lui-même ;
+- *Entend les aveux des morts*, de *Ne juge que les morts*.
 
 **Ce que la figure permet de penser :** ce que vaut une vie, et qui a le droit d'en décider.
 
@@ -120,12 +128,13 @@ Chacune de ces nouveautés peut être voulue, crainte ou revendiquée par plusie
 
 Maïa est un Agent du **Passage**.
 
-- **Mots-clés du Lien :** *Voit l'heure de chacun*, *Franchit le seuil*.
-- **Mots-clés acquis :** *Infirmière de nuit en soins palliatifs*, *A perdu sa sœur jeune*, *Chante pour les mourants*.
+- **Lien :** un office. Traits : *Voit l'heure de chacun*, *Franchit le seuil*.
+- **Ancrage** *Infirmière de nuit en soins palliatifs* : *Chante pour les mourants*, *Reste quand les familles sont parties*.
+- **Ancrage** *A perdu sa sœur jeune* : aucun trait écrit pour l'instant.
 
 Sa joueuse s'est demandé ce que cette figure lui permettait de penser. Sa réponse, qu'elle n'a pas dite à la table : *ce qu'on fait quand il n'y a plus rien à faire*.
 
-Le Passage ne retient personne et ne connaît pas le soin : il fait passer. Si Maïa parvient à faire reconnaître l'accompagnement des mourants comme appartenant au Passage, *Infirmière de nuit en soins palliatifs* peut devenir un mot-clé du Lien. Désormais, c'est le Passage qui accompagne quand elle accompagne — et d'autres passeurs apprendront à rester.
+Le Passage ne retient personne et ne connaît pas le soin : il fait passer. Si Maïa parvient à faire reconnaître l'accompagnement des mourants comme appartenant au Passage, *Reste quand les familles sont parties* peut passer au Lien. Elle restera infirmière ; mais désormais, c'est le Passage qui accompagne quand elle accompagne — et d'autres passeurs apprendront à rester.
 
 :::
 

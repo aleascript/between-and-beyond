@@ -37,8 +37,8 @@ Le jeu appelle **Devenir** la part d'un être ou du monde qui n'est pas entière
 Chaque Agent répond à quatre questions :
 
 1. **Quel horizon te dépasse ?** — l'Horizon, et la Puissance qui lui donne forme pour toi.
-2. **Comment cela passe-t-il par toi ?** — le Lien.
-3. **Qu'es-tu devenu au contact du monde ?** — le Devenir.
+2. **Comment cela passe-t-il par toi ?** — le Lien, et ses traits.
+3. **Qu'es-tu devenu au contact du monde ?** — tes Ancrages.
 4. **Qu'est-ce qui peut apparaître dans le monde que ta Puissance ne contient pas encore ?**
 
 ## Sommaire

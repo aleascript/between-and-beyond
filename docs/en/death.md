@@ -68,13 +68,15 @@ What remains of the dead among the living: ancestors, household spirits, ghosts,
 
 ## Families of Agents
 
-Each family is a way of occupying the threshold. The suggested keywords are **Bond** keywords: what comes from the Power. What the Agent has acquired through contact with the world belongs to them and remains to be written.
+Each family is a way of occupying the threshold. The suggested traits are **Bond** traits: each comes from the relationship itself or from the Attribute shown. The Agent's Anchors belong to them and remain to be written.
 
 ### Guides — the Passage
 
 Psychopomps, watchers, those who accompany. The Bond is an office.
 
-*Sees everyone's hour* · *Crosses the threshold* · *The dying hear them*
+- *Sees everyone's hour*, from *Everyone passes once*;
+- *Crosses the threshold*, from the office itself;
+- *The dying hear them*, from *No one passes alone*.
 
 **What the figure lets us think:** the very moment of dying, and what it means to accompany someone.
 
@@ -82,7 +84,9 @@ Psychopomps, watchers, those who accompany. The Bond is an office.
 
 Descendants of a lineage. The Bond is kinship through blood.
 
-*Does not age* · *Feeds on blood* · *Burns in sunlight*
+- *Does not age*, from *Neither dies nor lives*;
+- *Feeds on blood*, from *Feeds on the living*;
+- *Burns in sunlight*, from *Fears what begins again*.
 
 **What the figure lets us think:** an existence that does not end; desire that lasts; what we owe to those we live on.
 
@@ -90,7 +94,9 @@ Descendants of a lineage. The Bond is kinship through blood.
 
 Dead who have not left. The Bond is an attachment: a debt, a promise, a name that has not been forgotten.
 
-*Cannot leave the place of their death* · *Appears to those who think of them* · *Remembers everything*
+- *Cannot leave the place of their death*, from the attachment itself;
+- *Appears to those who think of them*, from *Lives on what the living keep*;
+- *Remembers everything*, from *Nothing that is named disappears entirely*.
 
 **What the figure lets us think:** what the living and the dead owe one another; grief that does not resolve.
 
@@ -98,7 +104,9 @@ Dead who have not left. The Bond is an attachment: a debt, a promise, a name tha
 
 Witnesses, clerks, and judges of the dead. The Bond is an oath.
 
-*Sees the weight of a life* · *Cannot lie* · *Hears the confessions of the dead*
+- *Sees the weight of a life*, from *Every life has a weight*;
+- *Cannot lie*, from the oath itself;
+- *Hears the confessions of the dead*, from *Judges only the dead*.
 
 **What the figure lets us think:** what a life is worth, and who has the right to decide.
 
@@ -120,12 +128,13 @@ Each of these novelties may be wanted, feared, or claimed by several Powers at o
 
 Maïa is an Agent of **the Passage**.
 
-- **Bond keywords:** *Sees everyone's hour*, *Crosses the threshold*.
-- **Acquired keywords:** *Palliative care night nurse*, *Lost her sister young*, *Sings to the dying*.
+- **Bond:** an office. Traits: *Sees everyone's hour*, *Crosses the threshold*.
+- **Anchor** *Palliative care night nurse*: *Sings to the dying*, *Stays once the families have gone*.
+- **Anchor** *Lost her sister young*: no trait written yet.
 
 Her player asked herself what this figure let her think. Her answer, which she did not say at the table: *what you do when there is nothing left to do*.
 
-The Passage holds no one back and knows nothing of care: it carries across. If Maïa manages to have the accompaniment of the dying recognized as belonging to the Passage, *Palliative care night nurse* may become a Bond keyword. From then on, it is the Passage that accompanies when she accompanies — and other guides will learn to stay.
+The Passage holds no one back and knows nothing of care: it carries across. If Maïa manages to have the accompaniment of the dying recognized as belonging to the Passage, *Stays once the families have gone* may pass into the Bond. She will still be a nurse; but from then on, it is the Passage that accompanies when she accompanies — and other guides will learn to stay.
 
 :::
 

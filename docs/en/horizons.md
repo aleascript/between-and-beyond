@@ -48,7 +48,7 @@ No one needs to answer out loud. But the answer often says what the player will 
 
 Most humans know nothing of Agents. Not all: some know they exist, know some of them, have crossed paths with them, owe them something, or fear them. Such knowledge is never harmless. It makes them allies, witnesses, prey, or Forces the Agents must reckon with.
 
-The game is not made for playing an ordinary human who has been initiated. A player can still start that way, if their character becomes an Agent very early, as soon as the first session. And an Agent who [becomes human again](core-rules.md#losing-all-ones-bonds) remains one of those who know.
+The game is not made for playing an ordinary human who has been initiated. A player can still start that way, if their character becomes an Agent very early, as soon as the first session. And an Agent who [becomes human again](core-rules.md#losing-ones-bond) remains one of those who know.
 
 ## Combining
 

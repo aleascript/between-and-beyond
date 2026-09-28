@@ -79,7 +79,7 @@ Preparing a session can therefore come down to choosing a novelty or a matter of
 
 Moments of Presence provide some too: the mission a Power gives an Agent is a ready-made starting point.
 
-Players can contribute too. Their Agents' portraits say what they have acquired in contact with the world, and a player may suggest a novelty their Agent has noticed: what they look at often says what the table will come looking for.
+Players can contribute too. Their Agents' Anchors say what they have acquired in contact with the world, and a player may suggest a novelty their Agent has noticed: what they look at often says what the table will come looking for.
 
 ## Letting the Powers be heard
 
