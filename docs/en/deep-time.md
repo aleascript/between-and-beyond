@@ -66,11 +66,15 @@ What lasts: stones, stars, what was here before and will be here after.
 
 ## Families of Agents
 
+The suggested traits are **Bond** traits: each comes from the relationship itself or from the Attribute shown. The Agent's Anchors belong to them and remain to be written.
+
 ### Oracles — Destiny
 
 Sibyls, seers, diviners. The Bond is a vision.
 
-*Sees what will be* · *Cannot not see* · *Never quite believed*
+- *Sees what will be*, from *Everything is already spun*;
+- *Cannot not see*, from the vision itself;
+- *Never quite believed*, from *Reveals itself in fragments*.
 
 **What the figure lets us think:** knowing without being able to change; what freedom remains when everything is written.
 
@@ -78,7 +82,9 @@ Sibyls, seers, diviners. The Bond is a vision.
 
 Adventurers, players, those whom luck favors as long as they dare. The Bond is a wager kept.
 
-*Senses the opportunity* · *Luck smiles on them* · *Cannot refuse a bet*
+- *Senses the opportunity*, from *Gives no warning*;
+- *Luck smiles on them*, from *Favors the bold*;
+- *Cannot refuse a bet*, from the wager itself.
 
 **What the figure lets us think:** the moment that does not come back; what one does with one's luck.
 
@@ -86,7 +92,9 @@ Adventurers, players, those whom luck favors as long as they dare. The Bond is a
 
 Those who return, life after life, and remember. The Bond is the wheel itself.
 
-*Remembers past lives* · *Always returns* · *Recognizes those they have known*
+- *Remembers past lives*, from *Nothing is lost*;
+- *Always returns*, from *Everything returns*;
+- *Recognizes those they have known*, from the wheel itself.
 
 **What the figure lets us think:** being several lives; what persists of oneself when everything changes.
 
@@ -94,7 +102,9 @@ Those who return, life after life, and remember. The Bond is the wheel itself.
 
 Those who do not die of old age and watch the centuries pass. The Bond is a duration received.
 
-*Does not age* · *Has seen everything* · *Outlives everyone they love*
+- *Does not age*, from the duration itself;
+- *Has seen everything*, from *Was here before, will be here after*;
+- *Outlives everyone they love*, from *Wears everything down*.
 
 **What the figure lets us think:** watching everything one loves die; memory without end; what a life that never ends is worth.
 
@@ -112,10 +122,11 @@ Those who do not die of old age and watch the centuries pass. The Bond is a dura
 
 :::note[Example — Cassandra, oracle of Destiny]
 
-- **Bond keywords:** *Sees what will be*, *Cannot not see*.
-- **Acquired keywords:** *Insurance actuary*, *Raising her son alone*.
+- **Bond:** a vision. Traits: *Sees what will be*, *Cannot not see*.
+- **Anchor** *Insurance actuary*: *Speaks in probabilities*, *Can put a figure on a risk*.
+- **Anchor** *Raising her son alone*: no trait written yet.
 
-Destiny *reveals itself in fragments*, and Cassandra has never been able to say *when*. At work, she has learned to speak in probabilities. If she gets probability recognized as belonging to Destiny, oracles will be able to say *how likely* — and Destiny will stop being entirely certain.
+Destiny *reveals itself in fragments*, and Cassandra has never been able to say *when*. At work, she has learned to speak in probabilities. If she gets probability recognized as belonging to Destiny, *Speaks in probabilities* will pass into the Bond: oracles will be able to say *how likely* — and Destiny will stop being entirely certain.
 
 :::
 

@@ -17,11 +17,13 @@ Read [docs/fr/purpose.md](docs/fr/purpose.md), [docs/fr/core-rules.md](docs/fr/c
 | Horizon | Horizon | What exceeds us (Death, the Divine, Dreams…). A point of view, never a place or a character. The unit of play. |
 | Puissance | Power | One form an Horizon has taken across ages and cultures, described by a few **Attributs / Attributes**. |
 | Agent | Agent | What a Power becomes present through. Played by the players. |
-| Lien | Bond | What passes from the Power through the Agent. Bond keywords are certain but belong to the Power. |
-| Devenir | Becoming | What is not determined by what already is. Acquired keywords are uncertain but belong to the Agent. |
+| Lien | Bond | The relationship through which the Power passes into the Agent (kinship, office, oath, a tree…). One per Power. Bond traits come from the relationship itself or from an Attribute; they are certain but belong to the Power. |
+| Ancrage | Anchor | What holds the Agent in the world (a trade, a relationship, a wound…). Humans have only Anchors. Anchor traits are uncertain but belong to the Agent; most stay implicit. |
+| trait | trait | What an Agent's portrait is made of, on either side. The Attribute says what the Power is; the Bond trait says how it shows in this Agent. |
+| Devenir | Becoming | What is not determined by what already is. The prism of Anchor traits. |
 | Mise | Bet | An element of the fiction that weighs on a resolution. |
 
-Two Powers never confront each other directly: their Agents do. An Agent can extend their Power by bringing it a novelty it did not contain; an acquired keyword can then become a Bond keyword.
+Two Powers never confront each other directly: their Agents do. An Agent can extend their Power by bringing it a novelty it did not contain; an Anchor trait can then pass into the Bond, under an existing or a new Attribute (the Anchor itself stays in the world).
 
 ## Design principles
 
@@ -32,7 +34,7 @@ Two Powers never confront each other directly: their Agents do. An Agent can ext
 
 ## Horizon pages
 
-Each Horizon page follows the same structure: epigraph, introduction, *Pourquoi des Agents* (the three questions), four Powers with four Attributes each, four Agent families (Bond type, three Bond keywords, "what the figure lets us think"), novelties (*Ce qui apparaît*), an example Agent whose acquired keyword can become a Bond keyword, situations along the directions of [docs/fr/situations.md](docs/fr/situations.md) (mediation, bring, contend for, transform one's own Power), tones and time. Distinguish a new Horizon from existing ones where they overlap.
+Each Horizon page follows the same structure: epigraph, introduction, *Pourquoi des Agents* (the three questions), four Powers with four Attributes each, four Agent families (the Bond, three Bond traits each tied to the Bond itself or to an Attribute, "what the figure lets us think"), novelties (*Ce qui apparaît*), an example Agent (Bond and its traits, Anchors with a few traits) whose Anchor trait can pass into the Bond, situations along the directions of [docs/fr/situations.md](docs/fr/situations.md) (mediation, bring, contend for, transform one's own Power), tones and time. Distinguish a new Horizon from existing ones where they overlap.
 
 Draw on public-domain myths, folklore, and texts. Do not borrow from copyrighted works.
 

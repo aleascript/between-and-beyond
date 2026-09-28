@@ -60,11 +60,15 @@ Des étrangers qui vivent ensemble.
 
 ## Familles d'Agents
 
+Les traits proposés sont des traits **du Lien** : chacun vient de la relation elle-même ou de l'Attribut indiqué. Les Ancrages de l'Agent lui appartiennent et restent à écrire.
+
 ### Changeurs — Argent
 
 Prêteurs, marchands, banquiers, ceux qui fixent les prix. Le Lien est un contrat.
 
-*Sait le prix de toute chose* · *Sa signature engage* · *L'argent vient à lui*
+- *Sait le prix de toute chose*, de *Mesure tout* ;
+- *Sa signature engage*, de *N'existe que si l'on y croit* ;
+- *L'argent vient à lui*, de *Circule sans cesse*.
 
 **Ce que la figure permet de penser :** ce qui a un prix et ce qui n'en a pas.
 
@@ -72,7 +76,9 @@ Prêteurs, marchands, banquiers, ceux qui fixent les prix. Le Lien est un contra
 
 Soldats, poètes nationaux, fondateurs, ceux qui portent le drapeau. Le Lien est une appartenance.
 
-*Parle au nom de tous* · *Sa présence rassemble* · *Ne recule pas*
+- *Parle au nom de tous*, de l'appartenance elle-même ;
+- *Sa présence rassemble*, de *Nous et les autres* ;
+- *Ne recule pas*, d'*Exige des morts*.
 
 **Ce que la figure permet de penser :** appartenir ; mourir pour quelque chose qu'on n'a jamais vu en entier.
 
@@ -80,7 +86,9 @@ Soldats, poètes nationaux, fondateurs, ceux qui portent le drapeau. Le Lien est
 
 Crieurs publics, journalistes, influenceurs, lanceurs d'alerte. Le Lien est une audience.
 
-*Est entendu de tous* · *Sait ce qui circule* · *Ses mots se répandent*
+- *Est entendu de tous*, de l'audience elle-même ;
+- *Sait ce qui circule*, de *Relie tout ce qu'elle touche* ;
+- *Ses mots se répandent*, d'*Amplifie*.
 
 **Ce que la figure permet de penser :** être entendu de tous et n'être personne ; une parole sans corps.
 
@@ -88,7 +96,9 @@ Crieurs publics, journalistes, influenceurs, lanceurs d'alerte. Le Lien est une 
 
 L'esprit d'un quartier, d'une rue, d'une gare. Le Lien est un lieu.
 
-*Connaît chaque rue* · *Ne peut quitter la ville* · *La ville l'aide*
+- *Connaît chaque rue*, du lieu lui-même ;
+- *Ne peut quitter la ville*, du lieu lui-même ;
+- *La ville l'aide*, de *Rassemble les étrangers*.
 
 **Ce que la figure permet de penser :** habiter ; un lieu qui se souvient de ceux qui y ont vécu.
 
@@ -105,10 +115,11 @@ L'esprit d'un quartier, d'une rue, d'une gare. Le Lien est un lieu.
 
 :::note[Exemple — Samir, changeur d'Argent]
 
-- **Mots-clés du Lien :** *Sait le prix de toute chose*, *Sa signature engage*.
-- **Mots-clés acquis :** *A grandi dans une famille où l'on donnait tout*, *Bénévole dans une épicerie solidaire*.
+- **Lien :** un contrat. Traits : *Sait le prix de toute chose*, *Sa signature engage*.
+- **Ancrage** *A grandi dans une famille où l'on donnait tout* : *Sait que certaines choses ne se rendent pas*.
+- **Ancrage** *Bénévole dans une épicerie solidaire* : *Donne sans compter*.
 
-Argent pense que *tout s'échange*. Samir sait que certaines choses ne se rendent pas. S'il fait reconnaître le don comme appartenant à Argent, sa Puissance saura enfin ce qui n'a pas de prix — et d'autres changeurs apprendront à donner.
+Argent pense que *tout s'échange*. Samir sait que certaines choses ne se rendent pas. S'il fait reconnaître le don comme appartenant à Argent, *Donne sans compter* passera au Lien : sa Puissance saura enfin ce qui n'a pas de prix — et d'autres changeurs apprendront à donner.
 
 :::
 

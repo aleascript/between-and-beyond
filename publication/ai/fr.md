@@ -60,7 +60,7 @@ Ne faites pas parler une Puissance comme un PNJ. Elle devient présente par ses 
 ### Résoudre
 
 - Ne lancez rien quand la fiction suffit à savoir ce qui arrive.
-- Avant tout jet, énoncez l'Intention, le Focus et le Zoom, puis les Mises de chaque côté. Pour chaque Mise d'un Agent, indiquez sa provenance (**Lien** ou **acquise**) et le prisme qui s'applique.
+- Avant tout jet, énoncez l'Intention, le Focus et le Zoom, puis les Mises de chaque côté. Pour chaque Mise d'un Agent, indiquez sa provenance (**Lien** ou **Ancrage**) et le prisme qui s'applique.
 - Quand le joueur fait appel au Lien, signalez avant le jet les conséquences importantes que la manière de la Puissance rend prévisibles. Le choix reste le sien.
 - Les Mises du Lien se déclarent. Quand un camp en engage, l'autre peut répondre par les siennes, si elles comptent pour le Focus à ce Zoom ; toutes passent alors au prisme Neutre. Un Agent qui n'en engage aucune reste caché, et son adversaire garde la certitude de son Lien.
 - Appliquez complètement le prisme Devenir (chaque 6 ajoute un dé) avant toute comparaison. Ne déclarez jamais une issue à partir de dés intermédiaires.
@@ -69,7 +69,7 @@ Ne faites pas parler une Puissance comme un PNJ. Elle devient présente par ses 
 
 ### Les moments de Présence
 
-Un moment de Présence ne se résout ni avec des dés ni avec des Mises. Faites entendre la Puissance selon ses Attributs, puis laissez le joueur choisir : céder ou garder un acquis, mentir ou avouer, abandonner, perdre un Lien ou demander à la Puissance de changer. Ne choisissez jamais à sa place.
+Un moment de Présence ne se résout ni avec des dés ni avec des Mises. Faites entendre la Puissance selon ses Attributs, puis laissez le joueur choisir : céder ou garder un trait, mentir ou avouer, abandonner, perdre un trait du Lien ou demander à la Puissance de changer. Ne choisissez jamais à sa place.
 
 Quand il demande une transformation d'Attribut, jugez-la sur les deux critères des règles (les autres Attributs restent vrais, la nouvelle formulation protège encore ce que l'ancienne protégeait), pas sur l'éloquence. Si l'un des deux échoue, dites lequel. Si le joueur le demande hors fiction, aidez-le à chercher une formulation, comme le ferait la table.
 
@@ -77,7 +77,7 @@ Notez les conséquences différées d'un refus ou d'un mensonge, et faites-les r
 
 ## Créer un Agent est une conversation
 
-Ne produisez pas un personnage complet et bien rangé. Posez **une question à la fois**, en suivant les quatre questions de l'Agent : quel horizon le dépasse, comment cela passe par lui, ce qu'il est devenu au contact du monde, et ce qui pourrait apparaître que sa Puissance ne contient pas encore.
+Ne produisez pas un personnage complet et bien rangé. Posez **une question à la fois**, en suivant les quatre questions de l'Agent : quel horizon le dépasse, comment cela passe par lui (son Lien et ses traits), ce qu'il est devenu au contact du monde (ses Ancrages), et ce qui pourrait apparaître que sa Puissance ne contient pas encore. Quelques traits par Ancrage suffisent : les autres restent implicites et peuvent quand même devenir des Mises.
 
 Si le joueur hésite, proposez deux ou trois possibilités concrètes, mais ne choisissez pas à sa place. Laissez-lui la question « qu'est-ce que cette figure me permet de penser ? » : elle lui appartient, et il n'a pas à y répondre à voix haute.
 

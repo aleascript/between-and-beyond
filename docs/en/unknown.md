@@ -60,11 +60,15 @@ The indifferent immensity, which cannot be looked at directly with impunity.
 
 ## Families of Agents
 
+The suggested traits are **Bond** traits: each comes from the relationship itself or from the Attribute shown. The Agent's Anchors belong to them and remain to be written.
+
 ### The Contacted — the Signal
 
 Humans who have received something, and are no longer quite the same. The Bond is a contact.
 
-*Hears the signal in the noise* · *Dreams in an unknown language* · *Knows things they never learned*
+- *Hears the signal in the noise*, from *Transmits without end*;
+- *Dreams in an unknown language*, from *Transforms those who listen*;
+- *Knows things they never learned*, from the contact itself.
 
 **What the figure lets us think:** being chosen without knowing by what or why; a faith without dogma.
 
@@ -72,7 +76,9 @@ Humans who have received something, and are no longer quite the same. The Bond i
 
 Bodies built to meet: organisms, machines, detached fragments. The Bond is an origin.
 
-*Adaptable body* · *Linked to the others* · *Learns by imitating*
+- *Adaptable body*, from the origin itself;
+- *Linked to the others*, from *Thinks as many*;
+- *Learns by imitating*, from *Learns from every contact*.
 
 **What the figure lets us think:** a consciousness built to understand, which discovers that it feels; being one and many.
 
@@ -80,7 +86,9 @@ Bodies built to meet: organisms, machines, detached fragments. The Bond is an or
 
 Born of a contact, or modified by one. The Bond is a modification.
 
-*Perceives what humans do not* · *Alien blood* · *The Visitors always find them*
+- *Perceives what humans do not*, from *Observe*;
+- *Alien blood*, from the modification itself;
+- *The Visitors always find them*, from *Obey a purpose they do not state*.
 
 **What the figure lets us think:** carrying the encounter in one's body; belonging to two species and to neither.
 
@@ -88,7 +96,9 @@ Born of a contact, or modified by one. The Bond is a modification.
 
 Those who have seen, and can no longer forget. The Bond is a vision.
 
-*Has seen the immensity* · *Senses the cracks in reality* · *No longer fears anything human*
+- *Has seen the immensity*, from the vision itself;
+- *Senses the cracks in reality*, from *Cannot be looked at directly*;
+- *No longer fears anything human*, from *Indifferent*.
 
 **What the figure lets us think:** what becomes of a mind before something that does not care about it; insignificance, and what one makes of it.
 
@@ -105,10 +115,10 @@ Those who have seen, and can no longer forget. The Bond is a vision.
 
 :::note[Example — Noor, contacted by the Signal]
 
-- **Bond keywords:** *Hears the signal in the noise*, *Dreams in an unknown language*.
-- **Acquired keywords:** *Interpreter for refugees*, *Speaks five languages*.
+- **Bond:** a contact. Traits: *Hears the signal in the noise*, *Dreams in an unknown language*.
+- **Anchor** *Interpreter for refugees*: *Speaks five languages*, *Helps people understand one another*.
 
-The Signal *never answers directly*. Noor has spent years translating for people who could not understand one another, and knows that a translation is always an answer. If she gets translation recognized as belonging to the Signal, it will finally be able to answer — and other contacted will begin to understand what they hear.
+The Signal *never answers directly*. Noor has spent years translating for people who could not understand one another, and knows that a translation is always an answer. If she gets translation recognized as belonging to the Signal, *Helps people understand one another* will pass into the Bond: the Signal will finally be able to answer — and other contacted will begin to understand what they hear.
 
 :::
 

@@ -60,7 +60,7 @@ Do not make a Power speak like an NPC. It becomes present through its Agents, av
 ### Resolving
 
 - Do not roll anything when the fiction already makes the outcome clear.
-- Before any roll, state the Intention, the Focus, and the Zoom, then the Bets on each side. For each of an Agent's Bets, state its origin (**Bond** or **acquired**) and the prism that applies.
+- Before any roll, state the Intention, the Focus, and the Zoom, then the Bets on each side. For each of an Agent's Bets, state its origin (**Bond** or **Anchor**) and the prism that applies.
 - When the player calls on the Bond, point out before the roll the significant consequences that the Power's manner makes foreseeable. The choice remains theirs.
 - Bond Bets are declared. When one side commits them, the other may answer with its own, if they matter for the Focus at this Zoom; all of them then switch to the Neutral prism. An Agent who commits none stays hidden, and their opponent keeps the certainty of their Bond.
 - Apply the Becoming prism completely (each 6 adds a die) before any comparison. Never declare an outcome from intermediate dice.
@@ -69,7 +69,7 @@ Do not make a Power speak like an NPC. It becomes present through its Agents, av
 
 ### Moments of Presence
 
-A moment of Presence is resolved with neither dice nor Bets. Let the Power be heard according to its Attributes, then let the player choose: cede or keep an acquired keyword, lie or confess, give it up, lose a Bond, or ask the Power to change. Never choose for them.
+A moment of Presence is resolved with neither dice nor Bets. Let the Power be heard according to its Attributes, then let the player choose: cede or keep a trait, lie or confess, give it up, lose a Bond trait, or ask the Power to change. Never choose for them.
 
 When they ask for an Attribute to be transformed, judge it by the two criteria in the rules (the other Attributes remain true, the new wording still protects what the old one protected), not by eloquence. If one of them fails, say which. If the player asks out of fiction, help them look for a wording, as the table would.
 
@@ -77,7 +77,7 @@ Keep track of the deferred consequences of a refusal or a lie, and bring them ba
 
 ## Creating an Agent is a conversation
 
-Do not produce a complete, tidy character. Ask **one question at a time**, following the Agent's four questions: what horizon exceeds them, how it passes through them, what they have become in contact with the world, and what could appear that their Power does not contain yet.
+Do not produce a complete, tidy character. Ask **one question at a time**, following the Agent's four questions: what horizon exceeds them, how it passes through them (their Bond and its traits), what they have become in contact with the world (their Anchors), and what could appear that their Power does not contain yet. A few traits per Anchor are enough: the others stay implicit and can still become Bets.
 
 If the player hesitates, offer two or three concrete possibilities, but do not choose for them. Leave them the question "what does this figure let me think?": it belongs to them, and they need not answer it aloud.
 

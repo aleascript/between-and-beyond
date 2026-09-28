@@ -62,11 +62,15 @@ Springs, rivers, lakes: the nymphs of fountains, the Lady of the Lake, Melusine 
 
 ## Families of Agents
 
+The suggested traits are **Bond** traits: each comes from the relationship itself or from the Attribute shown. The Agent's Anchors belong to them and remain to be written.
+
 ### Shapeshifters — the Beast
 
 Werewolves, selkies hiding their sealskin, the fox-women of Asian tales. The Bond is a skin.
 
-*Takes the shape of their beast* · *Smells fear* · *Speaks to beasts of their kind*
+- *Takes the shape of their beast*, from the skin itself;
+- *Smells fear*, from *Hunts or is hunted*;
+- *Speaks to beasts of their kind*, from *Follows instinct*.
 
 **What the figure lets us think:** the beast within us; belonging to two worlds through the body; what civilization holds back in us.
 
@@ -74,7 +78,9 @@ Werewolves, selkies hiding their sealskin, the fox-women of Asian tales. The Bon
 
 Dryads bound to their tree, green men, satyrs. The Bond is a tree, or a whole forest.
 
-*Bound to a tree* · *The forest hides them* · *Leads pursuers astray*
+- *Dies if their tree dies*, from the tree itself;
+- *The forest hides them*, from *Has no paths*;
+- *Leads pursuers astray*, from *Leads astray those who venture in*.
 
 **What the figure lets us think:** being unable to leave; a vegetal time; what the forest thinks of us.
 
@@ -82,7 +88,9 @@ Dryads bound to their tree, green men, satyrs. The Bond is a tree, or a whole fo
 
 Pixies, korrigans, brownies, sprites — and changelings, left in human cradles in place of a child. The Bond is a birth beneath the hill.
 
-*Charms with a word* · *Invisible to those who do not believe* · *Cold iron burns them*
+- *Charms with a word*, from *Keeps its word, to the letter*;
+- *Invisible to those who do not believe*, from the birth itself;
+- *Cold iron burns them*, from *Fears cold iron*.
 
 **What the figure lets us think:** hospitality and its rules; the given word; being a stranger at the heart of the familiar.
 
@@ -92,7 +100,9 @@ Raised among humans, changelings are the most torn Agents of this Horizon.
 
 Naiads, undines, nixies, the Lorelei, Melusine and her daughters. The Bond is a spring.
 
-*Breathes underwater* · *Their voice draws people in* · *Must return to the water*
+- *Breathes underwater*, from the spring itself;
+- *Their voice draws people in*, from *Keeps what falls into it*;
+- *Must return to the water*, from the spring itself.
 
 **What the figure lets us think:** love between two worlds, and the taboo that makes it possible; what one promises to someone who is not human.
 
@@ -110,10 +120,11 @@ Naiads, undines, nixies, the Lorelei, Melusine and her daughters. The Bond is a 
 
 :::note[Example — Ana, shapeshifter of the Beast]
 
-- **Bond keywords:** *Takes the shape of their beast*, *Smells fear*.
-- **Acquired keywords:** *Shepherd in the Alps, where the wolf has returned*, *Breeds herding dogs*.
+- **Bond:** a skin. Traits: *Takes the shape of their beast*, *Smells fear*.
+- **Anchor** *Shepherd in the Alps, where the wolf has returned*: *Guards the flock*, *Knows the valley's wolves*.
+- **Anchor** *Breeds herding dogs*: *Knows what a dog protects*.
 
-The Beast knows only two places: it *hunts or is hunted*. Ana, she-wolf and shepherd, knows a third: to guard. Is the dog not a wolf that chose? If she gets the guarding of the flock recognized as belonging to the Beast, *Shepherd in the Alps* can become a Bond keyword. The Beast will know alliance between species — and other shapeshifters will learn to keep watch rather than hunt.
+The Beast knows only two places: it *hunts or is hunted*. Ana, she-wolf and shepherd, knows a third: to guard. Is the dog not a wolf that chose? If she gets the guarding of the flock recognized as belonging to the Beast, *Guards the flock* can pass into the Bond. The Beast will know alliance between species — and other shapeshifters will learn to keep watch rather than hunt.
 
 :::
 

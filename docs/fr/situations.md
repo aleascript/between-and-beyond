@@ -79,7 +79,7 @@ Préparer une séance peut donc se limiter à choisir une nouveauté ou une affa
 
 Les moments de Présence en fournissent aussi : la mission qu'une Puissance confie à un Agent est un point de départ tout trouvé.
 
-Les joueurs peuvent aussi y contribuer. Le portrait de leurs Agents dit ce qu'ils ont acquis au contact du monde, et un joueur peut proposer une nouveauté que son Agent a remarquée : ce qu'il regarde dit souvent ce que la table viendra chercher.
+Les joueurs peuvent aussi y contribuer. Les Ancrages de leurs Agents disent ce qu'ils ont acquis au contact du monde, et un joueur peut proposer une nouveauté que son Agent a remarquée : ce qu'il regarde dit souvent ce que la table viendra chercher.
 
 ## Faire entendre les Puissances
 

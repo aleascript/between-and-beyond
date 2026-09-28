@@ -40,6 +40,32 @@ Most of the time, a Power does not enter a resolution directly: its Agents, avat
 
 Only a being already bound to a Power can find themselves face to face with that whole, during a [moment of Presence](#presence).
 
+## An Agent's Portrait
+
+An Agent's portrait has two sides, like their condition: what binds them to their Power, and what holds them in the world.
+
+### The Bond
+
+The **Bond** is the relationship itself: kinship through blood, an office, an oath, a tree. An Agent has one Bond with their Power, and that Bond can widen during play, from a tree to a whole forest.
+
+The Bond carries **traits**: what the Power gives the Agent, or what they are through it. A Bond trait comes either from the relationship itself or from an Attribute that passes through it. The Attribute says what the Power is; the trait says how that shows in this particular Agent. *Feeds on the living* is what the Eldest Blood is; *Feeds on blood* is what each of its vampires lives.
+
+These traits are not fixed. The GM may grant new ones, to reward an Agent or to hold them back, and an Agent may bring some to their Power (see [Extending a Power](#extending-a-power)).
+
+### Anchors
+
+**Anchors** are what hold the Agent in the world: a trade, a relationship, a place, a wound, a skill; what they have become through contact with Humans, other Agents, other forms of life, an environment, or an event. Humans have Anchors too: their portrait has only that side.
+
+Each Anchor is made of traits. There is no need to write them all down: a few examples are enough, and an implicit trait can still become a Bet. It gets written down once it matters, especially when it contradicts the Power or interests it.
+
+:::note[Example — Nature]
+
+A Sylvan is bound to the old oak by the ford. Their Bond carries *Dies if the oak dies* and *Remembers what the oak has seen*, which come from the relationship itself, and *The forest hides them*, which comes from the Wild's Attribute *Has no paths*.
+
+Their Anchor *Grew up near the village* carries *Knows the woodcutters by name* and *Keeps a path open for the children*. That last trait contradicts *Has no paths*: sooner or later, the Wild will notice.
+
+:::
+
 ## Playing
 
 The game uses a traditional tabletop role-playing structure.
@@ -74,9 +100,9 @@ An ordinary Human cannot simply decide to fly. An Angel with wings can spread th
 
 Likewise, a Power may grant its Agents possibilities that Humans — or Agents of other Powers — simply do not have.
 
-These possibilities are written into the **Agent's portrait** as keywords: nature, abilities, gifts, bonds, states, or other elements that define them.
+These possibilities are written into the **Agent's portrait** as traits: nature, abilities, gifts, relationships, states, or other elements that define them.
 
-A keyword does not automatically grant a die. It first establishes what is true and what is possible in the fiction.
+A trait does not automatically grant a die. It first establishes what is true and what is possible in the fiction.
 
 ### Bets: What Matters Here
 
@@ -86,7 +112,7 @@ A relevant element becomes a **Bet**.
 
 It may come from the character's portrait, their Power, relationships, past, the situation, environment, an injury, an object, preparation, or any other relevant element.
 
-The same keyword may simply make an action possible in one scene, then become a Bet in another if the Focus gives it real weight.
+The same trait may simply make an action possible in one scene, then become a Bet in another if the Focus gives it real weight.
 
 Each Bet favors one of the two outcomes.
 
@@ -164,16 +190,16 @@ A Power is perfectly reliable, but it never exceeds its number of Bets: it alrea
 
 An Agent is how their Power becomes present. But they are not entirely determined by it: through contact with the world, they become other. Their Bets carry the mark of this tension.
 
-Each keyword in an Agent's portrait has an **origin**:
+Each trait in an [Agent's portrait](#an-agents-portrait) has an **origin**, which is the side of the portrait it sits on:
 
-- a **Bond** keyword comes from the Power: what it gives them or what they are through it (nature, gifts, mark, authority…);
-- an **acquired** keyword comes from the Agent themselves, whatever its source: encounters with Humans, other Agents, other forms of life, an environment, or an event; their relationships, experiences, knowledge, attachments, wounds; what they have become.
+- a **Bond** trait comes from the Power: what it gives them or what they are through it (nature, gifts, mark, authority…);
+- an **Anchor** trait comes from the Agent themselves, whatever its source: their relationships, experiences, knowledge, attachments, wounds; what they have become.
 
-If the Power is what makes the thing possible, the keyword belongs to the Bond; otherwise, it is acquired. The origin is set with the keyword and may change if the fiction transforms it.
+If the Power is what makes the thing possible, the trait belongs to the Bond; otherwise, it belongs to an Anchor. The origin is set with the trait and may change if the fiction transforms it.
 
-Bets drawn from these keywords are **Bond Bets** or **Acquired Bets**. Dice in two colors help tell them apart.
+Bets drawn from these traits are **Bond Bets** or **Anchor Bets**. Dice in two colors help tell them apart.
 
-- **Acquired Bets** use the **Becoming** prism. They belong to the Agent, but lack the certainty of the Bond.
+- **Anchor Bets** use the **Becoming** prism. They belong to the Agent, but lack the certainty of the Bond.
 - Through **Bond Bets**, the Power itself acts. As long as the opposing side does not commit Bond Bets of its own, they use the **Power** prism: each one directly produces 1 Success.
 
 The Bond is therefore the safe choice as long as no other Power becomes present in opposition. It does not guarantee victory: Becoming may exceptionally produce more Successes than Bets.
@@ -184,17 +210,17 @@ The Bond is therefore the safe choice as long as no other Power becomes present 
 
 Successes from Bond Bets are interpreted according to the nature of the Power, not that of the Agent: whatever is achieved is achieved the way the Power would achieve it. An Agent of a Seraph of Fire who prevails through the Bond burns something, whether they want to or not. The GM describes that manner, or the table if it plays more collaboratively; it is one of the ways the Power is made heard in the scene.
 
-Calling on the Bond remains the player's choice, but it is made in the fiction: the player decides how their Agent acts, and the table draws the Bets from that. An Agent can therefore act without letting their Power pass through them, even when a Bond keyword would be relevant.
+Calling on the Bond remains the player's choice, but it is made in the fiction: the player decides how their Agent acts, and the table draws the Bets from that. An Agent can therefore act without letting their Power pass through them, even when a Bond trait would be relevant.
 
 That choice is made knowingly. Before the roll, the GM points out the significant consequences that the Power's manner makes foreseeable, or at least reminds the player that, if the Agent prevails, the Power will carry part of the result.
 
-The Agent's tension arises from this choice, without a gauge or a morality. The Bond is reliable, but it is not theirs. What is acquired is uncertain, but it belongs to them.
+The Agent's tension arises from this choice, without a gauge or a morality. The Bond is reliable, but it is not theirs. What anchors them in the world is uncertain, but it belongs to them.
 
 #### Against Another Agent
 
 Two Powers never confront one another directly. When an Agent's Bond Bets meet those of another Agent, they lose their certainty.
 
-**If the opposing side commits Bond Bets, all Bond Bets on both sides are rolled with the Neutral prism.** Acquired Bets keep the Becoming prism.
+**If the opposing side commits Bond Bets, all Bond Bets on both sides are rolled with the Neutral prism.** Anchor Bets keep the Becoming prism.
 
 Bond Bets are declared. When one side commits them, the other may answer with its own, and then the roll is resolved. A Bond Bet committed in answer meets the same requirements as any other: it must genuinely matter for the Focus, at this Zoom. Being an Agent is not enough to strip the other of their certainty.
 
@@ -206,9 +232,9 @@ A clash between Agents is therefore decided at least as much by what they have b
 
 :::note[Example — the Divine]
 
-An Angel protects a witness from a manipulated crowd. They commit *Wings of Light* and *Voice of the Archangel* (Bond), as well as *Former Wartime Nurse* (acquired). Against the crowd, their two Bond Bets directly produce 2 Successes; they roll one Becoming die for the third. If the crowd falls back, it is the Archangel's light that drove it away: witnesses will talk about it, and some will keep burned eyes.
+An Angel protects a witness from a manipulated crowd. They commit *Wings of Light* and *Voice of the Archangel* (Bond), as well as *Holds firm under fire*, a trait of their Anchor *Former Wartime Nurse*. Against the crowd, their two Bond Bets directly produce 2 Successes; they roll one Becoming die for the third. If the crowd falls back, it is the Archangel's light that drove it away: witnesses will talk about it, and some will keep burned eyes.
 
-Later, a Demon steps in and also commits Bond Bets. This time, both Agents' Bond Bets are rolled with the Neutral prism; only their Acquired Bets keep the drive of the 6.
+Later, a Demon steps in and also commits Bond Bets. This time, both Agents' Bond Bets are rolled with the Neutral prism; only their Anchor Bets keep the drive of the 6.
 
 :::
 
@@ -256,7 +282,7 @@ The result does not replace the fiction: it lets the table decide in which direc
 
 An Agent's portrait changes with what happens to them.
 
-A lasting consequence may **add, modify, or remove a keyword**. The Agent may gain a new gift, lose an ability, transform a bond, carry an injury, change status, or become something else.
+A lasting consequence may **add, modify, or remove a trait**, or even an Anchor. The Agent may gain a new gift, lose an ability, transform a relationship, carry an injury, change status, or become something else.
 
 These changes directly alter what becomes possible for them and what may become a Bet in future situations.
 
@@ -286,23 +312,23 @@ That transformation of the Agent is their reward. Depending on the Horizon and t
 
 This reward is not automatically exclusive or permanent. What matters is that the Agent's act changed both what the Power can become and what can now pass through their Bond.
 
-### From Acquired to Bond
+### From Anchor to Bond
 
-One of the strongest forms of this reward concerns the very origin of keywords.
+One of the strongest forms of this reward concerns the very origin of traits.
 
-When what an Agent brings to their Power corresponded to one of their acquired keywords, that keyword may **become a Bond keyword**. What belonged to them alone, with the uncertainty of what is acquired, is now recognized by the Power and passes through it with its certainty.
+When what an Agent brings to their Power corresponded to one of the traits of their Anchors, that trait may **pass into the Bond**. It takes its place under the Attribute it extends, or under the new Attribute the extension brings forth. What belonged to them alone, with the uncertainty of Becoming, is now recognized by the Power and passes through it with its certainty. The Anchor itself stays in the world: it is the trait that passes.
 
-This recognition does not necessarily concern them alone. What now belongs to the Power's domain can often pass through all of its Agents: depending on the Horizon and the Power, other Agents may receive that Bond keyword. A single Agent can thus change what all the others are.
+This recognition does not necessarily concern them alone. What now belongs to the Power's domain can often pass through all of its Agents: depending on the Horizon and the Power, other Agents may receive that Bond trait. A single Agent can thus change what all the others are.
 
-The cost remains that of the Bond: what now succeeds through this keyword is the Power succeeding.
+The cost remains that of the Bond: what now succeeds through this trait is the Power succeeding.
 
-It is often during a [moment of Presence](#presence) that the Power asks the Agent to cede what they have acquired.
+It is often during a [moment of Presence](#presence) that the Power asks the Agent to cede a trait.
 
 :::note[Example — the Divine]
 
-The Angel from the previous example learned to care for the wounded on battlefields: *Former Wartime Nurse* is an acquired keyword. They manage to have the care of bodies recognized as part of their Archangel's domain, which until then knew only protection and judgment.
+The Angel from the previous example learned to care for the wounded on battlefields: their Anchor *Former Wartime Nurse* carries the trait *Tends the wounded*. They manage to have the care of bodies recognized as part of their Archangel's domain, which until then knew only protection and judgment.
 
-Their keyword becomes a Bond keyword, *Hands of the Archangel*. From now on, their healing succeeds with the Power's certainty — but it is the Archangel's light that closes the wounds. And other Angels of this Archangel begin to heal as well.
+The trait passes into the Bond and becomes *Hands of the Archangel*. From now on, their healing succeeds with the Power's certainty — but it is the Archangel's light that closes the wounds. And other Angels of this Archangel begin to heal as well. The Anchor remains: they are still a former wartime nurse, and whatever else they learned at the front still belongs to them.
 
 :::
 
@@ -324,7 +350,7 @@ A moment of Presence can be played regularly: at the end of a session, during a 
 
 ### Face to Face
 
-On one side, the Power and **all of its Attributes**. On the other, the Agent, with **their Bond keywords and their acquired keywords**.
+On one side, the Power and **all of its Attributes**. On the other, the Agent, with **their Bond and their Anchors**, and all their traits.
 
 There are no dice and no Bets. The GM lets the Power be heard; the player answers for their Agent. What is at play is what the Power sees in them, and what each side is willing to give.
 
@@ -334,27 +360,27 @@ Three cases can arise.
 
 Nothing the Agent has become concerns their Power. It reacts according to its nature: "Why do you disturb me?", or on the contrary, comfort.
 
-The scene does not stay hollow for all that: the Power gives the Agent **a mission, a new Bond keyword, or a constraint**, something that moves them forward. What it gives them can become the starting point of the next [Situation](situations.md).
+The scene does not stay hollow for all that: the Power gives the Agent **a mission, a new Bond trait, or a constraint**, something that moves them forward. What it gives them can become the starting point of the next [Situation](situations.md).
 
-### An Acquired Keyword That Interests the Power
+### A Trait That Interests the Power
 
-One of the Agent's acquired keywords brings something their Power does not yet contain. The Power **asks the Agent to cede it**.
+One of the Agent's Anchor traits brings something their Power does not yet contain. The Power **asks the Agent to cede it**.
 
 The player chooses.
 
-- If they cede it, the keyword becomes a Bond keyword and the Power [extends](#extending-a-power). The Agent gains the certainty of the Bond, but loses control of what was theirs: from now on, the Power is the one succeeding.
-- If they refuse, they keep their acquired keyword. But the relationship bears the mark: a consequence, immediate or deferred, which the GM notes or reveals.
+- If they cede it, the trait passes into the Bond and the Power [extends](#extending-a-power). The Agent gains the certainty of the Bond, but loses control of what was theirs: from now on, the Power is the one succeeding.
+- If they refuse, they keep their trait. But the relationship bears the mark: a consequence, immediate or deferred, which the GM notes or reveals.
 
-### An Acquired Keyword in Contradiction
+### A Trait in Contradiction
 
-One of the Agent's acquired keywords contradicts an Attribute of their Power. If several do, the GM chooses one.
+One of the Agent's Anchor traits contradicts an Attribute of their Power. If several do, the GM chooses one.
 
-The Power questions the Agent. The player may lie to hide that keyword. The lie may hold, but it may also come back later, heavier.
+The Power questions the Agent. The player may lie to hide that trait. The lie may hold, but it may also come back later, heavier.
 
 If the contradiction is revealed, the Agent has three paths:
 
-- **give up** the acquired keyword, of their own free will;
-- **keep it**: the Power may allow it, but takes away one of their Bond keywords;
+- **give up** that trait, of their own free will;
+- **keep it**: the Power may allow it, but takes away one of their Bond traits;
 - **ask the Power to change**.
 
 ### Transforming an Attribute
@@ -363,7 +389,7 @@ The Agent pleads their case before their Power.
 
 The Power is fully entitled to refuse to change: it already is what it is. But if **the world already carries** what the Agent has acquired, that is a weighty argument. The Power may refuse to change; the world has already changed.
 
-The world carries a novelty once the [Vector](situations.md#vector) of its Situation has come about, or once a human Force has institutionalized it: it is no longer only one Agent's experience, it is a fact of the world. The same benchmark applies to [losing all one's Bonds](#losing-all-ones-bonds).
+The world carries a novelty once the [Vector](situations.md#vector) of its Situation has come about, or once a human Force has institutionalized it: it is no longer only one Agent's experience, it is a fact of the world. The same benchmark applies to [losing one's Bond](#losing-ones-bond).
 
 The transformation succeeds if the player finds **how the Power can change without denying itself**:
 
@@ -372,13 +398,13 @@ The transformation succeeds if the player finds **how the Power can change witho
 
 This is not a contest of eloquence but a puzzle, and the whole table can help solve it. These are often the strongest moments of a campaign.
 
-If the transformation succeeds, the Attribute is rewritten, and the change affects all of the Power's Agents. The Agent's acquired keyword may then become a Bond keyword, as with an extension.
+If the transformation succeeds, the Attribute is rewritten, and the change affects all of the Power's Agents. The Agent's trait may then pass into the Bond, as with an extension.
 
-Otherwise, the request most often ends with the loss of a Bond keyword.
+Otherwise, the request most often ends with the loss of a Bond trait.
 
 :::note[Example — Death]
 
-A vampire has grown old alongside a human he loved, without ageing himself. She has died, and she has passed over. He cannot follow her: the sun can destroy him, but a destroyed vampire does not pass over to the dead. Others have already chosen the sun, and none of them found those they loved. His acquired keyword, *Loved a mortal until her death*, contradicts one of the Eldest Blood's Attributes: *Neither dies nor lives*. He wants to be able to truly die, and join her.
+A vampire has grown old alongside a human he loved, without ageing himself. She has died, and she has passed over. He cannot follow her: the sun can destroy him, but a destroyed vampire does not pass over to the dead. Others have already chosen the sun, and none of them found those they loved. A trait of his Anchors, *Loved a mortal until her death*, contradicts one of the Eldest Blood's Attributes: *Neither dies nor lives*. He wants to be able to truly die, and join her.
 
 Refusing death is everything the Eldest Blood is: every child who leaves weakens the lineage, and it defends the lineage at all costs. The table searches for a long time. The compromise comes from a human who knows what he is: she freely chooses to become a vampire in his place. The Eldest Blood loses nothing, since the lineage keeps a child, and this time a child who wanted it. The vampire, for his part, can at last die and pass over.
 
@@ -386,13 +412,17 @@ The Attribute becomes *The lineage does not die, it is passed on*. The other thr
 
 :::
 
-### Losing All One's Bonds
+### Losing One's Bond
 
-A Bond is not cut all at once. Bond keywords are lost only during moments of Presence, one by one. An Agent may suffer this loss, or choose it: breaking away, one moment of Presence after another.
+A Bond can be lost in two ways.
 
-When they lose their last Bond keyword, they cease to be an Agent. For Diotima, the daimon stands between god and mortal; the Agent can leave that in-between by either end.
+**Little by little.** Bond traits are lost during moments of Presence, one by one. An Agent may suffer this loss, or choose it: breaking away, one moment of Presence after another.
 
-**Becoming human again.** If the world does not yet carry what they have become, the Agent becomes human again. They return to the human condition, with what it means for them: a vampire, already dead, finally dies. If they survive it, they keep their acquired keywords: what they know, whom they know, what they have lived. The player can go on playing them: a human set apart, who knows a great deal, who likely has allies among the Agents, and who can organize humans against the forces of the Powers. Alone against an Agent, they suffer the certainty of the Bond; but if an allied Agent commits Bond Bets at their side, the opponent's Bond Bets lose their certainty (see [Against Another Agent](#against-another-agent)).
+**All at once.** The Bond itself can become what a Situation is about: the tree is felled, the oath broken, the name erased. If it is lost, all its traits fall with it. Those traits often say what the loss costs: a Sylvan who *dies if the oak dies* does not outlive their tree.
+
+When they lose their last Bond trait, or the Bond itself, they cease to be an Agent. For Diotima, the daimon stands between god and mortal; the Agent can leave that in-between by either end.
+
+**Becoming human again.** If the world does not yet carry what they have become, the Agent becomes human again. They return to the human condition, with what it means for them: a vampire, already dead, finally dies. If they survive it, they keep their Anchors: what they know, whom they know, what they have lived. The player can go on playing them: a human set apart, who knows a great deal, who likely has allies among the Agents, and who can organize humans against the forces of the Powers. Alone against an Agent, they suffer the certainty of the Bond; but if an allied Agent commits Bond Bets at their side, the opponent's Bond Bets lose their certainty (see [Against Another Agent](#against-another-agent)).
 
 **Becoming a Power.** If the world already carries what they have become, and if the player accepts the burden, the Agent becomes a Power themselves. A new Power appears on the Horizon, born of the campaign; the table writes its Attributes from what the Agent had become. It is a burden, for a Power no longer becomes: it already is what it is. The player can then play an Agent of this new Power, and voice it during moments of Presence.
 
@@ -400,6 +430,6 @@ When they lose their last Bond keyword, they cease to be an Agent. For Diotima, 
 
 The **6** belongs to **Becoming**.
 
-It has its own effect only on dice rolled with the Becoming prism: those of beings that use this prism and the Acquired Bets of Agents. For matter and for Bond Bets rolled with the Neutral prism, a 6 is only an ordinary Success.
+It has its own effect only on dice rolled with the Becoming prism: those of beings that use this prism and the Anchor Bets of Agents. For matter and for Bond Bets rolled with the Neutral prism, a 6 is only an ordinary Success.
 
 The 6 is not where the Power manifests: what passes from the Power into the world passes through its Agents, and in particular through their Bond Bets.

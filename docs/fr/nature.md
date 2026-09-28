@@ -62,11 +62,15 @@ Sources, rivières, lacs : les nymphes des fontaines, la Dame du Lac, Mélusine 
 
 ## Familles d'Agents
 
+Les traits proposés sont des traits **du Lien** : chacun vient de la relation elle-même ou de l'Attribut indiqué. Les Ancrages de l'Agent lui appartiennent et restent à écrire.
+
 ### Métamorphes — la Bête
 
 Loups-garous, selkies qui cachent leur peau de phoque, femmes-renardes des contes d'Asie. Le Lien est une peau.
 
-*Prend la forme de sa bête* · *Sent la peur* · *Parle aux bêtes de son espèce*
+- *Prend la forme de sa bête*, de la peau elle-même ;
+- *Sent la peur*, de *Chasse ou est chassée* ;
+- *Parle aux bêtes de son espèce*, de *Suit l'instinct*.
 
 **Ce que la figure permet de penser :** la bête en nous ; appartenir à deux mondes par le corps ; ce que la civilisation retient en nous.
 
@@ -74,7 +78,9 @@ Loups-garous, selkies qui cachent leur peau de phoque, femmes-renardes des conte
 
 Dryades liées à leur arbre, hommes verts, satyres. Le Lien est un arbre, ou une forêt entière.
 
-*Lié à un arbre* · *La forêt le cache* · *Égare qui le poursuit*
+- *Meurt si son arbre meurt*, de l'arbre lui-même ;
+- *La forêt le cache*, de *N'a pas de chemins* ;
+- *Égare qui le poursuit*, d'*Égare ceux qui s'y aventurent*.
 
 **Ce que la figure permet de penser :** ne pas pouvoir partir ; un temps végétal ; ce que la forêt pense de nous.
 
@@ -82,7 +88,9 @@ Dryades liées à leur arbre, hommes verts, satyres. Le Lien est un arbre, ou un
 
 Pixies, korrigans, lutins, farfadets — et les changelins, laissés dans les berceaux humains à la place d'un enfant. Le Lien est une naissance sous la colline.
 
-*Charme d'un mot* · *Invisible à qui ne croit pas* · *Le fer froid le brûle*
+- *Charme d'un mot*, de *Tient parole, à la lettre* ;
+- *Invisible à qui ne croit pas*, de la naissance elle-même ;
+- *Le fer froid le brûle*, de *Craint le fer froid*.
 
 **Ce que la figure permet de penser :** l'hospitalité et ses règles ; la parole donnée ; être étranger au cœur du familier.
 
@@ -92,7 +100,9 @@ Pixies, korrigans, lutins, farfadets — et les changelins, laissés dans les be
 
 Naïades, ondines, nixes, la Lorelei, Mélusine et ses filles. Le Lien est une source.
 
-*Respire sous l'eau* · *Sa voix attire* · *Doit revenir à l'eau*
+- *Respire sous l'eau*, de la source elle-même ;
+- *Sa voix attire*, de *Garde ce qui tombe en elle* ;
+- *Doit revenir à l'eau*, de la source elle-même.
 
 **Ce que la figure permet de penser :** l'amour entre deux mondes, et l'interdit qui le rend possible ; ce qu'on promet à qui n'est pas humain.
 
@@ -110,10 +120,11 @@ Naïades, ondines, nixes, la Lorelei, Mélusine et ses filles. Le Lien est une s
 
 :::note[Exemple — Ana, métamorphe de la Bête]
 
-- **Mots-clés du Lien :** *Prend la forme de sa bête*, *Sent la peur*.
-- **Mots-clés acquis :** *Bergère dans les Alpes, là où le loup est revenu*, *Élève des chiens de troupeau*.
+- **Lien :** une peau. Traits : *Prend la forme de sa bête*, *Sent la peur*.
+- **Ancrage** *Bergère dans les Alpes, là où le loup est revenu* : *Garde le troupeau*, *Connaît les loups de la vallée*.
+- **Ancrage** *Élève des chiens de troupeau* : *Sait ce qu'un chien protège*.
 
-La Bête ne connaît que deux places : elle *chasse ou est chassée*. Ana, louve et bergère, en connaît une troisième : garder. Le chien n'est-il pas un loup qui a choisi ? Si elle fait reconnaître la garde du troupeau comme appartenant à la Bête, *Bergère dans les Alpes* peut devenir un mot-clé du Lien. La Bête connaîtra l'alliance entre espèces — et d'autres métamorphes apprendront à veiller plutôt qu'à chasser.
+La Bête ne connaît que deux places : elle *chasse ou est chassée*. Ana, louve et bergère, en connaît une troisième : garder. Le chien n'est-il pas un loup qui a choisi ? Si elle fait reconnaître la garde du troupeau comme appartenant à la Bête, *Garde le troupeau* peut passer au Lien. La Bête connaîtra l'alliance entre espèces — et d'autres métamorphes apprendront à veiller plutôt qu'à chasser.
 
 :::
 

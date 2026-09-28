@@ -62,11 +62,15 @@ What weighs on the sleeper's chest. The *mare* of old tongues, which gave the ni
 
 ## Families of Agents
 
+The suggested traits are **Bond** traits: each comes from the relationship itself or from the Attribute shown. The Agent's Anchors belong to them and remain to be written.
+
 ### Messengers — the Gate of Horn
 
 Bearers of dreams, like the Greek *Oneiroi*. The Bond is a message to deliver.
 
-*Enters dreams* · *Takes the face of a loved one* · *Speaks in images*
+- *Enters dreams*, from *Does not choose who hears it*;
+- *Takes the face of a loved one*, from the message itself;
+- *Speaks in images*, from *Speaks in riddles*.
 
 **What the figure lets us think:** how a truth can reach us without passing through reason.
 
@@ -74,7 +78,9 @@ Bearers of dreams, like the Greek *Oneiroi*. The Bond is a message to deliver.
 
 Those who shape dreams. The Bond is a craft handed down.
 
-*Shapes a dream* · *Gives form to desires* · *Imitates any place*
+- *Shapes a dream*, from the craft itself;
+- *Gives form to desires*, from *Gives what one desires*;
+- *Imitates any place*, from *Imitates the real*.
 
 **What the figure lets us think:** desire and illusion; what we prefer to the real; what we lose by preferring it.
 
@@ -82,7 +88,9 @@ Those who shape dreams. The Bond is a craft handed down.
 
 Those who put people to sleep. The figure comes from tales: Andersen's little man with his two umbrellas, or Hoffmann's far more disturbing one. The Bond is an office.
 
-*Brings sleep with a gesture* · *Sees what everyone dreams* · *Invisible to the waking*
+- *Brings sleep with a gesture*, from the office itself;
+- *Sees what everyone dreams*, from *Every living being yields to it*;
+- *Invisible to the waking*, from *Brother of Death*.
 
 **What the figure lets us think:** the threshold of sleep; letting go; entrusting one's night to someone.
 
@@ -90,7 +98,9 @@ Those who put people to sleep. The figure comes from tales: Andersen's little ma
 
 Mares, incubi, succubi, shadows at the foot of the bed. The Bond is a hunger.
 
-*Weighs on sleepers* · *Knows everyone's fears* · *Vanishes on waking*
+- *Weighs on sleepers*, from *Weighs on sleepers*;
+- *Knows everyone's fears*, from *Feeds on fear*;
+- *Vanishes on waking*, from *Powerless in broad daylight*.
 
 **What the figure lets us think:** intimate fear; what haunts us and comes from us.
 
@@ -108,10 +118,11 @@ Mares, incubi, succubi, shadows at the foot of the bed. The Bond is a hunger.
 
 :::note[Example — Lise, messenger of the Gate of Horn]
 
-- **Bond keywords:** *Enters dreams*, *Speaks in images*.
-- **Acquired keywords:** *Film editor*, *Insomniac since childhood*.
+- **Bond:** a message to deliver. Traits: *Enters dreams*, *Speaks in images*.
+- **Anchor** *Film editor*: *Draws a truth from two images*, *Knows where to cut*.
+- **Anchor** *Insomniac since childhood*: no trait written yet.
 
-The Gate of Horn *speaks in riddles*, and many omens are never understood. Lise learned in the editing room that a truth can be born from two images placed side by side. If she gets editing recognized as belonging to the Gate of Horn, true dreams will become clearer — and other messengers will learn to cut.
+The Gate of Horn *speaks in riddles*, and many omens are never understood. Lise learned in the editing room that a truth can be born from two images placed side by side. If she gets editing recognized as belonging to the Gate of Horn, *Draws a truth from two images* will pass into the Bond: true dreams will become clearer — and other messengers will learn to cut.
 
 :::
 

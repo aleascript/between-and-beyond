@@ -62,11 +62,15 @@ Ce qui pèse sur la poitrine du dormeur. La mare des vieilles langues, qui a don
 
 ## Familles d'Agents
 
+Les traits proposés sont des traits **du Lien** : chacun vient de la relation elle-même ou de l'Attribut indiqué. Les Ancrages de l'Agent lui appartiennent et restent à écrire.
+
 ### Messagers — la Porte de Corne
 
 Porteurs de songes, comme les *Oneiroi* grecs. Le Lien est un message à délivrer.
 
-*Entre dans les rêves* · *Prend le visage d'un proche* · *Parle par images*
+- *Entre dans les rêves*, de *Ne choisit pas qui l'entend* ;
+- *Prend le visage d'un proche*, du message lui-même ;
+- *Parle par images*, de *Parle par énigmes*.
 
 **Ce que la figure permet de penser :** comment une vérité peut nous atteindre sans passer par la raison.
 
@@ -74,7 +78,9 @@ Porteurs de songes, comme les *Oneiroi* grecs. Le Lien est un message à délivr
 
 Ceux qui façonnent les rêves. Le Lien est un savoir-faire transmis.
 
-*Façonne un rêve* · *Donne forme aux désirs* · *Imite n'importe quel lieu*
+- *Façonne un rêve*, du savoir-faire lui-même ;
+- *Donne forme aux désirs*, de *Donne ce qu'on désire* ;
+- *Imite n'importe quel lieu*, d'*Imite le réel*.
 
 **Ce que la figure permet de penser :** le désir et l'illusion ; ce qu'on préfère au réel ; ce qu'on perd à le préférer.
 
@@ -82,7 +88,9 @@ Ceux qui façonnent les rêves. Le Lien est un savoir-faire transmis.
 
 Ceux qui endorment. La figure vient des contes : le petit homme d'Andersen avec ses deux parapluies, ou celui, plus inquiétant, d'Hoffmann. Le Lien est un office.
 
-*Endort d'un geste* · *Voit ce que chacun rêve* · *Invisible aux éveillés*
+- *Endort d'un geste*, de l'office lui-même ;
+- *Voit ce que chacun rêve*, de *Tout vivant lui cède* ;
+- *Invisible aux éveillés*, de *Frère de la Mort*.
 
 **Ce que la figure permet de penser :** le seuil du sommeil ; lâcher prise ; confier sa nuit à quelqu'un.
 
@@ -90,7 +98,9 @@ Ceux qui endorment. La figure vient des contes : le petit homme d'Andersen avec 
 
 Mares, incubes, succubes, ombres au pied du lit. Le Lien est une faim.
 
-*Pèse sur les dormeurs* · *Connaît les peurs de chacun* · *Disparaît au réveil*
+- *Pèse sur les dormeurs*, de *Pèse sur les dormeurs* ;
+- *Connaît les peurs de chacun*, de *Se nourrit de la peur* ;
+- *Disparaît au réveil*, de *Ne peut rien au grand jour*.
 
 **Ce que la figure permet de penser :** la peur intime ; ce qui nous hante et vient de nous.
 
@@ -108,10 +118,11 @@ Mares, incubes, succubes, ombres au pied du lit. Le Lien est une faim.
 
 :::note[Exemple — Lise, messagère de la Porte de Corne]
 
-- **Mots-clés du Lien :** *Entre dans les rêves*, *Parle par images*.
-- **Mots-clés acquis :** *Monteuse de cinéma*, *Insomniaque depuis l'enfance*.
+- **Lien :** un message à délivrer. Traits : *Entre dans les rêves*, *Parle par images*.
+- **Ancrage** *Monteuse de cinéma* : *Fait naître une vérité de deux images*, *Sait où couper*.
+- **Ancrage** *Insomniaque depuis l'enfance* : aucun trait écrit pour l'instant.
 
-La Porte de Corne *parle par énigmes*, et bien des présages ne sont jamais compris. Lise a appris au montage qu'une vérité peut naître de deux images mises côte à côte. Si elle fait reconnaître le montage comme appartenant à la Porte de Corne, les songes vrais deviendront plus clairs — et d'autres messagers apprendront à couper.
+La Porte de Corne *parle par énigmes*, et bien des présages ne sont jamais compris. Lise a appris au montage qu'une vérité peut naître de deux images mises côte à côte. Si elle fait reconnaître le montage comme appartenant à la Porte de Corne, *Fait naître une vérité de deux images* passera au Lien : les songes vrais deviendront plus clairs — et d'autres messagers apprendront à couper.
 
 :::
 

@@ -70,11 +70,15 @@ Le désir de se perdre : Dionysos, la transe, le vin, la danse jusqu'à l'aube.
 
 ## Familles d'Agents
 
+Les traits proposés sont des traits **du Lien** : chacun vient de la relation elle-même ou de l'Attribut indiqué. Les Ancrages de l'Agent lui appartiennent et restent à écrire.
+
 ### Amours — Éros
 
 Enfants ailés, archers, entremetteurs. Le Lien est une blessure : la flèche qu'ils ont d'abord reçue.
 
-*Voit qui désire qui* · *Sa flèche ne manque pas* · *Ne peut viser pour lui-même*
+- *Voit qui désire qui*, d'*Attire* ;
+- *Sa flèche ne manque pas*, d'*Unit ce qui était séparé* ;
+- *Ne peut viser pour lui-même*, de la blessure elle-même.
 
 **Ce que la figure permet de penser :** ce qu'on ne choisit pas d'aimer ; la responsabilité de ceux qui unissent.
 
@@ -82,7 +86,9 @@ Enfants ailés, archers, entremetteurs. Le Lien est une blessure : la flèche qu
 
 Ogres des contes, goules, avares, ceux qui ne sont jamais rassasiés. Le Lien est une faim.
 
-*Sent ce que chacun convoite* · *Ne se rassasie jamais* · *Prend sans demander*
+- *Sent ce que chacun convoite*, de *Veut posséder* ;
+- *Ne se rassasie jamais*, de *Ne connaît pas l'assez* ;
+- *Prend sans demander*, de la faim elle-même.
 
 **Ce que la figure permet de penser :** le manque qui ne se comble pas ; ce que posséder ne donne pas.
 
@@ -90,7 +96,9 @@ Ogres des contes, goules, avares, ceux qui ne sont jamais rassasiés. Le Lien es
 
 Inspiratrices, génies familiers, fées-amantes comme la *leannán sídhe* irlandaise. Le Lien est une élection.
 
-*Inspire qui elle touche* · *Voit l'œuvre avant qu'elle existe* · *Épuise ceux qu'elle inspire*
+- *Inspire qui elle touche*, d'*Inspire* ;
+- *Voit l'œuvre avant qu'elle existe*, de *Préfère l'œuvre à l'artiste* ;
+- *Épuise ceux qu'elle inspire*, d'*Exige d'être servie*.
 
 **Ce que la figure permet de penser :** créer, et ce que cela coûte ; ce que l'on doit à ce qui nous inspire.
 
@@ -98,7 +106,9 @@ Inspiratrices, génies familiers, fées-amantes comme la *leannán sídhe* irlan
 
 Ménades, fêtards sacrés, meneurs de transe. Le Lien est une transe.
 
-*Entraîne les foules* · *Ne sent pas la douleur dans la transe* · *Délie les langues et les corps*
+- *Entraîne les foules*, de *Rassemble dans la transe* ;
+- *Ne sent pas la douleur dans la transe*, de la transe elle-même ;
+- *Délie les langues et les corps*, de *Défait les limites*.
 
 **Ce que la figure permet de penser :** se perdre pour se trouver ; la liberté et la violence d'une foule en extase.
 
@@ -116,10 +126,11 @@ Ménades, fêtards sacrés, meneurs de transe. Le Lien est une transe.
 
 :::note[Exemple — Inès, muse]
 
-- **Mots-clés du Lien :** *Inspire qui elle touche*, *Voit l'œuvre avant qu'elle existe*.
-- **Mots-clés acquis :** *Professeure de musique en collège*, *N'a jamais fini ses propres chansons*.
+- **Lien :** une élection. Traits : *Inspire qui elle touche*, *Voit l'œuvre avant qu'elle existe*.
+- **Ancrage** *Professeure de musique en collège* : *Transmet un élan sans le prendre*.
+- **Ancrage** *N'a jamais fini ses propres chansons* : aucun trait écrit pour l'instant.
 
-La Muse *préfère l'œuvre à l'artiste* : elle inspire, puis elle laisse l'artiste épuisé. Inès a appris en classe qu'on peut transmettre un élan sans le prendre à personne. Si elle fait reconnaître l'enseignement comme appartenant à la Muse, *Professeure de musique en collège* peut devenir un mot-clé du Lien — et d'autres muses apprendront à inspirer sans consumer.
+La Muse *préfère l'œuvre à l'artiste* : elle inspire, puis elle laisse l'artiste épuisé. Inès a appris en classe qu'on peut transmettre un élan sans le prendre à personne. Si elle fait reconnaître l'enseignement comme appartenant à la Muse, *Transmet un élan sans le prendre* peut passer au Lien — et d'autres muses apprendront à inspirer sans consumer.
 
 :::
 

@@ -37,8 +37,8 @@ The game calls **Becoming** the part of a being or the world that is not entirel
 Every Agent answers four questions:
 
 1. **What horizon exceeds you?** — the Horizon, and the Power that gives it form for you.
-2. **How does it pass through you?** — the Bond.
-3. **What have you become through contact with the world?** — Becoming.
+2. **How does it pass through you?** — the Bond, and its traits.
+3. **What have you become through contact with the world?** — your Anchors.
 4. **What can appear in the world that your Power does not yet contain?**
 
 ## Contents

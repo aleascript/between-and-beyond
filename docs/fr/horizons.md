@@ -48,7 +48,7 @@ Personne n'a besoin d'y répondre à voix haute. Mais la réponse dit souvent ce
 
 La plupart des humains ignorent les Agents. Pas tous : certains savent qu'ils existent, en connaissent, en ont croisé, leur doivent quelque chose ou les craignent. Ce savoir n'est jamais anodin. Il fait d'eux des alliés, des témoins, des proies ou des Forces avec lesquelles les Agents doivent compter.
 
-Le jeu n'est pas fait pour jouer un humain ordinaire qui aurait été initié. Un joueur peut pourtant commencer ainsi, si son personnage devient Agent très tôt, dès la première séance. Et un Agent qui [redevient humain](core-rules.md#perdre-tous-ses-liens) reste l'un de ceux qui savent.
+Le jeu n'est pas fait pour jouer un humain ordinaire qui aurait été initié. Un joueur peut pourtant commencer ainsi, si son personnage devient Agent très tôt, dès la première séance. Et un Agent qui [redevient humain](core-rules.md#perdre-son-lien) reste l'un de ceux qui savent.
 
 ## Combiner
 

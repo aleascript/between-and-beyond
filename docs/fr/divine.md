@@ -60,11 +60,15 @@ Un ordre impersonnel du monde, qui ne parle pas mais accorde et retire sa faveur
 
 ## Familles d'Agents
 
+Les traits proposés sont des traits **du Lien** : chacun vient de la relation elle-même ou de l'Attribut indiqué. Les Ancrages de l'Agent lui appartiennent et restent à écrire.
+
 ### Anges — le Glaive
 
 Créés pour servir. Le Lien est une création.
 
-*Ailes de lumière* · *Voix de l'Archange* · *Sent la présence du mal*
+- *Ailes de lumière*, de la création elle-même ;
+- *Voix de l'Archange*, de *Juge sans appel* ;
+- *Sent la présence du mal*, de *Protège ce qui lui est confié*.
 
 **Ce que la figure permet de penser :** peut-on porter un message sans être changé par lui ? L'obéissance, et la liberté qu'elle suppose.
 
@@ -72,7 +76,9 @@ Créés pour servir. Le Lien est une création.
 
 Déchus, révoltés ou nés de l'ombre. Le Lien est une allégeance.
 
-*Sent le mensonge* · *Lit le désir* · *Propose un pacte*
+- *Sent le mensonge*, de *Connaît le désir de chacun* ;
+- *Lit le désir*, de *Connaît le désir de chacun* ;
+- *Propose un pacte*, d'*Offre toujours un choix*.
 
 **Ce que la figure permet de penser :** la tentation ; le prix de ce qu'on désire ; la liberté de dire non, même à ce qui nous dépasse.
 
@@ -80,7 +86,9 @@ Déchus, révoltés ou nés de l'ombre. Le Lien est une allégeance.
 
 Demi-dieux, héros, descendants d'une union entre un dieu et une mortelle. Le Lien est une filiation.
 
-*Force surhumaine* · *Le sang du dieu parle en lui* · *Ne peut refuser un défi*
+- *Force surhumaine*, de *Frappe* ;
+- *Le sang du dieu parle en lui*, de la filiation elle-même ;
+- *Ne peut refuser un défi*, de *Querelleur parmi ses égaux*.
 
 **Ce que la figure permet de penser :** être à moitié ; hériter de ce qui nous dépasse ; ce qu'on doit à des parents plus grands que soi.
 
@@ -88,7 +96,7 @@ Demi-dieux, héros, descendants d'une union entre un dieu et une mortelle. Le Li
 
 Des humains appelés. Le Lien est un appel qu'ils n'ont pas choisi.
 
-*Entend la voix* · *Voit ce qui vient* · *Sa parole trouble ceux qui l'écoutent*
+*Entend la voix* · *Voit ce qui vient* · *Sa parole trouble ceux qui l'écoutent*, qui viennent de l'appel lui-même. Les autres traits dépendent de la Puissance qui appelle.
 
 **Ce que la figure permet de penser :** être la voix humaine de ce qui n'est pas humain ; la frontière entre révélation et folie.
 
@@ -105,10 +113,11 @@ Des humains appelés. Le Lien est un appel qu'ils n'ont pas choisi.
 
 :::note[Exemple — Azriel, ange du Glaive]
 
-- **Mots-clés du Lien :** *Ailes de lumière*, *Voix de l'Archange*.
-- **Mots-clés acquis :** *Avocat commis d'office*, *Aime une femme qui ne croit en rien*.
+- **Lien :** une création. Traits : *Ailes de lumière*, *Voix de l'Archange*.
+- **Ancrage** *Avocat commis d'office* : *Plaide pour ceux qui ont tort*, *Connaît les couloirs du palais*.
+- **Ancrage** *Aime une femme qui ne croit en rien* : aucun trait écrit pour l'instant.
 
-Le Glaive *juge sans appel*. Azriel, lui, a passé des années à défendre des coupables. S'il fait reconnaître la défense — plaider pour celui qui a tort — comme appartenant au Glaive, l'Archange aura appris que juger demande d'abord d'écouter. Et d'autres anges commenceront à plaider.
+Le Glaive *juge sans appel*. Azriel, lui, a passé des années à défendre des coupables. S'il fait reconnaître la défense — plaider pour celui qui a tort — comme appartenant au Glaive, *Plaide pour ceux qui ont tort* passera au Lien, et l'Archange aura appris que juger demande d'abord d'écouter. Et d'autres anges commenceront à plaider.
 
 :::
 
