@@ -44,6 +44,12 @@ Choisir un Agent, c'est aussi choisir la figure depuis laquelle on veut approche
 
 Personne n'a besoin d'y répondre à voix haute. Mais la réponse dit souvent ce que le joueur viendra chercher à la table.
 
+## Ceux qui savent
+
+La plupart des humains ignorent les Agents. Pas tous : certains savent qu'ils existent, en connaissent, en ont croisé, leur doivent quelque chose ou les craignent. Ce savoir n'est jamais anodin. Il fait d'eux des alliés, des témoins, des proies ou des Forces avec lesquelles les Agents doivent compter.
+
+Le jeu n'est pas fait pour jouer un humain ordinaire qui aurait été initié. Un joueur peut pourtant commencer ainsi, si son personnage devient Agent très tôt, dès la première séance. Et un Agent qui [redevient humain](core-rules.md#perdre-tous-ses-liens) reste l'un de ceux qui savent.
+
 ## Combiner
 
 Les Horizons se jouent **à la carte**.
@@ -61,6 +67,17 @@ Un Agent du Passage enquête sur des morts qui ne passent plus. Il découvre qu'
 La Mort, le Collectif et le Divin se rencontrent ici autour d'une même nouveauté.
 
 :::
+
+## Réunir des Agents
+
+Des Agents de Puissances différentes, voire d'Horizons différents, peuvent jouer ensemble. Les personnages joueurs ne s'affrontent pas directement : ils peuvent avoir des différends, mais aussi s'apporter ce que leurs Puissances ne leur donnent pas.
+
+Leur réunion doit cependant avoir une raison dans la fiction. On ne mélange pas des Agents arbitrairement. Quelques pistes :
+
+- des alliés de circonstance ;
+- des Agents qui s'intéressent au même domaine, ou à la même nouveauté ;
+- un groupe fédéré par quelque chose qui les dépasse tous ;
+- des Agents qui connaissent le même humain et lui sont redevables.
 
 ## Tonalités
 

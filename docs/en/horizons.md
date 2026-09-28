@@ -44,6 +44,12 @@ Choosing an Agent also means choosing the figure from which you want to approach
 
 No one needs to answer out loud. But the answer often says what the player will come to the table looking for.
 
+## Those who know
+
+Most humans know nothing of Agents. Not all: some know they exist, know some of them, have crossed paths with them, owe them something, or fear them. Such knowledge is never harmless. It makes them allies, witnesses, prey, or Forces the Agents must reckon with.
+
+The game is not made for playing an ordinary human who has been initiated. A player can still start that way, if their character becomes an Agent very early, as soon as the first session. And an Agent who [becomes human again](core-rules.md#losing-all-ones-bonds) remains one of those who know.
+
 ## Combining
 
 Horizons are played **à la carte**.
@@ -61,6 +67,17 @@ An Agent of the Passage investigates dead who no longer pass over. They discover
 Death, the Collective, and the Divine meet here around a single novelty.
 
 :::
+
+## Bringing Agents together
+
+Agents of different Powers, even of different Horizons, can play together. Player characters do not confront one another directly: they may have their differences, but they can also bring each other what their Powers do not give them.
+
+Their coming together still needs a reason in the fiction. Agents are not mixed arbitrarily. A few leads:
+
+- allies of circumstance;
+- Agents drawn to the same domain, or to the same novelty;
+- a group united by something that exceeds them all;
+- Agents who know the same human and are indebted to them.
 
 ## Tones
 
