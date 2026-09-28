@@ -80,10 +80,10 @@ export const site = {
     defaultFullName: 'aleascript/between-and-beyond',
   },
   identity: {
-    logo: 'img/site/icon_light_theme.png',
-    logoDark: 'img/site/icon_dark_theme.png',
-    favicon: 'img/site/icon_light_theme.png',
-    faviconDark: 'img/site/icon_dark_theme.png',
+    logo: 'img/site/icon_light_theme.svg',
+    logoDark: 'img/site/icon_dark_theme.svg',
+    favicon: 'img/site/icon_light_theme.svg',
+    faviconDark: 'img/site/icon_dark_theme.svg',
   } satisfies SiteIdentity,
   license: {
     label: 'CC BY 4.0',
