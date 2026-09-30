@@ -36,6 +36,12 @@ Each family of Agents must also be able to say why it is a figure of this Horizo
 
 A figure that answers none of these questions has no place on a Horizon, even if "it would be cool".
 
+## Suggestions, not truth
+
+The Powers, their Attributes, and their families of Agents are given as suggestions. They are not the truth of the game or official lore: another table would give Death or the Divine a different voice, and that is as it should be.
+
+On the contrary, the game invites every GM and every table to adapt, remove, or amend them to suit the game they want to play, as long as each Power still answers the three questions above. [Tuning the Game](tuning.md) explains how.
+
 ## Choosing your figure
 
 Choosing an Agent also means choosing the figure from which you want to approach what exceeds us. During creation, each player can ask a question — of themselves, not of their character:
@@ -48,7 +54,7 @@ No one needs to answer out loud. But the answer often says what the player will 
 
 Most humans know nothing of Agents. Not all: some know they exist, know some of them, have crossed paths with them, owe them something, or fear them. Such knowledge is never harmless. It makes them allies, witnesses, prey, or Forces the Agents must reckon with.
 
-The game is not made for playing an ordinary human who has been initiated. A player can still start that way, if their character becomes an Agent very early, as soon as the first session. And an Agent who [becomes human again](core-rules.md#losing-ones-bond) remains one of those who know.
+The game is not made for playing an ordinary human who has been initiated. A player can still start that way, if their character becomes an Agent very early, as soon as the first session: this is the [Revelation](tuning.md#the-agents-starting-point) starting point. And an Agent who [becomes human again](core-rules.md#losing-ones-bond) remains one of those who know.
 
 ## Combining
 
@@ -87,11 +93,25 @@ Each Horizon says which tones it lends itself to.
 
 ## Timescales
 
-A campaign can stay within one period or cross years, centuries, or millennia. Immortal or long-lived Agents can make historical change part of play, but this is an option rather than a requirement.
+A campaign can stay within one period or cross years, centuries, or millennia. Historical change can become part of play, but this is an option rather than a requirement.
 
 Every age has its own horizon: death, the divine, or the unknown are not seen the same way from one century to the next. A campaign that crosses the ages shows what a Horizon becomes — and what the Agents have made of their Powers.
 
 Each Horizon also says which timescales suit it. For [Time](deep-time.md), a campaign's timescale becomes the very subject of play.
+
+### Crossing the ages
+
+Three paths make long timescales playable.
+
+- **Immortality.** The Agent endures, like the vampire or the Eminence who advised the pharaohs. They keep their Anchors, but time wears them down: those they love die, their trade disappears, their city changes its name. They must make new ones, or soon be nothing but their Bond.
+- **Reincarnation.** The Agent returns, from one life to the next. Their Bond remains, since their Power finds them again; their Anchors are those of a new life. Sometimes a trait survives, one that remembers.
+- **Succession.** The Power remains, and the players take on its Agents from one age to the next. What one Agent brought to it, those who come after inherit.
+
+### Playing with History
+
+A campaign across the ages meets great events: the fall of Rome, the plague, the storming of the Bastille. The game suggests making them a secret history, one with its tragic side: History cannot be overturned. The Agents do not keep the plague out of the city; they decide what happens at the gate of the lazaretto. They act at the margins or in the shadows, and give known events another meaning.
+
+A table may prefer a history that branches. It is one of the choices to make before playing (see [Tuning the Game](tuning.md#timescales)).
 
 ## The Horizons
 

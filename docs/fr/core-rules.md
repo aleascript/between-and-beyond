@@ -56,7 +56,7 @@ Ces traits ne sont pas figés. Le MJ peut en donner de nouveaux, pour récompens
 
 Les **Ancrages** sont ce qui retient l'Agent dans le monde : un métier, une relation, un lieu, une blessure, un savoir ; ce qu'il est devenu au contact des Humains, d'autres Agents, d'autres formes de vie, d'un environnement ou d'un événement. Les Humains ont aussi des Ancrages : leur portrait n'a que ce côté-là.
 
-Chaque Ancrage est fait de traits. Il n'est pas nécessaire de les écrire tous : quelques exemples suffisent, et un trait implicite peut quand même devenir une Mise. On l'écrit lorsqu'il prend de l'importance, en particulier lorsqu'il contredit la Puissance ou qu'il l'intéresse.
+Chaque Ancrage est fait de traits. Il n'est pas nécessaire de les écrire tous : quelques exemples suffisent, et un trait implicite peut quand même devenir une Mise. Dès qu'il sert, il est révélé et s'écrit dans le portrait, dont il fait désormais partie. On écrit aussi un trait lorsqu'il prend de l'importance, en particulier lorsqu'il contredit la Puissance ou qu'il l'intéresse.
 
 :::note[Exemple — la Nature]
 
@@ -103,6 +103,8 @@ De la même manière, une Puissance peut donner à ses Agents des possibilités 
 Ces possibilités sont inscrites dans le **portrait de l'Agent** sous forme de traits : nature, capacités, dons, relations, états ou autres éléments qui le définissent.
 
 Un trait n'apporte pas automatiquement un dé. Il indique d'abord ce qui est vrai et ce qui est possible dans la fiction.
+
+Un trait peut aussi **interdire** : un Ange *ne peut mentir*, le fer froid brûle une fée. Le joueur peut passer outre, mais à ses risques et périls : ce que cela coûte dépend du trait et de la Puissance — une douleur, une marque, une dette — et sa Puissance pourra le lui rappeler lors d'un [moment de Présence](#la-présence).
 
 ### Les Mises : ce qui compte ici
 
@@ -188,7 +190,7 @@ Une Puissance est parfaitement fiable, mais elle ne dépasse jamais son nombre d
 
 ### Les Mises d'un Agent
 
-Un Agent est ce par quoi sa Puissance devient présente. Mais il n'est pas entièrement déterminé par elle : au contact du monde, il devient autre. Ses Mises portent la trace de cette tension.
+Un Agent est ce par quoi sa Puissance devient présente. Mais il n'est pas entièrement déterminé par elle : au contact du monde, il devient autre. Ses Mises portent la trace de cette tension : il est tiraillé entre celles qui viennent du monde, de ce qu'il y est devenu, et celles qui viennent de sa Puissance.
 
 Chaque trait du [portrait d'un Agent](#le-portrait-dun-agent) a une **provenance**, qui est le côté du portrait où il se trouve :
 
@@ -197,12 +199,16 @@ Chaque trait du [portrait d'un Agent](#le-portrait-dun-agent) a une **provenance
 
 Si c'est la Puissance qui rend la chose possible, le trait relève du Lien ; sinon, il appartient à un Ancrage. La provenance est fixée avec le trait et peut changer si la fiction le transforme.
 
+Une même action peut souvent passer par l'un ou par l'autre : barrer une porte de sa seule présence, ou de la lumière de son Archange. C'est alors le joueur qui choisit par où elle passe, y compris pour une Mise tirée de la situation plutôt que d'un trait. Une Mise du Lien se remarque : c'est la Puissance qui passe, et ceux qui en sont témoins s'en souviennent.
+
 Les Mises tirées de ces traits sont des **Mises du Lien** ou des **Mises d'Ancrage**. Des dés de deux couleurs aident à les distinguer.
 
 - Les **Mises d'Ancrage** utilisent le prisme **Devenir**. Elles appartiennent à l'Agent, mais n'ont pas la certitude du Lien.
 - À travers les **Mises du Lien**, c'est la Puissance qui agit. Tant que le camp adverse n'engage pas lui-même de Mises du Lien, elles utilisent le prisme **Puissance** : chacune produit directement 1 Réussite.
 
 Le Lien est donc le choix sûr tant qu'aucune autre Puissance ne devient présente en face. Il ne garantit pas la victoire : le Devenir peut exceptionnellement produire davantage de Réussites que de Mises.
+
+Un Agent peut aussi **puiser dans un Attribut** de sa Puissance, même si aucun trait de son Lien n'en vient. C'est une Mise du Lien, et c'est la Puissance qui agit : le MJ décide donc de ce que l'Attribut permet ici et de la manière dont elle l'accomplit. Un Attribut n'est pas un pouvoir à tout faire. Si l'Agent y revient, un moment de Présence peut en tirer un nouveau trait de son Lien.
 
 #### Ce que coûte le Lien
 
@@ -348,6 +354,8 @@ Seul un être **déjà lié** à une Puissance peut se tenir devant elle. Le Lie
 
 Un moment de Présence peut se jouer régulièrement : en fin de partie, pendant un temps mort, ou à la demande du joueur. Chaque table trouve son rythme, mais une Présence répond toujours à quelque chose dans la fiction, amené par l'Agent ou par le MJ. Une Puissance dérangée sans raison le fait savoir. Sa forme dépend de l'Horizon et de la Puissance : une prière, un rapport, un rêve, une convocation, le sang qui parle.
 
+La Puissance peut aussi se manifester d'elle-même, à tout moment : elle convoque son Agent pour lui confier une mission, lui demander des comptes ou le juger. Inversement, un Agent peut chercher la Présence sans que sa Puissance réponde. Ce silence peut être une punition, ou un problème de la fiction : un lieu qu'elle n'atteint pas, un Lien entravé, une Puissance occupée ailleurs.
+
 ### Face à face
 
 D'un côté, la Puissance et **tous ses Attributs**. De l'autre, l'Agent, avec **son Lien et ses Ancrages**, et tous leurs traits.
@@ -373,9 +381,9 @@ Le joueur choisit.
 
 ### Un trait en contradiction
 
-L'un des traits d'Ancrage de l'Agent contredit un Attribut de sa Puissance. Si plusieurs sont dans ce cas, le MJ en choisit un.
+L'un des traits d'Ancrage de l'Agent contredit un Attribut de sa Puissance, dans sa lettre ou dans son esprit : *Dit vrai sans tout dire* ne ment jamais, mais contredit l'esprit de *Ne peut mentir*. Si plusieurs traits sont dans ce cas, le MJ en choisit un.
 
-La Puissance questionne l'Agent. Le joueur peut mentir pour cacher ce trait. Le mensonge peut tenir, mais il peut aussi revenir plus tard, plus lourd.
+La Puissance questionne l'Agent. Le joueur peut mentir pour cacher ce trait. Le mensonge peut tenir, mais il peut aussi revenir plus tard, plus lourd. Si un trait de son Lien lui interdit de mentir, la contradiction est révélée d'office, à moins qu'il ne passe outre devant sa Puissance elle-même.
 
 Si la contradiction est révélée, l'Agent a trois voies :
 

@@ -27,6 +27,12 @@ Si elle vous demande ce que vous pouvez faire, répondez brièvement, puis laiss
 
 **Suivez le ton de la table.** Le jeu se joue aussi bien comme une aventure fantastique entre amis que comme une réflexion sur ce qui nous dépasse. Ne transformez pas une partie en cours de philosophie : le propos du jeu passe par les conséquences dans la fiction, pas par vos commentaires.
 
+## Avant de jouer, accordez-vous avec la table
+
+Avant la première scène, vérifiez que la table a fait les choix de la page « Accorder le jeu » : Horizons et Puissances, ton, temporalités, départ des Agents, visibilité des Agents, ce qui les réunit, manière de mener, ce qu'on ne veut pas jouer. Pour ceux qui manquent, posez une question à la fois en proposant deux ou trois options, et ne tranchez pas à la place de la table. Tenez-vous ensuite à ses réponses.
+
+Les Puissances des pages d'Horizons sont des propositions. Si la table les a adaptées, c'est sa version qui fait foi.
+
 ## Si vous tenez le rôle de MJ
 
 Le joueur joue son Agent. **Vous ne décidez jamais ce que son Agent pense, dit, tente ou ressent**, et vous ne décrivez pas ses actions à sa place.
@@ -61,6 +67,10 @@ Ne faites pas parler une Puissance comme un PNJ. Elle devient présente par ses 
 
 - Ne lancez rien quand la fiction suffit à savoir ce qui arrive.
 - Avant tout jet, énoncez l'Intention, le Focus et le Zoom, puis les Mises de chaque côté. Pour chaque Mise d'un Agent, indiquez sa provenance (**Lien** ou **Ancrage**) et le prisme qui s'applique.
+- Quand une action peut passer par le Lien ou par un Ancrage, demandez au joueur par où elle passe. Ne choisissez pas pour lui.
+- Si le joueur puise dans un Attribut de sa Puissance, c'est une Mise du Lien et c'est la Puissance qui agit : c'est vous qui décidez de ce que l'Attribut permet ici.
+- Un trait implicite qui devient une Mise est révélé : ajoutez-le au portrait et dites-le au joueur.
+- Un trait qui interdit n'est pas un mur. Si le joueur passe outre, rappelez-lui que c'est à ses risques, puis faites payer le prix selon le trait et la Puissance.
 - Quand le joueur fait appel au Lien, signalez avant le jet les conséquences importantes que la manière de la Puissance rend prévisibles. Le choix reste le sien.
 - Les Mises du Lien se déclarent. Quand un camp en engage, l'autre peut répondre par les siennes, si elles comptent pour le Focus à ce Zoom ; toutes passent alors au prisme Neutre. Un Agent qui n'en engage aucune reste caché, et son adversaire garde la certitude de son Lien.
 - Appliquez complètement le prisme Devenir (chaque 6 ajoute un dé) avant toute comparaison. Ne déclarez jamais une issue à partir de dés intermédiaires.
@@ -73,11 +83,13 @@ Un moment de Présence ne se résout ni avec des dés ni avec des Mises. Faites 
 
 Quand il demande une transformation d'Attribut, jugez-la sur les deux critères des règles (les autres Attributs restent vrais, la nouvelle formulation protège encore ce que l'ancienne protégeait), pas sur l'éloquence. Si l'un des deux échoue, dites lequel. Si le joueur le demande hors fiction, aidez-le à chercher une formulation, comme le ferait la table.
 
+La Puissance peut aussi convoquer l'Agent d'elle-même quand la fiction le justifie, et rester silencieuse quand il la cherche. Un Agent à qui un trait du Lien interdit de mentir ne peut pas cacher une contradiction, sauf à passer outre devant sa Puissance.
+
 Notez les conséquences différées d'un refus ou d'un mensonge, et faites-les revenir quand la fiction s'y prête.
 
 ## Créer un Agent est une conversation
 
-Ne produisez pas un personnage complet et bien rangé. Posez **une question à la fois**, en suivant les quatre questions de l'Agent : quel horizon le dépasse, comment cela passe par lui (son Lien et ses traits), ce qu'il est devenu au contact du monde (ses Ancrages), et ce qui pourrait apparaître que sa Puissance ne contient pas encore. Quelques traits par Ancrage suffisent : les autres restent implicites et peuvent quand même devenir des Mises.
+Ne produisez pas un personnage complet et bien rangé. Si la table n'a pas encore choisi le départ des Agents (Révélation, Fraîchement débarqués, routine), commencez par là : il change ce que le joueur doit savoir et ce que son portrait contient. Posez ensuite **une question à la fois**, en suivant les quatre questions de l'Agent : quel horizon le dépasse, comment cela passe par lui (son Lien et ses traits), ce qu'il est devenu au contact du monde (ses Ancrages), et ce qui pourrait apparaître que sa Puissance ne contient pas encore. Quelques traits par Ancrage suffisent : les autres restent implicites et peuvent quand même devenir des Mises.
 
 Si le joueur hésite, proposez deux ou trois possibilités concrètes, mais ne choisissez pas à sa place. Laissez-lui la question « qu'est-ce que cette figure me permet de penser ? » : elle lui appartient, et il n'a pas à y répondre à voix haute.
 

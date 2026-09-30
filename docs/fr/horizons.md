@@ -36,6 +36,12 @@ Chaque famille d'Agents doit aussi pouvoir dire pourquoi elle est une figure de 
 
 Une figure qui ne répond à aucune de ces questions n'a pas sa place dans un Horizon, même si « ce serait cool ».
 
+## Des propositions, pas une vérité
+
+Les Puissances, leurs Attributs et leurs familles d'Agents sont donnés à titre indicatif. Ils ne sont pas la vérité du jeu ni un lore officiel : une autre table ferait parler autrement la Mort ou le Divin, et c'est bien ainsi.
+
+Le jeu invite au contraire chaque MJ et chaque table à les adapter, les supprimer ou les amender selon le jeu qu'ils veulent jouer, pourvu que chaque Puissance réponde encore aux trois questions ci-dessus. [Accorder le jeu](tuning.md) dit comment s'y prendre.
+
 ## Choisir sa figure
 
 Choisir un Agent, c'est aussi choisir la figure depuis laquelle on veut approcher ce qui nous dépasse. Au moment de la création, chaque joueur peut se poser une question — à lui-même, pas à son personnage :
@@ -48,7 +54,7 @@ Personne n'a besoin d'y répondre à voix haute. Mais la réponse dit souvent ce
 
 La plupart des humains ignorent les Agents. Pas tous : certains savent qu'ils existent, en connaissent, en ont croisé, leur doivent quelque chose ou les craignent. Ce savoir n'est jamais anodin. Il fait d'eux des alliés, des témoins, des proies ou des Forces avec lesquelles les Agents doivent compter.
 
-Le jeu n'est pas fait pour jouer un humain ordinaire qui aurait été initié. Un joueur peut pourtant commencer ainsi, si son personnage devient Agent très tôt, dès la première séance. Et un Agent qui [redevient humain](core-rules.md#perdre-son-lien) reste l'un de ceux qui savent.
+Le jeu n'est pas fait pour jouer un humain ordinaire qui aurait été initié. Un joueur peut pourtant commencer ainsi, si son personnage devient Agent très tôt, dès la première séance : c'est le départ en [Révélation](tuning.md#le-départ-des-agents). Et un Agent qui [redevient humain](core-rules.md#perdre-son-lien) reste l'un de ceux qui savent.
 
 ## Combiner
 
@@ -87,11 +93,25 @@ Chaque Horizon indique les tonalités auxquelles il se prête.
 
 ## Temporalités
 
-Une campagne peut rester dans une seule époque ou traverser des années, des siècles ou des millénaires. Des Agents immortels ou très anciens peuvent faire du changement historique une matière de jeu, mais cette possibilité n'est jamais obligatoire.
+Une campagne peut rester dans une seule époque ou traverser des années, des siècles ou des millénaires. Le changement historique peut devenir une matière de jeu, mais cette possibilité n'est jamais obligatoire.
 
 Chaque époque a son horizon : on ne voit pas la mort, le divin ou l'inconnu de la même manière d'un siècle à l'autre. Une campagne qui traverse les âges permet de voir ce qu'un Horizon devient — et ce que les Agents ont fait de leurs Puissances.
 
 Chaque Horizon indique aussi les échelles de temps qui lui conviennent. Pour [le Temps](deep-time.md), la temporalité d'une campagne devient le sujet même du jeu.
+
+### Traverser les âges
+
+Trois voies permettent de jouer des temporalités longues.
+
+- **L'immortalité.** L'Agent dure, comme le vampire ou l'Éminence qui a conseillé les pharaons. Il garde ses Ancrages, mais le temps les use : ceux qu'il aime meurent, son métier disparaît, sa ville change de nom. Il lui faut s'en faire d'autres, ou n'être bientôt plus que son Lien.
+- **La réincarnation.** L'Agent revient, d'une vie à l'autre. Son Lien demeure, puisque sa Puissance le retrouve ; ses Ancrages sont ceux d'une nouvelle vie. Il en reste parfois un trait, qui se souvient.
+- **La succession.** La Puissance demeure, et les joueurs incarnent ses Agents d'une époque à l'autre. Ce qu'un Agent lui a apporté, ceux qui viennent après en héritent.
+
+### Jouer avec l'Histoire
+
+Une campagne à travers les âges croise de grands événements : la chute de Rome, la peste, la prise de la Bastille. Le jeu propose d'en faire une histoire secrète, qui a sa part tragique : l'Histoire ne se renverse pas. Les Agents n'empêchent pas la peste d'entrer dans la ville ; ils décident de ce qui se passe à la porte du lazaret. Ils agissent à la marge ou dans l'ombre, et donnent aux événements connus un autre sens.
+
+Une table peut préférer une histoire qui bifurque. C'est l'un des choix à faire avant de jouer (voir [Accorder le jeu](tuning.md#les-temporalités)).
 
 ## Les Horizons
 

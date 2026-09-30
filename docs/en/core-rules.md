@@ -56,7 +56,7 @@ These traits are not fixed. The GM may grant new ones, to reward an Agent or to 
 
 **Anchors** are what hold the Agent in the world: a trade, a relationship, a place, a wound, a skill; what they have become through contact with Humans, other Agents, other forms of life, an environment, or an event. Humans have Anchors too: their portrait has only that side.
 
-Each Anchor is made of traits. There is no need to write them all down: a few examples are enough, and an implicit trait can still become a Bet. It gets written down once it matters, especially when it contradicts the Power or interests it.
+Each Anchor is made of traits. There is no need to write them all down: a few examples are enough, and an implicit trait can still become a Bet. As soon as it is used, it is revealed and written into the portrait, of which it is now part. A trait also gets written down once it matters, especially when it contradicts the Power or interests it.
 
 :::note[Example — Nature]
 
@@ -103,6 +103,8 @@ Likewise, a Power may grant its Agents possibilities that Humans — or Agents o
 These possibilities are written into the **Agent's portrait** as traits: nature, abilities, gifts, relationships, states, or other elements that define them.
 
 A trait does not automatically grant a die. It first establishes what is true and what is possible in the fiction.
+
+A trait can also **forbid**: an Angel *cannot lie*, cold iron burns a fairy. The player can override it, but at their own risk: what it costs depends on the trait and the Power — pain, a mark, a debt — and their Power may remind them of it during a [moment of Presence](#presence).
 
 ### Bets: What Matters Here
 
@@ -188,7 +190,7 @@ A Power is perfectly reliable, but it never exceeds its number of Bets: it alrea
 
 ### An Agent's Bets
 
-An Agent is how their Power becomes present. But they are not entirely determined by it: through contact with the world, they become other. Their Bets carry the mark of this tension.
+An Agent is how their Power becomes present. But they are not entirely determined by it: through contact with the world, they become other. Their Bets carry the mark of this tension: they are torn between Bets that come from the world, from what they have become in it, and Bets that come from their Power.
 
 Each trait in an [Agent's portrait](#an-agents-portrait) has an **origin**, which is the side of the portrait it sits on:
 
@@ -197,12 +199,16 @@ Each trait in an [Agent's portrait](#an-agents-portrait) has an **origin**, whic
 
 If the Power is what makes the thing possible, the trait belongs to the Bond; otherwise, it belongs to an Anchor. The origin is set with the trait and may change if the fiction transforms it.
 
+The same action can often pass through either side: barring a door by one's mere presence, or by the light of one's Archangel. The player then chooses which way it goes, including for a Bet drawn from the situation rather than from a trait. A Bond Bet gets noticed: it is the Power passing through, and those who witness it remember.
+
 Bets drawn from these traits are **Bond Bets** or **Anchor Bets**. Dice in two colors help tell them apart.
 
 - **Anchor Bets** use the **Becoming** prism. They belong to the Agent, but lack the certainty of the Bond.
 - Through **Bond Bets**, the Power itself acts. As long as the opposing side does not commit Bond Bets of its own, they use the **Power** prism: each one directly produces 1 Success.
 
 The Bond is therefore the safe choice as long as no other Power becomes present in opposition. It does not guarantee victory: Becoming may exceptionally produce more Successes than Bets.
+
+An Agent can also **draw on an Attribute** of their Power, even if none of their Bond traits comes from it. It is a Bond Bet, and the Power is the one acting: the GM therefore decides what the Attribute allows here and the manner in which the Power achieves it. An Attribute is not an all-purpose power. If the Agent keeps coming back to it, a moment of Presence can draw a new Bond trait from it.
 
 #### The Cost of the Bond
 
@@ -348,6 +354,8 @@ Only a being **already bound** to a Power can stand before it. The Bond is preci
 
 A moment of Presence can be played regularly: at the end of a session, during a lull, or at the player's request. Each table finds its own rhythm, but a moment of Presence always answers something in the fiction, brought about by the Agent or by the GM. A Power disturbed for no reason makes it known. Its form depends on the Horizon and the Power: a prayer, a report, a dream, a summons, the blood speaking.
 
+The Power may also manifest on its own, at any time: it summons its Agent to give them a mission, call them to account, or judge them. Conversely, an Agent may seek Presence and get no answer from their Power. That silence may be a punishment, or a problem in the fiction: a place the Power cannot reach, a hindered Bond, a Power busy elsewhere.
+
 ### Face to Face
 
 On one side, the Power and **all of its Attributes**. On the other, the Agent, with **their Bond and their Anchors**, and all their traits.
@@ -373,9 +381,9 @@ The player chooses.
 
 ### A Trait in Contradiction
 
-One of the Agent's Anchor traits contradicts an Attribute of their Power. If several do, the GM chooses one.
+One of the Agent's Anchor traits contradicts an Attribute of their Power, in its letter or in its spirit: *Tells the truth without telling all* never lies, but contradicts the spirit of *Cannot lie*. If several traits do, the GM chooses one.
 
-The Power questions the Agent. The player may lie to hide that trait. The lie may hold, but it may also come back later, heavier.
+The Power questions the Agent. The player may lie to hide that trait. The lie may hold, but it may also come back later, heavier. If one of their Bond traits forbids them to lie, the contradiction is revealed at once, unless they override it before their Power itself.
 
 If the contradiction is revealed, the Agent has three paths:
 
