@@ -8,13 +8,13 @@ description: What we have made together and what now exceeds us.
 
 > We made it. No one commands it.
 
-The Collective is the Horizon of what humans have made together and what now exceeds them: Money, the Nation, the City, Communication. No one wanted it as it is; millions of gestures produced it, and it now acts on each of us.
+The Collective is the Horizon of what humans have made together and what now exceeds them: Money, the Nation, the City, Communication, Technology. No one wanted it as it is; millions of gestures produced it, and it now acts on each of us.
 
 It is the most recent Horizon in appearance, and the oldest in reality: the Romans already honored the genius of every city. Old gods sometimes fade when no one honors them anymore; new ones are born from our habits.
 
 ## Why Agents
 
-**The difference of scale.** The Collective is made of millions of people, yet none of them can grasp it. It has no body, no face, no hand. To act somewhere, it needs someone to embody it: the one who sets a price, who carries a flag, who speaks to millions.
+**The difference of scale.** The Collective is made of millions of people, yet none of them can grasp it. It has no body, no face, no hand. To act somewhere, it needs someone to embody it: the one who sets a price, who carries a flag, who holds the tool, who speaks to millions.
 
 **What each side experiences.** Through Agents, humans experience being carried — or crushed — by something greater than themselves, which they nonetheless made. Through them, the Collective meets what it does not contain: a face, an exception, a conscience, a refusal.
 
@@ -57,6 +57,15 @@ Strangers living together.
 - *Never sleeps*
 - *Rebuilds itself on itself*
 - *Forgets its inhabitants*
+
+### Technology
+
+The tool, and what the tool makes of us.
+
+- *Does things in our place*
+- *Whatever can be done will be done*
+- *Never goes back*
+- *Escapes those who made it*
 
 ## Families of Agents
 
@@ -102,13 +111,25 @@ The spirit of a neighborhood, a street, a station. The Bond is a place.
 
 **What the figure lets us think:** dwelling; a place that remembers those who lived there.
 
+### Artificers — Technology
+
+Smiths, builders, inventors, engineers: Wayland the Smith, Daedalus who built the labyrinth and gave his son wings, the rabbi of Prague who shaped the Golem. The Bond is a tool.
+
+- *Their hands know before they do*, from the tool itself;
+- *Always finds a way*, from *Whatever can be done will be done*;
+- *What they make escapes them*, from *Escapes those who made it*.
+
+**What the figure lets us think:** making, and being made by what one makes; what we lose when a machine does it in our place; being able to do something, and choosing to refrain.
+
 ## What appears
 
 - coinage, then paper money, then credit;
 - civil registries, identity cards, passports, borders;
 - printing, the telegraph, radio, a telephone in every pocket;
 - the subway, street lighting, the city that no longer sleeps;
+- the wheel, the plow, the mill, then the steam engine and the computer;
 - currencies without banks;
+- repair, the shared workshop, the moratorium: what we choose not to do;
 - the gift, which never stopped existing alongside exchange.
 
 ## An Agent
@@ -125,7 +146,7 @@ Money believes that *everything can be exchanged*. Samir knows that some things 
 
 ## Situations
 
-**Bringing a novelty.** A Voice discovers village gossip, far older than itself; a Genius Loci discovers remote work, and a city emptying out.
+**Bringing a novelty.** A Voice discovers village gossip, far older than itself; a Genius Loci discovers remote work, and a city emptying out; an Artificer discovers the moratorium, and that one can choose not to do what one knows how to do.
 
 **Contending for a novelty.** Currencies without banks appear. Money wants them; Communication claims them, since they are nothing but messages; the Nation fears them, since they ignore borders. Their Agents contend over what they will become.
 
@@ -137,4 +158,4 @@ The Collective lends itself to satire, thriller, social drama, and political fab
 
 It also sheds light on the other Horizons: an ancient god of the Divine may discover that Communication does better than it does, and a Power of the Collective that ancient rites were already technologies.
 
-It joins [Authority](authority.md): the Crown and Revolution contend for the sovereignty of the Nation, but the Nation belongs to neither.
+It joins [Authority](authority.md): the Crown and Revolution contend for the sovereignty of the Nation, but the Nation belongs to neither. Through Technology, it also joins [Destruction](destruction.md): the bomb is the work that has most escaped those who made it.

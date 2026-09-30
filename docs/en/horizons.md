@@ -139,7 +139,7 @@ The figures you already know have their place. They are simply arranged by what 
 | sandmen, nightmares, incubi, dream messengers | [Dreams](dreams.md) |
 | immortals, oracles, the reincarnated, the chosen of destiny | [Time](deep-time.md) |
 | extraterrestrials, hybrids, contactees, cosmic horror | [the Unknown](unknown.md) |
-| new gods of money, media, and nation, spirits of cities | [the Collective](collective.md) |
+| new gods of money, media, and nation, spirits of cities, legendary smiths, golems | [the Collective](collective.md) |
 | kings' lieutenants, gray eminences, spies, Prometheus, Robin Hood | [Authority](authority.md) |
 | Cupid, muses, bacchantes, ogres | [Desire](desire.md) |
 | berserkers, tricksters, horsemen of the Apocalypse, giant monsters | [Destruction](destruction.md) |

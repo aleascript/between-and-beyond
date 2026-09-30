@@ -139,7 +139,7 @@ Les figures que vous connaissez déjà ont leur place. Elles se rangent simpleme
 | marchands de sable, cauchemars, incubes, messagers des songes | [les Rêves](dreams.md) |
 | immortels, oracles, réincarnés, élus du destin | [le Temps](deep-time.md) |
 | extraterrestres, hybrides, contactés, horreur cosmique | [l'Inconnu](unknown.md) |
-| nouveaux dieux de l'argent, des médias, de la nation, esprits des villes | [le Collectif](collective.md) |
+| nouveaux dieux de l'argent, des médias, de la nation, esprits des villes, forgerons de légende, golems | [le Collectif](collective.md) |
 | rois et lieutenants, éminences grises, espions, Prométhée, Robin des Bois | [le Pouvoir](authority.md) |
 | Cupidon, muses, bacchantes, ogres | [le Désir](desire.md) |
 | berserkers, tricksters, cavaliers de l'Apocalypse, monstres géants | [la Destruction](destruction.md) |
