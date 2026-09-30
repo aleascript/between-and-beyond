@@ -30,7 +30,7 @@ The players take on the roles of these **Agents**. [What This Game Is About](pur
 
 ## Horizon, Powers, Agents
 
-Every game is played on a **Horizon**: something that exceeds us, such as Death. Several **Powers** are its forms, depending on the age and the culture. Each becomes present in the world through its **Agents**.
+A **Horizon** is something that exceeds us, such as Death or the Divine. Several **Powers** are its forms, depending on the age and the culture. Each becomes present in the world through its **Agents**. A game can explore a single Horizon or bring together Powers from several.
 
 The game calls **Becoming** the part of a being or the world that is not entirely determined by what it already is. Humanity is often a major source of it — through relationships, creations, institutions, and contradictions — but Humanity does not have a monopoly on Becoming. Other Agents, other forms of life, environments, events, or chance may just as well make an Agent become other.
 
@@ -47,3 +47,4 @@ Every Agent answers four questions:
 - [Core Rules](core-rules) — the common game rules.
 - [Horizons](horizons) — what exceeds us, its Powers, and their Agents, with their tones and timescales: [Death](death), [the Divine](divine), [Dreams](dreams), [Time](deep-time), [the Unknown](unknown), [the Collective](collective), [Authority](authority), [Desire](desire), [Destruction](destruction), [Nature](nature).
 - [Situations](situations) — preparing what sets the Agents in motion.
+- [Tuning the Game](tuning) — making this proposal your table's own game.

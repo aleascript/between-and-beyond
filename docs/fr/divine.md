@@ -58,6 +58,42 @@ Un ordre impersonnel du monde, qui ne parle pas mais accorde et retire sa faveur
 - *Ne parle pas*
 - *Punit le désordre par le désordre*
 
+### La Cour
+
+Le Glaive et l'Abîme ne sont pas seuls. Une table qui veut une Cour céleste et infernale peut faire de chaque Archange et de chaque Prince une Puissance à part entière. Il part des Attributs du Glaive ou de l'Abîme, et les infléchit par ce qui n'appartient qu'à lui : l'Attribut proposé ci-dessous peut en remplacer un, ou s'y ajouter.
+
+Les traditions en fournissent beaucoup. En voici quelques-uns.
+
+**Les Archanges du Glaive**
+
+- **Michel**, chef des armées célestes, qui terrasse le dragon de l'Apocalypse : *Ne recule devant aucun ennemi*.
+- **Gabriel**, le messager de l'Annonciation : *Annonce ce qui va naître*.
+- **Raphaël**, qui guérit et accompagne le jeune Tobie sur la route : *Guérit ceux qu'il accompagne*.
+- **Uriel**, la lumière de Dieu, qui dans le livre d'Hénoch veille sur le monde et sur le Tartare : *Éclaire ce qui est caché*.
+- **Raguel**, l'ami de Dieu, qui dans le même livre châtie le monde des astres : *Rappelle à l'ordre ce qui s'écarte*.
+- **Azraël**, qui dans les traditions de l'islam sépare l'âme du corps : *Sait l'heure de chacun*. Il regarde aussi vers la Mort.
+- **Mashit**, l'Exterminateur, qui frappe l'Égypte puis Jérusalem : *Frappe quand on le lui ordonne*.
+- **Métatron**, le scribe céleste : *Écrit tout ce qui arrive*.
+
+**Les Princes de l'Abîme**
+
+En 1589, le théologien Peter Binsfeld attribua à chacun des sept péchés capitaux son Prince.
+
+- **Lucifer**, l'orgueil, le porteur de lumière tombé : *Ne plie devant personne*.
+- **Mammon**, l'avarice, qui chasse sur les terres d'Argent : *Tout a son prix*.
+- **Asmodée**, la luxure, que Raphaël enchaîne dans le livre de Tobie : *Défait les unions*.
+- **Satan**, la colère, l'accusateur du livre de Job : *Accuse*.
+- **Belzébuth**, la gourmandise, le seigneur des mouches : *N'est jamais rassasié*.
+- **Léviathan**, l'envie, le monstre des eaux : *Veut ce qui est à l'autre*.
+- **Belphégor**, la paresse : *Rend tout effort inutile*.
+
+D'autres n'ont pas de péché attitré :
+
+- **Azazel**, vers qui l'on chasse au désert le bouc chargé des fautes du peuple, et qui selon le livre d'Hénoch enseigna aux hommes les armes et les parures : *Porte la faute des autres*.
+- **Lilith**, qui refusa de se soumettre à Adam : *Ne se soumet pas*.
+
+Une Cour fait du Divin un Horizon d'intrigues. Les Archanges ne s'affrontent pas plus directement que les autres Puissances, mais leurs Anges se croisent sans cesse — et ceux des Princes aussi.
+
 ## Familles d'Agents
 
 Les traits proposés sont des traits **du Lien** : chacun vient de la relation elle-même ou de l'Attribut indiqué. Les Ancrages de l'Agent lui appartiennent et restent à écrire.

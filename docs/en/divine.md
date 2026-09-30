@@ -58,6 +58,42 @@ An impersonal order of the world, which does not speak but grants and withdraws 
 - *Does not speak*
 - *Punishes disorder with disorder*
 
+### The Court
+
+The Sword and the Abyss are not alone. A table that wants a heavenly and infernal Court can make each Archangel and each Prince a Power in its own right. Each starts from the Attributes of the Sword or the Abyss, and bends them with what belongs to it alone: the Attribute suggested below can replace one of them, or be added to them.
+
+The traditions provide many. Here are a few.
+
+**The Archangels of the Sword**
+
+- **Michael**, commander of the heavenly hosts, who casts down the dragon of the Apocalypse: *Never retreats before an enemy*.
+- **Gabriel**, the messenger of the Annunciation: *Announces what is to be born*.
+- **Raphael**, who heals and walks the road with young Tobias: *Heals those he accompanies*.
+- **Uriel**, the light of God, who in the Book of Enoch watches over the world and over Tartarus: *Brings hidden things to light*.
+- **Raguel**, the friend of God, who in the same book punishes the world of the luminaries: *Calls to order what strays*.
+- **Azrael**, who in Islamic traditions separates the soul from the body: *Knows everyone's hour*. He also looks toward Death.
+- **Mashit**, the Destroyer, who strikes Egypt and then Jerusalem: *Strikes when ordered to*.
+- **Metatron**, the heavenly scribe: *Writes down everything that happens*.
+
+**The Princes of the Abyss**
+
+In 1589, the theologian Peter Binsfeld assigned a Prince to each of the seven deadly sins.
+
+- **Lucifer**, pride, the fallen light-bearer: *Bows to no one*.
+- **Mammon**, avarice, who hunts on Money's grounds: *Everything has its price*.
+- **Asmodeus**, lust, whom Raphael binds in the Book of Tobit: *Undoes unions*.
+- **Satan**, wrath, the accuser of the Book of Job: *Accuses*.
+- **Beelzebub**, gluttony, the lord of the flies: *Is never sated*.
+- **Leviathan**, envy, the monster of the waters: *Wants what belongs to another*.
+- **Belphegor**, sloth: *Makes every effort useless*.
+
+Others have no sin of their own:
+
+- **Azazel**, to whom the goat laden with the people's sins is driven into the desert, and who according to the Book of Enoch taught humans weapons and adornment: *Bears the fault of others*.
+- **Lilith**, who refused to submit to Adam: *Does not submit*.
+
+A Court makes the Divine a Horizon of intrigue. The Archangels do not confront each other directly any more than other Powers do, but their Angels cross paths constantly — and so do those of the Princes.
+
 ## Families of Agents
 
 The suggested traits are **Bond** traits: each comes from the relationship itself or from the Attribute shown. The Agent's Anchors belong to them and remain to be written.

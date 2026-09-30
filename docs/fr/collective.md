@@ -8,13 +8,13 @@ description: Ce que nous avons fait ensemble et qui nous dépasse désormais.
 
 > Nous l'avons fait. Personne ne le commande.
 
-Le Collectif est l'Horizon de ce que les humains ont fait ensemble et qui les dépasse désormais : l'Argent, la Nation, la Ville, Communication. Personne ne l'a voulu tel qu'il est ; des millions de gestes l'ont produit, et il agit maintenant sur chacun.
+Le Collectif est l'Horizon de ce que les humains ont fait ensemble et qui les dépasse désormais : l'Argent, la Nation, la Ville, Communication, la Technique. Personne ne l'a voulu tel qu'il est ; des millions de gestes l'ont produit, et il agit maintenant sur chacun.
 
 C'est l'Horizon le plus récent en apparence, et le plus ancien en réalité : les Romains honoraient déjà le génie de chaque cité. Les anciens dieux s'effacent parfois quand on cesse de les honorer ; les nouveaux naissent de nos habitudes.
 
 ## Pourquoi des Agents
 
-**La différence d'échelle.** Le Collectif est fait de millions de personnes, mais aucune ne peut le saisir. Il n'a ni corps, ni visage, ni main. Pour agir quelque part, il lui faut quelqu'un qui l'incarne : celui qui fixe un prix, qui porte un drapeau, qui parle à des millions de gens.
+**La différence d'échelle.** Le Collectif est fait de millions de personnes, mais aucune ne peut le saisir. Il n'a ni corps, ni visage, ni main. Pour agir quelque part, il lui faut quelqu'un qui l'incarne : celui qui fixe un prix, qui porte un drapeau, qui tient l'outil, qui parle à des millions de gens.
 
 **Ce que chaque côté éprouve.** Par les Agents, les humains éprouvent d'être portés — ou écrasés — par quelque chose de plus grand qu'eux, qu'ils ont pourtant fait. Par eux, le Collectif rencontre ce qu'il ne contient pas : un visage, une exception, une conscience, un refus.
 
@@ -57,6 +57,15 @@ Des étrangers qui vivent ensemble.
 - *Ne dort jamais*
 - *Se reconstruit sur elle-même*
 - *Oublie ses habitants*
+
+### La Technique
+
+L'outil, et ce que l'outil fait de nous.
+
+- *Fait à notre place*
+- *Tout ce qui peut être fait sera fait*
+- *Ne revient pas en arrière*
+- *Échappe à qui l'a faite*
 
 ## Familles d'Agents
 
@@ -102,13 +111,25 @@ L'esprit d'un quartier, d'une rue, d'une gare. Le Lien est un lieu.
 
 **Ce que la figure permet de penser :** habiter ; un lieu qui se souvient de ceux qui y ont vécu.
 
+### Dédales — la Technique
+
+Forgerons, bâtisseurs, inventeurs, ingénieurs : Wieland le forgeron, Dédale qui bâtit le labyrinthe et donna des ailes à son fils, le rabbin de Prague qui façonna le Golem. Le Lien est un outil.
+
+- *Ses mains savent avant lui*, de l'outil lui-même ;
+- *Trouve toujours un moyen*, de *Tout ce qui peut être fait sera fait* ;
+- *Ce qu'il fabrique lui échappe*, d'*Échappe à qui l'a faite*.
+
+**Ce que la figure permet de penser :** faire, et être fait par ce qu'on fait ; ce qu'on perd quand une machine le fait à notre place ; pouvoir faire, et choisir de s'abstenir.
+
 ## Ce qui apparaît
 
 - la monnaie, puis le papier-monnaie, puis le crédit ;
 - l'état civil, la carte d'identité, le passeport, la frontière ;
 - l'imprimerie, le télégraphe, la radio, le téléphone dans chaque poche ;
 - le métro, l'éclairage public, la ville qui ne dort plus ;
+- la roue, la charrue, le moulin, puis la machine à vapeur et le calculateur ;
 - les monnaies sans banque ;
+- la réparation, l'atelier partagé, le moratoire : ce qu'on choisit de ne pas faire ;
 - le don, qui n'a jamais cessé d'exister à côté de l'échange.
 
 ## Un Agent
@@ -125,7 +146,7 @@ Argent pense que *tout s'échange*. Samir sait que certaines choses ne se renden
 
 ## Situations
 
-**Apporter une nouveauté.** Une Voix découvre la rumeur de village, bien plus ancienne qu'elle ; un Génie du lieu découvre le télétravail, et une ville qui se vide.
+**Apporter une nouveauté.** Une Voix découvre la rumeur de village, bien plus ancienne qu'elle ; un Génie du lieu découvre le télétravail, et une ville qui se vide ; un Dédale découvre le moratoire, et qu'on peut choisir de ne pas faire ce qu'on sait faire.
 
 **Disputer une nouveauté.** Des monnaies sans banque apparaissent. Argent les veut ; Communication les revendique, puisqu'elles ne sont que des messages ; la Nation les craint, puisqu'elles ignorent les frontières. Leurs Agents se disputent ce qu'elles deviendront.
 
@@ -137,4 +158,4 @@ Le Collectif se prête à la satire, au thriller, au drame social, à la fable p
 
 Il éclaire aussi les autres Horizons : un ancien dieu du Divin peut découvrir que Communication fait mieux que lui, et une Puissance du Collectif que les rites anciens étaient déjà des technologies.
 
-Il rejoint [le Pouvoir](authority.md) : la Couronne et la Révolution se disputent la souveraineté de la Nation, mais la Nation n'appartient à aucune des deux.
+Il rejoint [le Pouvoir](authority.md) : la Couronne et la Révolution se disputent la souveraineté de la Nation, mais la Nation n'appartient à aucune des deux. Par la Technique, il rejoint aussi [la Destruction](destruction.md) : la bombe est l'œuvre qui a le plus échappé à ceux qui l'ont faite.
