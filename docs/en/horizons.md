@@ -101,6 +101,7 @@ Each Horizon also says which timescales suit it. For [Time](deep-time.md), a cam
 - [**Time**](deep-time.md) — what came before Humanity and will outlive it.
 - [**The Unknown**](unknown.md) — what resists all our categories.
 - [**The Collective**](collective.md) — what we have made together and what now exceeds us.
+- [**Authority**](authority.md) — what makes others act, or act together.
 - [**Desire**](desire.md) — what moves us without our having chosen it.
 - [**Destruction**](destruction.md) — what undoes what seemed bound to last.
 - [**Nature**](nature.md) — what lives without us, beyond the edge of the woods.
@@ -119,6 +120,7 @@ The figures you already know have their place. They are simply arranged by what 
 | immortals, oracles, the reincarnated, the chosen of destiny | [Time](deep-time.md) |
 | extraterrestrials, hybrids, contactees, cosmic horror | [the Unknown](unknown.md) |
 | new gods of money, media, and nation, spirits of cities | [the Collective](collective.md) |
+| kings' lieutenants, gray eminences, spies, Prometheus, Robin Hood | [Authority](authority.md) |
 | Cupid, muses, bacchantes, ogres | [Desire](desire.md) |
 | berserkers, tricksters, horsemen of the Apocalypse, giant monsters | [Destruction](destruction.md) |
 | werewolves, fae, pixies, korrigans, dryads, undines | [Nature](nature.md) |

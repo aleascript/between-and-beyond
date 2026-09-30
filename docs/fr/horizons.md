@@ -101,6 +101,7 @@ Chaque Horizon indique aussi les échelles de temps qui lui conviennent. Pour [l
 - [**Le Temps**](deep-time.md) — ce qui précède l'Humanité et lui survivra.
 - [**L'Inconnu**](unknown.md) — ce qui résiste à toutes nos catégories.
 - [**Le Collectif**](collective.md) — ce que nous avons fait ensemble et qui nous dépasse désormais.
+- [**Le Pouvoir**](authority.md) — ce qui fait agir les autres, ou agir ensemble.
 - [**Le Désir**](desire.md) — ce qui nous meut sans que nous l'ayons choisi.
 - [**La Destruction**](destruction.md) — ce qui défait ce qui semblait devoir durer.
 - [**La Nature**](nature.md) — ce qui vit sans nous, au-delà de la lisière.
@@ -119,6 +120,7 @@ Les figures que vous connaissez déjà ont leur place. Elles se rangent simpleme
 | immortels, oracles, réincarnés, élus du destin | [le Temps](deep-time.md) |
 | extraterrestres, hybrides, contactés, horreur cosmique | [l'Inconnu](unknown.md) |
 | nouveaux dieux de l'argent, des médias, de la nation, esprits des villes | [le Collectif](collective.md) |
+| rois et lieutenants, éminences grises, espions, Prométhée, Robin des Bois | [le Pouvoir](authority.md) |
 | Cupidon, muses, bacchantes, ogres | [le Désir](desire.md) |
 | berserkers, tricksters, cavaliers de l'Apocalypse, monstres géants | [la Destruction](destruction.md) |
 | loups-garous, fées, pixies, korrigans, dryades, ondines | [la Nature](nature.md) |

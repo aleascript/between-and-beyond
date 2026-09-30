@@ -45,5 +45,5 @@ Chaque Agent répond à quatre questions :
 
 - [Le propos du jeu](purpose) — ce que le jeu explore, et pourquoi on y joue des Agents.
 - [Règles](core-rules) — le socle commun du jeu.
-- [Horizons](horizons) — ce qui nous dépasse, ses Puissances et leurs Agents, avec leurs tonalités et leurs temporalités : [la Mort](death), [le Divin](divine), [les Rêves](dreams), [le Temps](deep-time), [l'Inconnu](unknown), [le Collectif](collective), [le Désir](desire), [la Destruction](destruction), [la Nature](nature).
+- [Horizons](horizons) — ce qui nous dépasse, ses Puissances et leurs Agents, avec leurs tonalités et leurs temporalités : [la Mort](death), [le Divin](divine), [les Rêves](dreams), [le Temps](deep-time), [l'Inconnu](unknown), [le Collectif](collective), [le Pouvoir](authority), [le Désir](desire), [la Destruction](destruction), [la Nature](nature).
 - [Situations](situations) — préparer ce qui met les Agents en mouvement.

@@ -150,6 +150,6 @@ D'autres situations :
 
 La Destruction se prête à l'épopée, au récit de guerre, au post-apocalyptique, au film de monstres, à la tragédie.
 
-Elle rejoint la Mort, qui ramasse ce qu'elle laisse ; le Temps, puisque pour le Cycle chaque fin est un commencement ; le Collectif, puisque la Nation exige des morts.
+Elle rejoint la Mort, qui ramasse ce qu'elle laisse ; le Temps, puisque pour le Cycle chaque fin est un commencement ; le Collectif, puisque la Nation exige des morts ; [le Pouvoir](authority.md), puisque la Guerre prolonge la politique.
 
 Les campagnes à travers les âges y prennent un sens particulier : un même Agent peut voir tomber Troie, Rome, puis une ville d'aujourd'hui, et découvrir que l'on ne détruit plus tout à fait de la même manière.
