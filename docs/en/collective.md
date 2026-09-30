@@ -136,3 +136,5 @@ Money believes that *everything can be exchanged*. Samir knows that some things 
 The Collective lends itself to satire, thriller, social drama, and political fable.
 
 It also sheds light on the other Horizons: an ancient god of the Divine may discover that Communication does better than it does, and a Power of the Collective that ancient rites were already technologies.
+
+It joins [Authority](authority.md): the Crown and Revolution contend for the sovereignty of the Nation, but the Nation belongs to neither.

@@ -11,7 +11,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: t('Horizons', 'Horizons'),
       link: {type: 'doc', id: 'horizons'},
-      items: ['death', 'divine', 'dreams', 'deep-time', 'unknown', 'collective', 'desire', 'destruction', 'nature'],
+      items: ['death', 'divine', 'dreams', 'deep-time', 'unknown', 'collective', 'authority', 'desire', 'destruction', 'nature'],
     },
     'situations',
     {

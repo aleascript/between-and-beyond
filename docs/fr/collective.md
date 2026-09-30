@@ -136,3 +136,5 @@ Argent pense que *tout s'échange*. Samir sait que certaines choses ne se renden
 Le Collectif se prête à la satire, au thriller, au drame social, à la fable politique.
 
 Il éclaire aussi les autres Horizons : un ancien dieu du Divin peut découvrir que Communication fait mieux que lui, et une Puissance du Collectif que les rites anciens étaient déjà des technologies.
+
+Il rejoint [le Pouvoir](authority.md) : la Couronne et la Révolution se disputent la souveraineté de la Nation, mais la Nation n'appartient à aucune des deux.

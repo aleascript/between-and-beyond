@@ -133,4 +133,6 @@ The Sword *judges without appeal*. Azriel has spent years defending the guilty. 
 
 The Divine can be played as a contemporary secret war, an epic tragedy, or a satire — the celestial hierarchy lends itself readily to bureaucracy.
 
+It joins [Authority](authority.md): Heaven grants the Crown its mandate, and Revolution takes it back.
+
 It can also be played across the ages: an angel may have seen writing born, heretics burned, and churches empty.

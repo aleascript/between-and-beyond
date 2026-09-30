@@ -150,6 +150,6 @@ Other situations:
 
 Destruction lends itself to epic, war stories, post-apocalypse, monster films, tragedy.
 
-It joins Death, which gathers what it leaves; Time, since for the Cycle every end is a beginning; the Collective, since the Nation demands the dead.
+It joins Death, which gathers what it leaves; Time, since for the Cycle every end is a beginning; the Collective, since the Nation demands the dead; [Authority](authority.md), since War continues politics.
 
 Campaigns across the ages take on a particular meaning here: the same Agent can watch Troy fall, then Rome, then a city of today, and discover that we no longer destroy in quite the same way.

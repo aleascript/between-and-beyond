@@ -133,4 +133,6 @@ Le Glaive *juge sans appel*. Azriel, lui, a passé des années à défendre des 
 
 Le Divin se joue en guerre secrète contemporaine, en tragédie épique, en satire — la hiérarchie céleste se prête volontiers à la bureaucratie.
 
+Il rejoint [le Pouvoir](authority.md) : le Ciel accorde son mandat à la Couronne, et la Révolution le lui reprend.
+
 Il se joue aussi à travers les âges : un ange peut avoir vu naître l'écriture, brûler les hérétiques, puis se vider les églises.
