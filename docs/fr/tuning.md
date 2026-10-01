@@ -47,7 +47,7 @@ Aventure, tragédie, satire, horreur, fresque… Chaque Horizon indique les [ton
 
 ### Les temporalités
 
-Une seule époque, ou une campagne à travers les âges ? Si les Agents traversent le temps, par l'immortalité, la réincarnation ou la succession, et si l'Histoire peut ou non changer : voir [Temporalités](horizons.md#temporalités).
+Une seule époque, ou une campagne à travers les âges ? Si les Agents traversent le temps, par l'immortalité, la réincarnation ou la succession, et si l'Histoire peut changer, et jusqu'où : voir [Temporalités](horizons.md#temporalités).
 
 ### Le départ des Agents
 
@@ -70,6 +70,8 @@ Qui reconnaît un Agent pour ce qu'il est ?
 - tous les Agents entre eux ;
 - tout le monde, humains compris.
 
+Une Mise du Lien se remarque : une table peut en faire ce qui révèle un Agent. Les Agents d'un même Horizon se reconnaissent, par exemple, mais les autres restent opaques tant qu'ils n'engagent pas de Mise du Lien ; on sent alors quelque chose, sans savoir quoi. Pour un Agent fraîchement débarqué, chaque Agent venu d'ailleurs devient une énigme.
+
 Ce choix change ce que coûte le fait de se révéler (voir [Face à un autre Agent](core-rules.md#face-à-un-autre-agent)) et le nombre de [ceux qui savent](horizons.md#ceux-qui-savent). Il peut aussi varier d'un Horizon à l'autre, ou d'une Puissance à l'autre.
 
 ### Ce qui réunit les Agents
@@ -91,3 +93,27 @@ Chaque 6 ajoute un dé, ou relance d'abord un impair, puis ajoute un dé : les R
 ### Ce qu'on ne veut pas jouer
 
 Les Horizons touchent à la mort, à la foi, au désir, à la violence et au pouvoir. Avant de jouer, la table dit ce qu'elle ne veut pas voir, ou seulement hors champ, et chacun peut le redire en cours de partie.
+
+## Accès et profondeur
+
+Le jeu se joue aussi bien comme une aventure entre amis que comme une réflexion sur ce qui nous dépasse. Ailleurs, la difficulté d'accès est un coût qu'on subit : il faut apprendre un monde, une époque, une culture. Ici, la profondeur se choisit avant de jouer, sans changer les règles.
+
+Plusieurs réglages la font varier, indépendamment les uns des autres :
+
+- **l'Horizon** : la Nature en conte ou le Collectif d'aujourd'hui demandent moins de culture que le Divin ;
+- **l'époque** : une campagne historique demande de connaître l'époque, ses figures et ses querelles ; le présent, presque rien ;
+- **le départ des Agents** : Révélation est le plus accessible, Fraîchement débarqués le plus exigeant ;
+- **le ton** : l'aventure laisse les questions en arrière-plan, la tragédie ou la fresque les rapprochent ;
+- **l'enjeu des Présences** : des missions et des contraintes, ou des contradictions et des Attributs à transformer.
+
+| | Une partie d'initiation | Une partie exigeante |
+| --- | --- | --- |
+| Horizon | le Collectif | le Divin |
+| Époque | aujourd'hui | Marseille, 1720 |
+| Départ | Révélation | Fraîchement débarqués |
+| Ton | aventure | historique et picaresque |
+| Présences | missions et contraintes | contradictions et transformations |
+
+Une partie d'initiation n'est pas une version au rabais : c'est le même jeu, qui laisse ses questions en arrière-plan au lieu de les poser au centre. Dans l'une comme dans l'autre, personne n'a besoin d'être philosophe : l'action suffit. La profondeur vient des conséquences, et se concentre dans les moments de Présence.
+
+Pour une campagne historique, une fiche courte vaut mieux qu'un cours : une dizaine de faits, quelques figures, les querelles de l'époque.

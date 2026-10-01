@@ -104,7 +104,7 @@ These possibilities are written into the **Agent's portrait** as traits: nature,
 
 A trait does not automatically grant a die. It first establishes what is true and what is possible in the fiction.
 
-A trait can also **forbid**: an Angel *cannot lie*, cold iron burns a fairy. The player can override it, but at their own risk: what it costs depends on the trait and the Power — pain, a mark, a debt — and their Power may remind them of it during a [moment of Presence](#presence).
+A trait can also **forbid**: an Angel *cannot lie*, cold iron burns a fairy. The player can override it, but at their own risk. What it costs depends on the trait and the Power, and grows heavier if they do it again: first the body, a pain or a mark; then a debt to their Power; finally one of their Bond traits, which their Power may take away during a [moment of Presence](#presence).
 
 ### Bets: What Matters Here
 
@@ -119,6 +119,8 @@ The same trait may simply make an action possible in one scene, then become a Be
 Each Bet favors one of the two outcomes.
 
 The same reason only counts once. *Exceptional warrior*, *trained since childhood*, and *veteran of a hundred battles* do not automatically form three Bets if, for this resolution, all three simply mean the same thing.
+
+A reason to act is not a Bet. Being on a mission explains why an Agent acts; it does not weigh on the outcome. *Voice of the Archangel* counts toward making someone yield, not because the Archangel sent the Agent.
 
 When nobody immediately sees anything else that matters without repeating what is already in play, resolve.
 
@@ -199,7 +201,7 @@ Each trait in an [Agent's portrait](#an-agents-portrait) has an **origin**, whic
 
 If the Power is what makes the thing possible, the trait belongs to the Bond; otherwise, it belongs to an Anchor. The origin is set with the trait and may change if the fiction transforms it.
 
-The same action can often pass through either side: barring a door by one's mere presence, or by the light of one's Archangel. The player then chooses which way it goes, including for a Bet drawn from the situation rather than from a trait. A Bond Bet gets noticed: it is the Power passing through, and those who witness it remember.
+The same action can often pass through either side: barring a door by one's mere presence, or by the light of one's Archangel. The player then chooses which way it goes, including for a Bet drawn from the situation rather than from a trait. A Bond Bet gets noticed: it is the Power passing through, and those who witness it remember. This also holds for a perception: the Angel who senses evil goes straight to where it hides, and people see them do it.
 
 Bets drawn from these traits are **Bond Bets** or **Anchor Bets**. Dice in two colors help tell them apart.
 
@@ -385,6 +387,8 @@ One of the Agent's Anchor traits contradicts an Attribute of their Power, in its
 
 The Power questions the Agent. The player may lie to hide that trait. The lie may hold, but it may also come back later, heavier. If one of their Bond traits forbids them to lie, the contradiction is revealed at once, unless they override it before their Power itself.
 
+A truth that covers a lie does not protect from it. A true sentence of which the other could only understand the false meaning, a mental reservation: that is already overriding. The Agent may plead it before their Power; depending on what the Power is, it sees through it or not, and if it does, it is the lie beneath that it sees.
+
 If the contradiction is revealed, the Agent has three paths:
 
 - **give up** that trait, of their own free will;
@@ -406,7 +410,18 @@ The transformation succeeds if the player finds **how the Power can change witho
 
 This is not a contest of eloquence but a puzzle, and the whole table can help solve it. These are often the strongest moments of a campaign.
 
+To look for it, the table can try a few **forms** and see which one passes both criteria, rather than inventing from scratch:
+
+- **Narrow the scope**: the Attribute remains true, but reaches less far. *Cannot lie* becomes *My Voice cannot lie*: what passes through the Archangel's Voice is always true, what the Agent says as a human is their own.
+- **Change the manner**: the Power protects the same thing in another way. *Neither dies nor lives* becomes *The lineage does not die, it is passed on*: keeping becomes passing on (see the example below).
+- **Add a condition**: the Attribute holds, except in a specific case. *Can create nothing new* becomes *Creates nothing the dead have not lived*: the Memory of the Dead can carry a new lament, as long as it comes from what has been.
+- **Shift the subject**: what the Attribute said of the Power passes to what it touches. *Decides alone* becomes *Nothing is decided without it*: the Crown allows deliberation, but keeps the last word.
+
+Other forms exist; these are often enough to get the table moving again.
+
 If the transformation succeeds, the Attribute is rewritten, and the change affects all of the Power's Agents. The Agent's trait may then pass into the Bond, as with an extension.
+
+If the world does not yet carry the novelty, the Power may still accept, but not without a price: the Agent answers for what the change brings about, until the world has caught up with it. An Archangel who consents to its angels lying to humans holds its Agent responsible: they will answer for those angels' first lies.
 
 Otherwise, the request most often ends with the loss of a Bond trait.
 

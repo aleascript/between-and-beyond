@@ -104,7 +104,7 @@ Ces possibilités sont inscrites dans le **portrait de l'Agent** sous forme de t
 
 Un trait n'apporte pas automatiquement un dé. Il indique d'abord ce qui est vrai et ce qui est possible dans la fiction.
 
-Un trait peut aussi **interdire** : un Ange *ne peut mentir*, le fer froid brûle une fée. Le joueur peut passer outre, mais à ses risques et périls : ce que cela coûte dépend du trait et de la Puissance — une douleur, une marque, une dette — et sa Puissance pourra le lui rappeler lors d'un [moment de Présence](#la-présence).
+Un trait peut aussi **interdire** : un Ange *ne peut mentir*, le fer froid brûle une fée. Le joueur peut passer outre, mais à ses risques et périls. Ce que cela coûte dépend du trait et de la Puissance, et s'alourdit s'il recommence : d'abord le corps, une douleur ou une marque ; puis une dette envers sa Puissance ; enfin un trait de son Lien, que sa Puissance pourra lui retirer lors d'un [moment de Présence](#la-présence).
 
 ### Les Mises : ce qui compte ici
 
@@ -119,6 +119,8 @@ Un même trait peut donc simplement rendre une action possible dans une scène, 
 Chaque Mise joue en faveur de l'une des deux issues.
 
 Une même raison ne compte qu'une fois. *Guerrier exceptionnel*, *entraîné depuis l'enfance* et *vétéran de cent combats* ne forment pas automatiquement trois Mises si, pour cette résolution, ces trois faits disent simplement la même chose.
+
+Une raison d'agir n'est pas une Mise. Être en mission explique pourquoi un Agent agit ; cela ne pèse pas sur l'issue. *Voix de l'Archange* compte pour faire céder quelqu'un, pas parce que l'Archange a envoyé l'Agent.
 
 Quand plus personne ne voit immédiatement autre chose qui compte sans répéter ce qui est déjà posé, on résout.
 
@@ -199,7 +201,7 @@ Chaque trait du [portrait d'un Agent](#le-portrait-dun-agent) a une **provenance
 
 Si c'est la Puissance qui rend la chose possible, le trait relève du Lien ; sinon, il appartient à un Ancrage. La provenance est fixée avec le trait et peut changer si la fiction le transforme.
 
-Une même action peut souvent passer par l'un ou par l'autre : barrer une porte de sa seule présence, ou de la lumière de son Archange. C'est alors le joueur qui choisit par où elle passe, y compris pour une Mise tirée de la situation plutôt que d'un trait. Une Mise du Lien se remarque : c'est la Puissance qui passe, et ceux qui en sont témoins s'en souviennent.
+Une même action peut souvent passer par l'un ou par l'autre : barrer une porte de sa seule présence, ou de la lumière de son Archange. C'est alors le joueur qui choisit par où elle passe, y compris pour une Mise tirée de la situation plutôt que d'un trait. Une Mise du Lien se remarque : c'est la Puissance qui passe, et ceux qui en sont témoins s'en souviennent. Cela vaut aussi pour une perception : l'Ange qui sent le mal va droit où il se cache, et on le voit faire.
 
 Les Mises tirées de ces traits sont des **Mises du Lien** ou des **Mises d'Ancrage**. Des dés de deux couleurs aident à les distinguer.
 
@@ -385,6 +387,8 @@ L'un des traits d'Ancrage de l'Agent contredit un Attribut de sa Puissance, dans
 
 La Puissance questionne l'Agent. Le joueur peut mentir pour cacher ce trait. Le mensonge peut tenir, mais il peut aussi revenir plus tard, plus lourd. Si un trait de son Lien lui interdit de mentir, la contradiction est révélée d'office, à moins qu'il ne passe outre devant sa Puissance elle-même.
 
+Une vérité qui couvre un mensonge n'en protège pas. Une phrase vraie dont l'autre ne pouvait comprendre que le sens faux, une restriction mentale, c'est déjà passer outre. L'Agent peut la plaider devant sa Puissance ; selon ce qu'elle est, elle la perce ou non, et si elle la perce, c'est le mensonge qu'elle voit dessous.
+
 Si la contradiction est révélée, l'Agent a trois voies :
 
 - **abandonner** ce trait, de son plein gré ;
@@ -406,7 +410,18 @@ La transformation réussit si le joueur trouve **comment la Puissance peut chang
 
 Ce n'est pas un concours d'éloquence mais une énigme, et toute la table peut aider à la résoudre. Ce sont souvent les moments les plus forts d'une campagne.
 
+Pour la chercher, la table peut essayer quelques **formes** et voir laquelle passe les deux critères, plutôt que d'inventer de zéro :
+
+- **Restreindre le domaine** : l'Attribut reste vrai, mais moins loin. *Ne peut mentir* devient *Ma Voix ne peut mentir* : ce qui passe par la Voix de l'Archange est toujours vrai, ce que l'Agent dit en homme lui appartient.
+- **Changer la manière** : la Puissance protège la même chose autrement. *Ne meurt pas, ne vit pas* devient *La lignée ne meurt pas, elle se transmet* : garder devient transmettre (voir l'exemple ci-dessous).
+- **Ajouter une condition** : l'Attribut tient, sauf dans un cas précis. *Ne peut rien créer de nouveau* devient *Ne crée rien que les morts n'aient vécu* : la Mémoire des morts peut porter une complainte nouvelle, pourvu qu'elle vienne de ce qui a été.
+- **Déplacer le sujet** : ce que l'Attribut disait de la Puissance passe à ce qu'elle touche. *Décide seule* devient *Rien ne se décide sans elle* : la Couronne admet qu'on délibère, mais garde le dernier mot.
+
+D'autres formes existent ; celles-ci suffisent souvent à remettre la table en mouvement.
+
 Si la transformation réussit, l'Attribut est réécrit, et ce changement touche tous les Agents de la Puissance. Le trait de l'Agent peut alors passer au Lien, comme lors d'une extension.
+
+Si le monde ne porte pas encore la nouveauté, la Puissance peut tout de même accepter, mais pas sans prix : l'Agent répond de ce que le changement produit, tant que le monde ne l'a pas rattrapé. Un Archange qui consent à ce que ses anges mentent aux hommes en tient son Agent pour responsable : il répondra de leurs premiers mensonges.
 
 Sinon, la demande se solde le plus souvent par la perte d'un trait du Lien.
 
