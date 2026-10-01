@@ -30,6 +30,8 @@ Du côté humain, cette nécessité produit des figures capables de rendre pensa
 
 Du côté de la Puissance, l'Agent est ce par quoi quelque chose d'elle peut devenir présent à une échelle qui n'est pas la sienne.
 
+Le nom des deux figures dit déjà leur rapport. Aristote distinguait ce qui est *en puissance* (*dunamis*), ce qui peut être, de ce qui est *en acte* (*energeia*) ; l'*agent*, du latin *agere*, est celui qui agit. **La Puissance peut, l'Agent agit.** C'est pourquoi deux Puissances ne s'affrontent jamais directement : des possibles ne se heurtent pas, seuls des actes se rencontrent.
+
 Cette présence ne peut cependant pas être une copie intacte de la Puissance. En devenant local, situé et particulier, l'Agent rencontre ce que sa Puissance ne contient pas entièrement : des individus, des sociétés, d'autres Agents, des environnements, des événements, le hasard.
 
 Il devient autre.

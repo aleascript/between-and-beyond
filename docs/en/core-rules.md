@@ -8,9 +8,15 @@ description: The common rules shared by every Horizon.
 
 The player characters are **Agents** bound to **Powers** that transcend them.
 
-> **A Power becomes present in the world through its Agents.**
+> **The Power can; the Agent acts.**
 
-A Power does not need to be a person, command its Agents, or even possess an intelligible will. An Agent is an Agent because a Bond lets something of the Power pass through them. The exact nature of that Bond depends on the Horizon and the Power: service, lineage, incarnation, pact, creation, debt, possession, inheritance, or any other relationship established by the game world.
+This is the very definition of an Agent: a Power becomes present in the world through its Agents. It gives what is possible; they bring it into act. Three things follow, for the whole game:
+
+- a Power never enters a resolution itself: what acts for it is resolved in its place;
+- two Powers never confront each other directly: the Thunder does not confront Technology, but a child of the god can confront an Artificer;
+- one only stands before a Power during a [moment of Presence](#presence), where nothing is acted: there are neither dice nor Bets.
+
+A Power does not need to be a person, command its Agents, or even possess an intelligible will: to be able is not to will. An Agent is an Agent because a Bond lets something of the Power pass through them. The exact nature of that Bond depends on the Horizon and the Power: service, lineage, incarnation, pact, creation, debt, possession, inheritance, or any other relationship established by the game world.
 
 An Agent normally serves a single Power. The game does not forbid serving two, but it must be justified in the fiction, and hidden from each of them, which is no easy matter during [moments of Presence](#presence).
 
@@ -36,7 +42,7 @@ Its portrait contains a small number of distinct **Attributes** that state what 
 
 These Attributes are not a list of bonuses. They describe a relatively stable whole. Changing an Attribute of a Power means that the Power itself has been transformed.
 
-Most of the time, a Power does not enter a resolution directly: its Agents, avatars, or other manifestations become present in the world instead. The Power's Attributes then help establish what passes through them.
+A Power never enters a resolution itself: it can, its Agents act. Its Attributes help establish what passes through them.
 
 Only a being already bound to a Power can find themselves face to face with that whole, during a [moment of Presence](#presence).
 
@@ -65,6 +71,16 @@ A Sylvan is bound to the old oak by the ford. Their Bond carries *Dies if the oa
 Their Anchor *Grew up near the village* carries *Knows the woodcutters by name* and *Keeps a path open for the children*. That last trait contradicts *Has no paths*: sooner or later, the Wild will notice.
 
 :::
+
+### Avatars
+
+An **avatar** is a Power incarnate: an Agent with no Anchor. Their portrait has only the Bond side; the Bond is the incarnation itself, and its traits come from the Attributes.
+
+Nothing holds them in the world, and nothing in them becomes: all their Bets are Bond Bets. Against humans, they have the full certainty of their Power. Against an Agent who commits their Bond, they lose it entirely, while the Agent keeps the Becoming of their Anchors: it is through what they have become in contact with the world that Agents can prevail over a Power incarnate.
+
+An avatar can be defeated, even killed. The Power cannot: it endures, and can take flesh again.
+
+An avatar knows no moment of Presence: they are the Power. If they acquire an Anchor, they cease to be an avatar and become an Agent, since something now holds them in the world.
 
 ## Playing
 
@@ -248,13 +264,11 @@ Later, a Demon steps in and also commits Bond Bets. This time, both Agents' Bond
 
 ## Powers Do Not Confront One Another Directly
 
-A Power is not normally a directly accessible protagonist in a scene. It becomes present through its Agents, avatars, signs, institutions, or other manifestations established by the Horizon.
+The Power can; the Agent acts: **two Powers are never the two direct opponents of the same resolution.**
 
-**Two Powers are never the two direct opponents of the same resolution.**
+When Powers enter into conflict, their opposition must become present in the world: through their Agents and their [avatars](#avatars), but also through beings bound to them, places, signs, institutions, or other forms of mediation established by the Horizon.
 
-When Powers enter into conflict, their opposition must become present in the world: through their Agents, avatars, beings bound to them, places, phenomena, or other forms of mediation.
-
-If the characters believe they are directly confronting a Power outside their own Bond, they are actually confronting whatever makes it present at that place and moment. That manifestation receives the appropriate nature — most often Agent — and is resolved normally.
+If the characters believe they are directly confronting a Power outside their own Bond, they are actually confronting whatever makes it present at that place and moment. Whatever acts receives the appropriate nature — most often Agent, and an avatar is one — and is resolved normally. Even defeated, it leaves the Power intact.
 
 ## Different Natures in the Same Resolution
 

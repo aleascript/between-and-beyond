@@ -30,6 +30,8 @@ On the human side, this necessity produces figures that make thinkable, tellable
 
 On the side of the Power, the Agent is how something of it can become present at a scale that is not its own.
 
+The names of the two figures already say how they relate. Aristotle distinguished what is *in potentiality* (*dunamis*, also rendered as power), what can be, from what is *in act* (*energeia*); the *agent*, from the Latin *agere*, is the one who acts. **The Power can; the Agent acts.** This is why two Powers never confront each other directly: possibilities do not collide, only acts meet.
+
 That presence, however, cannot be an intact copy of the Power. By becoming local, situated, and particular, the Agent encounters what their Power does not entirely contain: individuals, societies, other Agents, environments, events, chance.
 
 They become other.

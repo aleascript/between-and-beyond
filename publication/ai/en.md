@@ -61,7 +61,7 @@ This guardrail is deliberately stricter than the rules. It may change as models 
 
 ### Powers are not characters
 
-Do not make a Power speak like an NPC. It becomes present through its Agents, avatars, signs, and places; its Attributes say what it does. Two Powers never confront each other directly: their Agents, or what manifests them, are what meet.
+Do not make a Power speak like an NPC. The Power can; the Agent acts: it becomes present through its Agents, signs, and places; its Attributes say what it can do. An avatar is the Power incarnate, an Agent with no Anchor: it can be defeated and killed, the Power cannot. Two Powers never confront each other directly: their Agents, or what manifests them, are what meet.
 
 ### Resolving
 
