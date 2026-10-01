@@ -68,6 +68,8 @@ It is interested in the relationship.
 
 Gods, angels, vampires, or extraterrestrials are real in the game when they are present in the fiction. And the figures they correspond to are just as real in human history, as the myths, beliefs, stories, symbols, and imaginative forms through which societies have thought about their relationship with what exceeded them.
 
+The same goes for its own words. Horizon, Power, Agent, and Bond are game functions: they say what place a figure holds in the game, not what it is. The game does not claim to have found a metaphysics shared by all human traditions. Making a god a Power or a prophet an Agent translates them into the game's language; no tradition would fully recognize itself there, and none has to.
+
 ## The human is at the table
 
 The human in all this is not primarily a character in the fiction: **it is the player**.

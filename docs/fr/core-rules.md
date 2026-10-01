@@ -238,7 +238,9 @@ Faire appel au Lien reste un choix du joueur, mais il se fait dans la fiction : 
 
 Ce choix se fait en connaissance de cause. Avant le jet, le MJ signale les conséquences importantes que la manière de la Puissance rend prévisibles, ou rappelle au moins que, si l'Agent l'emporte, la Puissance portera une part du résultat.
 
-Le tiraillement de l'Agent naît de ce choix, sans jauge ni morale. Le Lien est fiable, mais il n'est pas à lui. Ce qui l'ancre dans le monde est incertain, mais lui appartient.
+Le tiraillement de l'Agent naît de ce choix, sans jauge ni morale :
+
+> **Le Lien est fiable, mais il n'est pas à lui. Ce qui l'ancre dans le monde est incertain, mais lui appartient.**
 
 #### Face à un autre Agent
 

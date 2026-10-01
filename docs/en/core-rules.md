@@ -238,7 +238,9 @@ Calling on the Bond remains the player's choice, but it is made in the fiction: 
 
 That choice is made knowingly. Before the roll, the GM points out the significant consequences that the Power's manner makes foreseeable, or at least reminds the player that, if the Agent prevails, the Power will carry part of the result.
 
-The Agent's tension arises from this choice, without a gauge or a morality. The Bond is reliable, but it is not theirs. What anchors them in the world is uncertain, but it belongs to them.
+The Agent's tension arises from this choice, without a gauge or a morality:
+
+> **The Bond is reliable, but it is not theirs. What anchors them in the world is uncertain, but it belongs to them.**
 
 #### Against Another Agent
 
