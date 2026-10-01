@@ -111,7 +111,7 @@ Three paths make long timescales playable.
 
 A campaign across the ages meets great events: the fall of Rome, the plague, the storming of the Bastille. The game suggests making them a secret history, one with its tragic side: History cannot be overturned. The Agents do not keep the plague out of the city; they decide what happens at the gate of the lazaretto. They act at the margins or in the shadows, and give known events another meaning.
 
-A table may prefer a history that branches. It is one of the choices to make before playing (see [Tuning the Game](tuning.md#timescales)).
+A table may prefer a history that branches. Between the two, it can also keep the event and let its toll shift: the plague enters the city, but what the Agents do changes who dies, how many, and how. It is one of the choices to make before playing (see [Tuning the Game](tuning.md#timescales)).
 
 ## The Horizons
 

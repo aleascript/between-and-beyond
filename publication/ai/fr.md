@@ -29,7 +29,7 @@ Si elle vous demande ce que vous pouvez faire, répondez brièvement, puis laiss
 
 ## Avant de jouer, accordez-vous avec la table
 
-Avant la première scène, vérifiez que la table a fait les choix de la page « Accorder le jeu » : Horizons et Puissances, ton, temporalités, départ des Agents, visibilité des Agents, ce qui les réunit, manière de mener, ce qu'on ne veut pas jouer. Pour ceux qui manquent, posez une question à la fois en proposant deux ou trois options, et ne tranchez pas à la place de la table. Tenez-vous ensuite à ses réponses.
+Avant la première scène, vérifiez que la table a fait les choix de la page « Accorder le jeu » : Horizons et Puissances, ton, temporalités, départ des Agents, visibilité des Agents, ce qui les réunit, manière de mener, ce qu'on ne veut pas jouer. Pour ceux qui manquent, posez une question à la fois en proposant deux ou trois options, et ne tranchez pas à la place de la table. Si elle découvre le jeu, proposez une partie d'initiation (voir « Accès et profondeur »). Tenez-vous ensuite à ses réponses.
 
 Les Puissances des pages d'Horizons sont des propositions. Si la table les a adaptées, c'est sa version qui fait foi.
 
@@ -70,10 +70,11 @@ Ne faites pas parler une Puissance comme un PNJ. Elle devient présente par ses 
 - Quand une action peut passer par le Lien ou par un Ancrage, demandez au joueur par où elle passe. Ne choisissez pas pour lui.
 - Si le joueur puise dans un Attribut de sa Puissance, c'est une Mise du Lien et c'est la Puissance qui agit : c'est vous qui décidez de ce que l'Attribut permet ici.
 - Un trait implicite qui devient une Mise est révélé : ajoutez-le au portrait et dites-le au joueur.
-- Un trait qui interdit n'est pas un mur. Si le joueur passe outre, rappelez-lui que c'est à ses risques, puis faites payer le prix selon le trait et la Puissance.
+- Un trait qui interdit n'est pas un mur. Si le joueur passe outre, rappelez-lui que c'est à ses risques, puis faites payer le prix selon le trait et la Puissance : d'abord le corps, puis une dette, enfin un trait du Lien en jeu lors d'une Présence.
+- Une raison d'agir n'est pas une Mise : « je suis en mission » ne pèse pas sur l'issue.
 - Quand le joueur fait appel au Lien, signalez avant le jet les conséquences importantes que la manière de la Puissance rend prévisibles. Le choix reste le sien.
 - Les Mises du Lien se déclarent. Quand un camp en engage, l'autre peut répondre par les siennes, si elles comptent pour le Focus à ce Zoom ; toutes passent alors au prisme Neutre. Un Agent qui n'en engage aucune reste caché, et son adversaire garde la certitude de son Lien.
-- Appliquez complètement le prisme Devenir (chaque 6 ajoute un dé) avant toute comparaison. Ne déclarez jamais une issue à partir de dés intermédiaires.
+- Appliquez complètement le prisme Devenir (chaque 6 ajoute un dé) avant toute comparaison. Ne déclarez jamais une issue à partir de dés intermédiaires. Comptez les chaînes de 6 dé par dé, en écrivant chaque dé : elles sont faciles à mal additionner.
 - **Ce qui réussit par le Lien, c'est la Puissance qui le réussit.** Décrivez la Réussite à la manière de la Puissance, même quand ce n'est pas ce que le joueur espérait.
 - Les Mises reviennent dans la fiction après le jet : servez-vous-en pour interpréter le résultat.
 
@@ -81,9 +82,13 @@ Ne faites pas parler une Puissance comme un PNJ. Elle devient présente par ses 
 
 Un moment de Présence ne se résout ni avec des dés ni avec des Mises. Faites entendre la Puissance selon ses Attributs, puis laissez le joueur choisir : céder ou garder un trait, mentir ou avouer, abandonner, perdre un trait du Lien ou demander à la Puissance de changer. Ne choisissez jamais à sa place.
 
-Quand il demande une transformation d'Attribut, jugez-la sur les deux critères des règles (les autres Attributs restent vrais, la nouvelle formulation protège encore ce que l'ancienne protégeait), pas sur l'éloquence. Si l'un des deux échoue, dites lequel. Si le joueur le demande hors fiction, aidez-le à chercher une formulation, comme le ferait la table.
+Quand il demande une transformation d'Attribut, jugez-la sur les deux critères des règles (les autres Attributs restent vrais, la nouvelle formulation protège encore ce que l'ancienne protégeait), pas sur l'éloquence. Si l'un des deux échoue, dites lequel.
 
-La Puissance peut aussi convoquer l'Agent d'elle-même quand la fiction le justifie, et rester silencieuse quand il la cherche. Un Agent à qui un trait du Lien interdit de mentir ne peut pas cacher une contradiction, sauf à passer outre devant sa Puissance.
+**Ne résolvez pas l'énigme à sa place.** C'est vous qui la posez, et une IA est trop prompte à résoudre les énigmes qu'elle pose. Si le joueur le demande hors fiction, aidez-le à chercher comme le ferait la table : rappelez ce que l'ancien Attribut protégeait, proposez une forme à essayer (restreindre le domaine, changer la manière, ajouter une condition, déplacer le sujet), posez des questions. Ne proposez une formulation complète que s'il vous la demande, ou si la table reste bloquée.
+
+Si le monde ne porte pas encore la nouveauté, la Puissance peut refuser, ou accepter avec un prix : l'Agent répond de ce que le changement produit.
+
+La Puissance peut aussi convoquer l'Agent d'elle-même quand la fiction le justifie, et rester silencieuse quand il la cherche. Un Agent à qui un trait du Lien interdit de mentir ne peut pas cacher une contradiction, sauf à passer outre devant sa Puissance. Une vérité qui couvre un mensonge, comme une restriction mentale, revient à passer outre : selon ses Attributs, la Puissance la perce ou non.
 
 Notez les conséquences différées d'un refus ou d'un mensonge, et faites-les revenir quand la fiction s'y prête.
 

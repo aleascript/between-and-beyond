@@ -47,7 +47,7 @@ Adventure, tragedy, satire, horror, saga… Each Horizon says which [tones](hori
 
 ### Timescales
 
-A single age, or a campaign across the ages? Whether Agents cross time through immortality, reincarnation, or succession, and whether History can change or not: see [Timescales](horizons.md#timescales).
+A single age, or a campaign across the ages? Whether Agents cross time through immortality, reincarnation, or succession, and whether History can change, and how far: see [Timescales](horizons.md#timescales).
 
 ### The Agents' starting point
 
@@ -70,6 +70,8 @@ Who recognizes an Agent for what they are?
 - all Agents among themselves;
 - everyone, humans included.
 
+A Bond Bet gets noticed: a table can make it what reveals an Agent. Agents of the same Horizon recognize one another, for instance, but the others remain opaque as long as they commit no Bond Bet; then one senses something, without knowing what. For a Newly Arrived Agent, every Agent from elsewhere becomes a puzzle.
+
 This choice changes what it costs to reveal oneself (see [Against Another Agent](core-rules.md#against-another-agent)) and how many are among [those who know](horizons.md#those-who-know). It can also vary from one Horizon to another, or from one Power to another.
 
 ### What brings the Agents together
@@ -91,3 +93,27 @@ Each 6 adds a die, or first rerolls an odd die, then adds one: the Successes are
 ### What the table does not want to play
 
 The Horizons touch on death, faith, desire, violence, and power. Before playing, the table says what it does not want to see, or only off-screen, and anyone can say so again during play.
+
+## Access and depth
+
+The game plays as well as an adventure among friends as a reflection on what exceeds us. Elsewhere, difficulty of access is a cost one bears: a world, an age, a culture must be learned first. Here, depth is chosen before playing, without changing the rules.
+
+Several settings make it vary, independently of one another:
+
+- **the Horizon**: Nature in a fairy-tale register or the Collective today call for less culture than the Divine;
+- **the age**: a historical campaign calls for knowing the period, its figures and its quarrels; the present, almost nothing;
+- **the Agents' starting point**: Revelation is the most accessible, Newly Arrived the most demanding;
+- **the tone**: adventure leaves the questions in the background, tragedy or saga brings them closer;
+- **what is at stake in Presence**: missions and constraints, or contradictions and Attributes to transform.
+
+| | An introductory game | A demanding game |
+| --- | --- | --- |
+| Horizon | the Collective | the Divine |
+| Age | today | Marseille, 1720 |
+| Starting point | Revelation | Newly Arrived |
+| Tone | adventure | historical and picaresque |
+| Presence | missions and constraints | contradictions and transformations |
+
+An introductory game is not a watered-down version: it is the same game, leaving its questions in the background instead of placing them at the center. In either one, nobody needs to be a philosopher: action is enough. Depth comes from consequences, and gathers in the moments of Presence.
+
+For a historical campaign, a short sheet is better than a lecture: a dozen facts, a few figures, the quarrels of the day.

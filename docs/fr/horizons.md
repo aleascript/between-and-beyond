@@ -111,7 +111,7 @@ Trois voies permettent de jouer des temporalités longues.
 
 Une campagne à travers les âges croise de grands événements : la chute de Rome, la peste, la prise de la Bastille. Le jeu propose d'en faire une histoire secrète, qui a sa part tragique : l'Histoire ne se renverse pas. Les Agents n'empêchent pas la peste d'entrer dans la ville ; ils décident de ce qui se passe à la porte du lazaret. Ils agissent à la marge ou dans l'ombre, et donnent aux événements connus un autre sens.
 
-Une table peut préférer une histoire qui bifurque. C'est l'un des choix à faire avant de jouer (voir [Accorder le jeu](tuning.md#les-temporalités)).
+Une table peut préférer une histoire qui bifurque. Entre les deux, elle peut aussi garder l'événement et laisser bouger son bilan : la peste entre dans la ville, mais ce que font les Agents change qui meurt, combien, et comment. C'est l'un des choix à faire avant de jouer (voir [Accorder le jeu](tuning.md#les-temporalités)).
 
 ## Les Horizons
 
