@@ -25,7 +25,7 @@ Read [docs/fr/purpose.md](docs/fr/purpose.md), [docs/fr/core-rules.md](docs/fr/c
 
 The Horizon *le Pouvoir* is **Authority** in English (id `authority`), since *Power* already translates *Puissance*.
 
-Two Powers never confront each other directly: their Agents do. An Agent can extend their Power by bringing it a novelty it did not contain; an Anchor trait can then pass into the Bond, under an existing or a new Attribute (the Anchor itself stays in the world).
+**The Power can; the Agent acts** (Aristotle's *dunamis* and *energeia*, in [docs/fr/purpose.md](docs/fr/purpose.md)): this is the definition of an Agent, and the rules open on it. Two Powers never confront each other directly: their Agents do. An **avatar** is a Power incarnate, an Agent with no Anchor; it can be defeated and killed, the Power cannot. An Agent can extend their Power by bringing it a novelty it did not contain; an Anchor trait can then pass into the Bond, under an existing or a new Attribute (the Anchor itself stays in the world).
 
 ## Design principles
 
