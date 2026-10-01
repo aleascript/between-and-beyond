@@ -68,6 +68,8 @@ Il s'intéresse à la relation.
 
 Dieux, anges, vampires ou extraterrestres sont réels dans le jeu lorsqu'ils sont présents dans la fiction. Et les figures auxquelles ils correspondent sont également réelles dans l'histoire humaine, en tant que mythes, croyances, récits, symboles et formes imaginaires par lesquels des sociétés ont pensé leur rapport à ce qui les dépassait.
 
+Il en va de même de ses propres mots. Horizon, Puissance, Agent ou Lien sont des fonctions de jeu : ils disent la place qu'une figure occupe dans le jeu, pas ce qu'elle est. Le jeu ne prétend pas avoir trouvé une métaphysique commune à toutes les traditions humaines. Faire d'un dieu une Puissance ou d'un prophète un Agent, c'est les traduire dans la langue du jeu ; aucune tradition ne s'y reconnaîtrait entièrement, et aucune n'a à le faire.
+
 ## L'humain est à la table
 
 L'humain de ce propos n'est pas d'abord un personnage de la fiction : **c'est le joueur**.
