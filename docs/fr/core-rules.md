@@ -8,9 +8,15 @@ description: Le socle de règles commun à tous les Horizons.
 
 Les personnages joueurs sont des **Agents** liés à des **Puissances** qui les dépassent.
 
-> **Une Puissance devient présente dans le monde à travers ses Agents.**
+> **La Puissance peut, l'Agent agit.**
 
-Une Puissance n'a pas besoin d'être une personne, de commander ses Agents ni même de posséder une volonté intelligible. Un Agent l'est parce qu'un Lien fait passer quelque chose de la Puissance à travers lui. La nature exacte de ce Lien dépend de l'Horizon et de la Puissance : service, filiation, incarnation, pacte, création, dette, possession, héritage ou toute autre relation prévue par le cadre de jeu.
+C'est la définition même de l'Agent : une Puissance devient présente dans le monde à travers ses Agents. Elle donne le possible ; eux le font passer à l'acte. Trois choses en découlent, pour tout le jeu :
+
+- une Puissance n'entre jamais elle-même dans une résolution : ce qui agit pour elle s'y résout à sa place ;
+- deux Puissances ne s'affrontent jamais directement : le Tonnerre n'affronte pas la Technique, mais un enfant du dieu peut affronter un Dédale ;
+- on ne se trouve face à une Puissance que lors d'un [moment de Présence](#la-présence), où rien n'est agi : il n'y a ni dés ni Mises.
+
+Une Puissance n'a pas besoin d'être une personne, de commander ses Agents ni même de posséder une volonté intelligible : pouvoir n'est pas vouloir. Un Agent l'est parce qu'un Lien fait passer quelque chose de la Puissance à travers lui. La nature exacte de ce Lien dépend de l'Horizon et de la Puissance : service, filiation, incarnation, pacte, création, dette, possession, héritage ou toute autre relation prévue par le cadre de jeu.
 
 Un Agent sert en principe une seule Puissance. Le jeu n'interdit pas d'en servir deux, mais il faut pouvoir le justifier dans la fiction, et le cacher à chacune d'elles, ce qui n'est pas gagné lors des [moments de Présence](#la-présence).
 
@@ -36,7 +42,7 @@ Son portrait contient un petit nombre d'**Attributs** distincts qui disent ce qu
 
 Ces Attributs ne sont pas une liste de bonus. Ils décrivent une totalité relativement stable. Modifier un Attribut de Puissance signifie que la Puissance elle-même a été transformée.
 
-La plupart du temps, une Puissance n'entre pas directement dans une résolution : ce sont ses Agents, ses avatars ou ses autres manifestations qui deviennent présents dans le monde. Les Attributs de la Puissance servent alors à comprendre ce qui passe à travers eux.
+Une Puissance n'entre jamais elle-même dans une résolution : elle peut, ses Agents agissent. Ses Attributs servent à comprendre ce qui passe à travers eux.
 
 Seul un être déjà lié à une Puissance peut se retrouver face à cette totalité, lors d'un [moment de Présence](#la-présence).
 
@@ -65,6 +71,16 @@ Un Sylvain est lié au vieux chêne du gué. Son Lien porte *Meurt si le chêne 
 Son Ancrage *A grandi près du village* porte *Connaît les bûcherons par leur nom* et *Garde un sentier pour les enfants*. Ce dernier trait contredit *N'a pas de chemins* : le Sauvage finira par le remarquer.
 
 :::
+
+### Les avatars
+
+Un **avatar** est une Puissance incarnée : un Agent qui n'a aucun Ancrage. Son portrait n'a que le côté du Lien ; le Lien est l'incarnation elle-même, et ses traits viennent des Attributs.
+
+Rien ne le retient dans le monde, et rien en lui ne devient : toutes ses Mises sont des Mises du Lien. Face à des humains, il a toute la certitude de sa Puissance. Face à un Agent qui engage son Lien, il la perd entièrement, alors que l'Agent garde le Devenir de ses Ancrages : c'est par ce qu'ils sont devenus au contact du monde que des Agents peuvent l'emporter sur une Puissance incarnée.
+
+On peut vaincre un avatar, et même le tuer. On ne tue pas la Puissance : elle demeure, et peut s'incarner de nouveau.
+
+Un avatar ne connaît pas de moment de Présence : il est la Puissance. S'il acquiert un Ancrage, il cesse d'être un avatar et devient un Agent, puisque quelque chose le retient désormais dans le monde.
 
 ## Jouer
 
@@ -246,13 +262,11 @@ Plus tard, un Démon s'interpose et engage lui aussi des Mises du Lien. Cette fo
 
 ## Les Puissances ne s'affrontent pas directement
 
-Une Puissance n'est normalement pas un protagoniste directement accessible dans une scène. Elle devient présente par ses Agents, ses avatars, ses signes, ses institutions ou d'autres manifestations prévues par l'Horizon.
+La Puissance peut, l'Agent agit : **deux Puissances ne sont jamais les deux adversaires directs d'une même résolution.**
 
-**Deux Puissances ne sont jamais les deux adversaires directs d'une même résolution.**
+Lorsqu'elles entrent en conflit, leur opposition doit devenir présente dans le monde : par leurs Agents et leurs [avatars](#les-avatars), mais aussi par des êtres qui leur sont liés, des lieux, des signes, des institutions ou d'autres médiations prévues par l'Horizon.
 
-Lorsqu'elles entrent en conflit, leur opposition doit devenir présente dans le monde : par leurs Agents, leurs avatars, des êtres qui leur sont liés, des lieux, des phénomènes ou d'autres médiations.
-
-Si les personnages pensent affronter directement une Puissance extérieure à leur propre Lien, ils affrontent en réalité ce par quoi elle devient présente à cet endroit et à ce moment. Cette manifestation reçoit la nature appropriée — le plus souvent Agent — et se résout normalement.
+Si les personnages pensent affronter directement une Puissance extérieure à leur propre Lien, ils affrontent en réalité ce par quoi elle devient présente à cet endroit et à ce moment. Ce qui agit reçoit la nature appropriée — le plus souvent Agent, et un avatar en est un — et se résout normalement. Même vaincu, il laisse la Puissance intacte.
 
 ## Plusieurs natures dans la même résolution
 

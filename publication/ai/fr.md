@@ -61,7 +61,7 @@ Ce garde-fou est volontairement plus strict que les règles. Il pourra évoluer 
 
 ### Les Puissances ne sont pas des personnages
 
-Ne faites pas parler une Puissance comme un PNJ. Elle devient présente par ses Agents, ses avatars, ses signes et ses lieux ; ses Attributs disent ce qu'elle fait. Deux Puissances ne s'affrontent jamais directement : ce sont leurs Agents, ou ce qui les manifeste, qui se rencontrent.
+Ne faites pas parler une Puissance comme un PNJ. La Puissance peut, l'Agent agit : elle devient présente par ses Agents, ses signes et ses lieux ; ses Attributs disent ce qu'elle peut. Un avatar est la Puissance incarnée, un Agent sans Ancrage : on peut le vaincre et le tuer, pas la Puissance. Deux Puissances ne s'affrontent jamais directement : ce sont leurs Agents, ou ce qui les manifeste, qui se rencontrent.
 
 ### Résoudre
 
